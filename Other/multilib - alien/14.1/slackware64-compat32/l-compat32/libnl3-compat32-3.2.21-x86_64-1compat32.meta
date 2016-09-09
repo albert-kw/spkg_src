@@ -1,0 +1,17 @@
+PACKAGE NAME:  libnl3-compat32-3.2.21-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  176 K
+PACKAGE SIZE (uncompressed):  640 K
+PACKAGE DESCRIPTION:
+libnl3-compat32: libnl3-compat32 (Netlink Protocol Library Suite version 3)
+libnl3-compat32:
+libnl3-compat32: The libnl suite is a collection of libraries providing APIs to 
+libnl3-compat32: netlink protocol based Linux kernel interfaces.
+libnl3-compat32: Netlink is a IPC mechanism primarily between the kernel and user 
+libnl3-compat32: space processes. It was designed to be a more flexible successor 
+libnl3-compat32: to ioctl to provide mainly networking related kernel configuration 
+libnl3-compat32: and monitoring interfaces. 
+libnl3-compat32:
+libnl3-compat32: Homepage: http://www.infradead.org/~tgr/libnl/
+libnl3-compat32: This package contains 32-bit compatibility binaries.
+

@@ -1,0 +1,11 @@
+atk-compat32: atk-compat32 (accessibility functions library)
+atk-compat32:
+atk-compat32: atk-compat32 is a library of accessibility functions that is used by the
+atk-compat32: GTK+-2 toolkit.
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32: This package contains 32-bit compatibility binaries.

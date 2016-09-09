@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libSM-compat32-1.2.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-20 02:07 ./
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/
+drwxr-xr-x root/root         0 2013-09-20 02:07 usr/doc/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/doc/libSM-1.2.2/
+-rw-r--r-- root/root      2265 2013-09-08 08:05 usr/doc/libSM-1.2.2/COPYING
+-rw-r--r-- root/root       206 2013-09-08 08:05 usr/doc/libSM-1.2.2/AUTHORS
+drwxr-xr-x root/root         0 2013-09-20 02:07 usr/lib/
+-rwxr-xr-x root/root       929 2013-09-20 02:07 usr/lib/libSM.la
+-rwxr-xr-x root/root     27836 2013-09-20 02:07 usr/lib/libSM.so.6.0.1
+drwxr-xr-x root/root         0 2013-09-20 02:07 usr/lib/pkgconfig/
+-rw-r--r-- root/root       232 2013-09-20 02:07 usr/lib/pkgconfig/sm.pc
+drwxr-xr-x root/root         0 2013-09-21 12:31 install/
+-rw-r--r-- root/root       166 2013-09-21 12:31 install/doinst.sh
+-rw-r--r-- root/root       923 2013-09-21 12:31 install/slack-desc
+
+

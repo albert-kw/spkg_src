@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libidn-compat32-1.33-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-08-12 14:14 ./
+drwxr-xr-x root/root         0 2016-08-12 14:14 install/
+-rw-r--r-- root/root       178 2016-08-12 14:14 install/doinst.sh
+-rw-r--r-- root/root       963 2016-08-12 14:14 install/slack-desc
+drwxr-xr-x root/root         0 2016-08-12 14:14 usr/
+drwxr-xr-x root/root         0 2016-07-28 20:01 usr/lib/
+drwxr-xr-x root/root         0 2016-07-28 20:01 usr/lib/pkgconfig/
+-rw-r--r-- root/root       807 2016-07-28 20:01 usr/lib/pkgconfig/libidn.pc
+-rw-r--r-- root/root    230146 2016-07-28 20:01 usr/lib/libidn.a
+-rwxr-xr-x root/root    204520 2016-07-28 20:01 usr/lib/libidn.so.11.6.16
+-rwxr-xr-x root/root       928 2016-07-28 20:01 usr/lib/libidn.la
+drwxr-xr-x root/root         0 2016-08-12 14:14 usr/bin/
+drwxr-xr-x root/root         0 2016-08-12 14:14 usr/bin/32/
+-rwxr-xr-x root/root     28824 2016-07-28 20:01 usr/bin/32/idn
+drwxr-xr-x root/root         0 2016-07-28 20:01 usr/doc/
+drwxr-xr-x root/root         0 2016-08-12 14:14 usr/doc/libidn-1.33/
+-rw-r--r-- root/root     18092 2012-04-27 10:18 usr/doc/libidn-1.33/COPYINGv2
+-rw-r--r-- root/root     26530 2012-04-27 10:18 usr/doc/libidn-1.33/COPYING.LESSERv2
+-rw-r--r-- root/root      7651 2012-04-27 10:18 usr/doc/libidn-1.33/COPYING.LESSERv3
+-rw-r--r-- root/root     50405 2016-01-14 14:42 usr/doc/libidn-1.33/AUTHORS
+-rw-r--r-- root/root      2956 2016-01-14 14:42 usr/doc/libidn-1.33/THANKS
+-rw-r--r-- root/root      1255 2015-03-02 10:38 usr/doc/libidn-1.33/COPYING
+-rw-r--r-- root/root     35147 2012-04-27 10:18 usr/doc/libidn-1.33/COPYINGv3
+
+

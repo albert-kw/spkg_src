@@ -1,0 +1,17 @@
+PACKAGE NAME:  qt-compat32-4.8.7-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  28600 K
+PACKAGE SIZE (uncompressed):  117310 K
+PACKAGE DESCRIPTION:
+qt-compat32: Qt (a multi-platform C++ graphical user interface toolkit)
+qt-compat32:
+qt-compat32: Qt is a complete and well-developed object-oriented framework for
+qt-compat32: developing graphical user interface (GUI) applications using C++.
+qt-compat32:
+qt-compat32: Homepage:  http://qt-project.org/
+qt-compat32:
+qt-compat32:
+qt-compat32:
+qt-compat32:
+qt-compat32: This package contains 32-bit compatibility binaries.
+

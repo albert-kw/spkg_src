@@ -1,0 +1,17 @@
+PACKAGE NAME:  libxml2-compat32-2.9.4-x86_64-2_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  620 K
+PACKAGE SIZE (uncompressed):  2170 K
+PACKAGE DESCRIPTION:
+libxml2-compat32: libxml2-compat32 (XML parser library)
+libxml2-compat32:
+libxml2-compat32: Libxml2 is the XML C parser library and toolkit.  XML itself is a
+libxml2-compat32: metalanguage to design markup languages  -- i.e. a text language where
+libxml2-compat32: structures are added to the content using extra "markup" information
+libxml2-compat32: enclosed between angle brackets.  HTML is the most well-known markup
+libxml2-compat32: language.  Though the library is written in C, a variety of language
+libxml2-compat32: bindings make it available in other environments.
+libxml2-compat32:
+libxml2-compat32:
+libxml2-compat32: This package contains 32-bit compatibility binaries.
+

@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXScrnSaver-compat32-1.2.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2012-05-04 21:43 ./
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/
+drwxr-xr-x root/root         0 2012-05-04 21:43 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/doc/libXScrnSaver-1.2.2/
+-rw-r--r-- root/root      2591 2012-03-08 06:05 usr/doc/libXScrnSaver-1.2.2/COPYING
+drwxr-xr-x root/root         0 2012-05-04 21:43 usr/lib/
+-rwxr-xr-x root/root       997 2012-05-04 21:43 usr/lib/libXss.la
+drwxr-xr-x root/root         0 2012-05-04 21:43 usr/lib/pkgconfig/
+-rw-r--r-- root/root       248 2012-05-04 21:43 usr/lib/pkgconfig/xscrnsaver.pc
+-rwxr-xr-x root/root      8964 2012-05-04 21:43 usr/lib/libXss.so.1.0.0
+drwxr-xr-x root/root         0 2013-02-27 19:56 install/
+-rw-r--r-- root/root       172 2013-02-27 19:56 install/doinst.sh
+-rw-r--r-- root/root      1048 2013-02-27 19:56 install/slack-desc
+
+

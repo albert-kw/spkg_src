@@ -1,0 +1,11 @@
+libXdmcp-compat32: libXdmcp-compat32 (X Display Manager Control Protocol library)
+libXdmcp-compat32:
+libXdmcp-compat32: libXdmcp-compat32 is part of X11.
+libXdmcp-compat32:
+libXdmcp-compat32: For more information about the X.Org Foundation (the providers of the
+libXdmcp-compat32: X.Org implementation of the X Window System), see their website:
+libXdmcp-compat32:
+libXdmcp-compat32: http://www.x.org
+libXdmcp-compat32:
+libXdmcp-compat32:
+libXdmcp-compat32: This package contains 32-bit compatibility binaries.

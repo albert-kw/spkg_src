@@ -1,0 +1,11 @@
+harfbuzz-compat32: harfbuzz-compat32 (OpenType text shaping engine)
+harfbuzz-compat32:
+harfbuzz-compat32: HarfBuzz is an OpenType text shaping engine.
+harfbuzz-compat32:
+harfbuzz-compat32: http://www.freedesktop.org/wiki/Software/HarfBuzz
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32: This package contains 32-bit compatibility binaries.

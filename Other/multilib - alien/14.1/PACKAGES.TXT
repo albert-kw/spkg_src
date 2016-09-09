@@ -1,0 +1,2552 @@
+PACKAGES.TXT;  Wed Aug 24 12:28:28 UTC 2016
+
+PACKAGE NAME:  compat32-tools-3.7-noarch-1alien.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+compat32-tools: compat32-tools (32bit compatibility tools for 64bit Slackware)
+compat32-tools:
+compat32-tools: The compat32-tools are a series of scripts that allow
+compat32-tools: the user to add a 32bit compatibility layer (multilib)
+compat32-tools: to 64bit Slackware.
+compat32-tools:
+compat32-tools:
+compat32-tools:
+compat32-tools:
+compat32-tools: Written by Fred Emmott and Eric Hameleers
+compat32-tools:
+
+PACKAGE NAME:  glibc-debug-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  ./debug
+PACKAGE SIZE (compressed):  5728 K
+PACKAGE SIZE (uncompressed):  40080 K
+PACKAGE DESCRIPTION:
+glibc-debug: glibc-debug (GNU C libraries with debugging symbols)
+glibc-debug:
+glibc-debug: This package contains versions of the GNU C libraries with debugging
+glibc-debug: information.  These are needed only if you wish to be able to step
+glibc-debug: through C library routines while debugging programs.  Most debugging
+glibc-debug: efforts will not require these.
+glibc-debug: To use these libraries, set LD_LIBRARY_PATH when calling the debugger:
+glibc-debug:   LD_LIBRARY_PATH=/usr/lib/debug gdb <executable>
+glibc-debug:
+glibc-debug: Or, use this approach if you need to debug a setuid binary:
+glibc-debug:   su user -c "LD_LIBRARY_PATH=/usr/lib/debug gdb <executable>"
+
+PACKAGE NAME:  gcc-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  14372 K
+PACKAGE SIZE (uncompressed):  56080 K
+PACKAGE DESCRIPTION:
+gcc: gcc (Base GCC package with C support)
+gcc:
+gcc: GCC is the GNU Compiler Collection.
+gcc:
+gcc: This package contains those parts of the compiler collection needed to
+gcc: compile C code.  Other packages add C++, Fortran, Go, Objective-C, and
+gcc: Java support to the compiler core.
+gcc:
+gcc:
+gcc:
+gcc:
+
+PACKAGE NAME:  gcc-g++-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  6312 K
+PACKAGE SIZE (uncompressed):  30100 K
+PACKAGE DESCRIPTION:
+gcc-g++: gcc-g++ (C++ for GCC)
+gcc-g++:
+gcc-g++: C++ support for the GNU Compiler Collection.
+gcc-g++:
+gcc-g++: This package contains those parts of the compiler collection needed to
+gcc-g++: compile C++ code.  The base gcc package is also required.
+gcc-g++:
+gcc-g++:
+gcc-g++:
+gcc-g++:
+gcc-g++:
+
+PACKAGE NAME:  gcc-gfortran-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  5300 K
+PACKAGE SIZE (uncompressed):  20950 K
+PACKAGE DESCRIPTION:
+gcc-gfortran: gcc-gfortran (Fortran support for GCC)
+gcc-gfortran:
+gcc-gfortran: The GNU Fortran compiler is fully compliant with the Fortran 95
+gcc-gfortran: Standard and includes legacy F77 support.  In addition, a significant
+gcc-gfortran: number of Fortran 2003 and Fortran 2008 features are implemented.
+gcc-gfortran: GNU Fortran also contains many standard and extensions and can be
+gcc-gfortran: used to run real-world programs.
+gcc-gfortran:
+gcc-gfortran: This package contains those parts of the compiler collection
+gcc-gfortran: needed to compile Fortran code.  The gcc package is also required.
+gcc-gfortran:
+
+PACKAGE NAME:  gcc-gnat-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  15208 K
+PACKAGE SIZE (uncompressed):  92300 K
+PACKAGE DESCRIPTION:
+gcc-gnat: gcc-gnat (Ada support for GCC)
+gcc-gnat:
+gcc-gnat: Ada 95 support for the GNU Compiler Collection.
+gcc-gnat:
+gcc-gnat: This package contains those parts of the compiler collection needed to
+gcc-gnat: compile Ada 95 code.  Ada95 is the object oriented successor to the
+gcc-gnat: Ada83 language.  The base gcc package is also required.
+gcc-gnat:
+gcc-gnat:
+gcc-gnat:
+gcc-gnat:
+
+PACKAGE NAME:  gcc-go-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  13412 K
+PACKAGE SIZE (uncompressed):  74850 K
+PACKAGE DESCRIPTION:
+gcc-go: gcc-go (Go support for GCC)
+gcc-go:
+gcc-go: Go is a compiled, garbage-collected, concurrent programming language
+gcc-go: developed by Google Inc.  The initial design of Go was started in
+gcc-go: September 2007 by Robert Griesemer, Rob Pike, and Ken Thompson.
+gcc-go: Rob Pike has stated that Go is being used "for real stuff" at Google.
+gcc-go: Go's "gc" compiler targets the Linux, Mac OS X, FreeBSD, OpenBSD and
+gcc-go: Microsoft Windows operating systems, and the i386, amd64, and ARM
+gcc-go: processor architectures.
+gcc-go:
+gcc-go: Homepage:  http://golang.org
+
+PACKAGE NAME:  gcc-java-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  32636 K
+PACKAGE SIZE (uncompressed):  130820 K
+PACKAGE DESCRIPTION:
+gcc-java: gcc-java (Java support for GCC)
+gcc-java:
+gcc-java: Java support for the GNU Compiler Collection.
+gcc-java:
+gcc-java: This package contains those parts of the compiler collection needed to
+gcc-java: compile programs written in the Java programming language.  The base
+gcc-java: gcc package is also required.
+gcc-java:
+gcc-java:
+gcc-java:
+gcc-java:
+
+PACKAGE NAME:  gcc-objc-4.8.2_multilib-x86_64-1alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  4344 K
+PACKAGE SIZE (uncompressed):  14800 K
+PACKAGE DESCRIPTION:
+gcc-objc: gcc-objc (Objective-C support for GCC)
+gcc-objc:
+gcc-objc: Objective-C support for the GNU Compiler Collection.
+gcc-objc:
+gcc-objc: This package contains those parts of the compiler collection needed to
+gcc-objc: compile code written in Objective-C.  Objective-C was originally
+gcc-objc: developed to add object-oriented extensions to the C language, and is
+gcc-objc: best known as the native language of the NeXT computer.
+gcc-objc:
+gcc-objc: The base gcc package is also required.
+gcc-objc:
+
+PACKAGE NAME:  glibc-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  22504 K
+PACKAGE SIZE (uncompressed):  284880 K
+PACKAGE DESCRIPTION:
+glibc: glibc (GNU C libraries)
+glibc:
+glibc: This package contains the GNU C libraries and header files.  The GNU
+glibc: C library was written originally by Roland McGrath, and is currently
+glibc: maintained by Ulrich Drepper.  Some parts of the library were
+glibc: contributed or worked on by other people.
+glibc:
+glibc: You'll need this package to compile programs.
+glibc:
+glibc:
+glibc:
+
+PACKAGE NAME:  glibc-i18n-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  10860 K
+PACKAGE SIZE (uncompressed):  225350 K
+PACKAGE DESCRIPTION:
+glibc-i18n: glibc-i18n (locale files from glibc)
+glibc-i18n:
+glibc-i18n: These files go in /usr/lib/locale and /usr/share/i18n/ to provide
+glibc-i18n: internationalization support.  You'll need this package unless you
+glibc-i18n: will be using US English only.
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+
+PACKAGE NAME:  glibc-profile-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  2104 K
+PACKAGE SIZE (uncompressed):  13180 K
+PACKAGE DESCRIPTION:
+glibc-profile: glibc-profile (GNU C libraries with profiling support)
+glibc-profile:
+glibc-profile: This package contains static versions of the GNU C libraries with 
+glibc-profile: support for profiling binaries using gprof.  gprof calculates how
+glibc-profile: much time a program spends in each routine which can suggest where
+glibc-profile: to concentrate efforts to improve performance.
+glibc-profile:
+glibc-profile: See the gprof man page for more details.
+glibc-profile:
+glibc-profile:
+glibc-profile:
+
+PACKAGE NAME:  glibc-solibs-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  3832 K
+PACKAGE SIZE (uncompressed):  21910 K
+PACKAGE DESCRIPTION:
+glibc-solibs: glibc-solibs (shared GNU C libraries)
+glibc-solibs:
+glibc-solibs: This package contains the shared libraries, binaries, and support
+glibc-solibs: files required to run most Linux applications linked with glibc.
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+
+PACKAGE NAME:  aaa_elflibs-compat32-14.1-x86_64-3compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  4716 K
+PACKAGE SIZE (uncompressed):  15030 K
+PACKAGE DESCRIPTION:
+aaa_elflibs-compat32: aaa_elflibs-compat32 (shared libraries needed by many programs)
+aaa_elflibs-compat32:
+aaa_elflibs-compat32: This is a collection of shared libraries needed to run Linux programs.
+aaa_elflibs-compat32: ELF (Executable and Linking Format) is the standard Linux binary 
+aaa_elflibs-compat32: format.  These libraries are gathered from other Slackware packages
+aaa_elflibs-compat32: and are intended to give a fairly complete initial set of libraries.
+aaa_elflibs-compat32: This package should be not upgraded or reinstalled (it could copy
+aaa_elflibs-compat32: over newer library versions).
+aaa_elflibs-compat32:
+aaa_elflibs-compat32:
+aaa_elflibs-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  attr-compat32-2.4.46-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+attr-compat32: attr-compat32 (tools for using extended attributes on filesystems)
+attr-compat32:
+attr-compat32: This package contains a set of tools for manipulating extended
+attr-compat32: attributes (name:value pairs associated permanently with files and
+attr-compat32: directories) on filesystem objects, and the library and header files
+attr-compat32: needed to develop programs which make use of extended attributes.
+attr-compat32: Extended attributes are used to provide additional functionality to
+attr-compat32: a filesystem.  For example, Access Control Lists (ACLs) are
+attr-compat32: implemented using extended attributes.
+attr-compat32:
+attr-compat32: Homepage:  http://savannah.nongnu.org/projects/attr
+
+PACKAGE NAME:  bzip2-compat32-1.0.6-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+bzip2-compat32: bzip2-compat32 (a block-sorting file compressor)
+bzip2-compat32:
+bzip2-compat32: Bzip2 compresses files using the Burrows-Wheeler block sorting text
+bzip2-compat32: compression algorithm, and Huffman coding.  Compression is generally
+bzip2-compat32: considerably better than that achieved by more conventional LZ77/LZ78-
+bzip2-compat32: based compressors, and approaches the performance of the PPM family of
+bzip2-compat32: statistical compressors. 
+bzip2-compat32:
+bzip2-compat32: Julian Seward <jseward@acm.org> is the author of bzip2.
+bzip2-compat32:
+bzip2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  cups-compat32-1.5.4-x86_64-4_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  464 K
+PACKAGE SIZE (uncompressed):  1650 K
+PACKAGE DESCRIPTION:
+cups-compat32: CUPS (Common UNIX Printing System)
+cups-compat32:
+cups-compat32: The Common UNIX Printing System provides a portable printing layer for
+cups-compat32: UNIX(R)-like operating systems. It has been developed by Easy Software
+cups-compat32: Products to promote a standard printing solution for all UNIX vendors
+cups-compat32: and users.  CUPS uses the Internet Printing Protocol ("IPP") as the
+cups-compat32: basis for managing print jobs and queues.  The CUPS package includes
+cups-compat32: System V and Berkeley command-line interfaces, a PostScript RIP
+cups-compat32: package for supporting non-PostScript printer drivers, and tools for
+cups-compat32: creating additional printer drivers and other CUPS services.
+cups-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  cxxlibs-compat32-6.0.18-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  380 K
+PACKAGE SIZE (uncompressed):  1620 K
+PACKAGE DESCRIPTION:
+cxxlibs-compat32: cxxlibs-compat32 (C++ shared library compatibility package)
+cxxlibs-compat32:
+cxxlibs-compat32: This package contains the shared libraries needed to run dynamically
+cxxlibs-compat32: linked C++ binaries linked with older versions of libstdc++.
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  dbus-compat32-1.6.12-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  212 K
+PACKAGE SIZE (uncompressed):  840 K
+PACKAGE DESCRIPTION:
+dbus-compat32: dbus-compat32 (D-Bus message bus system)
+dbus-compat32:
+dbus-compat32: D-Bus supplies both a system daemon (for events such as "new hardware
+dbus-compat32: device added" or "printer queue changed") and a per user login
+dbus-compat32: session daemon (for general IPC needs among user applications).
+dbus-compat32: Also, the message bus is built on top of a general one-to-one message
+dbus-compat32: passing framework, which can be used by any two apps to communicate
+dbus-compat32: directly (without going through the message bus daemon). 
+dbus-compat32:
+dbus-compat32:
+dbus-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  e2fsprogs-compat32-1.42.8-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  256 K
+PACKAGE SIZE (uncompressed):  940 K
+PACKAGE DESCRIPTION:
+e2fsprogs-compat32: e2fsprogs-compat32 (ext2 and ext3 filesystems utilities)
+e2fsprogs-compat32:
+e2fsprogs-compat32: Utilities needed to create and maintain ext2 and ext3 filesystems.
+e2fsprogs-compat32:
+e2fsprogs-compat32: These utilities were written by Remy Card (the developer and
+e2fsprogs-compat32: maintainer of the ext2 fs) and Theodore T'so.
+e2fsprogs-compat32:
+e2fsprogs-compat32:
+e2fsprogs-compat32:
+e2fsprogs-compat32:
+e2fsprogs-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  openssl-solibs-compat32-1.0.1t-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  1064 K
+PACKAGE SIZE (uncompressed):  4230 K
+PACKAGE DESCRIPTION:
+openssl-solibs-compat32: openssl-solibs-compat32 (OpenSSL shared libraries)
+openssl-solibs-compat32:
+openssl-solibs-compat32: These shared libraries provide encryption routines required by
+openssl-solibs-compat32: programs such as openssh, bind, sendmail, and many others.
+openssl-solibs-compat32:
+openssl-solibs-compat32: This product includes software developed by the OpenSSL Project for
+openssl-solibs-compat32: use in the OpenSSL Toolkit (http://www.openssl.org).  This product
+openssl-solibs-compat32: includes cryptographic software written by Eric Young
+openssl-solibs-compat32: (eay@cryptsoft.com).  This product includes software written by Tim
+openssl-solibs-compat32: Hudson (tjh@cryptsoft.com).
+openssl-solibs-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  udev-compat32-182-x86_64-7compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  148 K
+PACKAGE SIZE (uncompressed):  580 K
+PACKAGE DESCRIPTION:
+udev-compat32: udev-compat32 (dynamic device directory system)
+udev-compat32:
+udev-compat32: udev-compat32 provides a dynamic device directory containing only the files
+udev-compat32: for the devices which are actually present.  It creates or removes
+udev-compat32: device node files usually located in the /dev directory.
+udev-compat32:
+udev-compat32: udev-compat32 requires a 2.6 or newer kernel.
+udev-compat32:
+udev-compat32: Kay Sievers is the udev maintainer.
+udev-compat32:
+udev-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  util-linux-compat32-2.21.2-x86_64-6compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  260 K
+PACKAGE SIZE (uncompressed):  1020 K
+PACKAGE DESCRIPTION:
+util-linux-compat32: util-linux-compat32 (a huge collection of essential utilities) 
+util-linux-compat32:
+util-linux-compat32: The util-linux package is a huge collection of random utilities
+util-linux-compat32: that are essential to run a Linux system.
+util-linux-compat32:
+util-linux-compat32: http://kernel.org/~kzak/util-linux/
+util-linux-compat32:
+util-linux-compat32:
+util-linux-compat32:
+util-linux-compat32:
+util-linux-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  xz-compat32-5.0.5-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  104 K
+PACKAGE SIZE (uncompressed):  320 K
+PACKAGE DESCRIPTION:
+xz-compat32: xz-compat32 (compression utility based on the LZMA algorithm)
+xz-compat32:
+xz-compat32: LZMA is a general purpose compression algorithm designed by Igor
+xz-compat32: Pavlov as part of 7-Zip.  It provides high compression ratio while
+xz-compat32: keeping the decompression speed fast.  XZ Utils are an attempt to make
+xz-compat32: LZMA compression easy to use on free (as in freedom) operating
+xz-compat32: systems.
+xz-compat32:
+xz-compat32: The people most responsible for xz are Igor Pavlov, Ville Koskinen,
+xz-compat32: and Lasse Collin.  For more info:  http://tukaani.org/xz/
+xz-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  flac-compat32-1.3.1-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/ap-compat32
+PACKAGE SIZE (compressed):  304 K
+PACKAGE SIZE (uncompressed):  1030 K
+PACKAGE DESCRIPTION:
+flac-compat32: flac-compat32 (Free Lossless Audio Codec)
+flac-compat32:
+flac-compat32: FLAC stands for Free Lossless Audio Codec. Grossly oversimplified,
+flac-compat32: FLAC is similar to MP3, but lossless.  "Free" means that the
+flac-compat32: specification of the stream format is in the public domain, and that
+flac-compat32: neither the FLAC format nor any of the implemented encoding/decoding
+flac-compat32: methods are covered by any patent. It also means that the sources for
+flac-compat32: libFLAC and libFLAC++ are available under the LGPL and the sources for
+flac-compat32: flac, metaflac, and the plugins are available under the GPL.
+flac-compat32:
+flac-compat32: FLAC was developed by Josh Coalson.
+
+PACKAGE NAME:  mariadb-compat32-5.5.43-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/ap-compat32
+PACKAGE SIZE (compressed):  16348 K
+PACKAGE SIZE (uncompressed):  137510 K
+PACKAGE DESCRIPTION:
+mariadb-compat32: mariadb-compat32 (Drop-in replacement for the MySQL Database Server)
+mariadb-compat32:
+mariadb-compat32: MariaDB is a backward compatible, drop-in replacement branch of the
+mariadb-compat32: MySQL(R) Database Server.  It includes all major open source storage
+mariadb-compat32: engines, including the Aria storage engine.
+mariadb-compat32:
+mariadb-compat32: Homepage: http://mariadb.org/
+mariadb-compat32:
+mariadb-compat32:
+mariadb-compat32:
+mariadb-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  mpg123-compat32-1.15.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/ap-compat32
+PACKAGE SIZE (compressed):  176 K
+PACKAGE SIZE (uncompressed):  530 K
+PACKAGE DESCRIPTION:
+mpg123-compat32: mpg123-compat32 (a command-line mp3 player)
+mpg123-compat32:
+mpg123-compat32: mpg123-compat32 is a real time MPEG 1.0/2.0/2.5 audio player/decoder for 
+mpg123-compat32: layers 1, 2, and 3 (MPEG 1.0 layer 3 aka MP3 most commonly tested). 
+mpg123-compat32:
+mpg123-compat32: It is free software licensed under LGPL 2.1.
+mpg123-compat32:
+mpg123-compat32: Homepage: http://mpg123.org/
+mpg123-compat32:
+mpg123-compat32:
+mpg123-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  sqlite-compat32-3.7.17-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/ap-compat32
+PACKAGE SIZE (compressed):  352 K
+PACKAGE SIZE (uncompressed):  830 K
+PACKAGE DESCRIPTION:
+sqlite-compat32: SQLite (simple, self contained database engine)
+sqlite-compat32:
+sqlite-compat32: SQLite is a small C library that implements a self-contained,
+sqlite-compat32: embeddable, zero-configuration SQL database engine.
+sqlite-compat32:
+sqlite-compat32: The SQLite distribution comes with a standalone command-line access
+sqlite-compat32: program (sqlite) that can be used to administer an SQLite database
+sqlite-compat32: and which serves as an example of how to use the SQLite library.
+sqlite-compat32:
+sqlite-compat32: Homepage:  http://www.sqlite.org/
+sqlite-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libtool-compat32-2.4.2-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/d-compat32
+PACKAGE SIZE (compressed):  112 K
+PACKAGE SIZE (uncompressed):  520 K
+PACKAGE DESCRIPTION:
+libtool-compat32: libtool-compat32 (a generic library support script)
+libtool-compat32:
+libtool-compat32: This is GNU Libtool, a generic library support script. Libtool hides
+libtool-compat32: the complexity of using shared libraries behind a consistent, portable
+libtool-compat32: interface.  To use libtool, add the new generic library building
+libtool-compat32: commands to your Makefile, Makefile.in, or Makefile.am.  See the
+libtool-compat32: documentation for details.
+libtool-compat32:
+libtool-compat32: You must install the "m4" package to be able to use libtool.
+libtool-compat32:
+libtool-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  llvm-compat32-3.3-x86_64-3_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/d-compat32
+PACKAGE SIZE (compressed):  46168 K
+PACKAGE SIZE (uncompressed):  215110 K
+PACKAGE DESCRIPTION:
+llvm-compat32: llvm-compat32 (LLVM compiler toolkit)
+llvm-compat32:
+llvm-compat32: Low Level Virtual Machine is a toolkit for the construction of highly
+llvm-compat32: optimized compilers, optimizers, and runtime environments.
+llvm-compat32:
+llvm-compat32: This package also includes the clang frontend for the C family of
+llvm-compat32: languages:  C, C++, Objective-C, and Objective-C++
+llvm-compat32:
+llvm-compat32:
+llvm-compat32: Homepage: http://llvm.org/
+llvm-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  alsa-lib-compat32-1.0.27.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  324 K
+PACKAGE SIZE (uncompressed):  1130 K
+PACKAGE DESCRIPTION:
+alsa-lib-compat32: alsa-lib-compat32 (Advanced Linux Sound Architecture library)
+alsa-lib-compat32:
+alsa-lib-compat32: The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI
+alsa-lib-compat32: functionality to the Linux operating system.  This is the ALSA library
+alsa-lib-compat32: (libasound) which is used by audio applications.
+alsa-lib-compat32:
+alsa-lib-compat32: For more information, see http://alsa-project.org
+alsa-lib-compat32:
+alsa-lib-compat32:
+alsa-lib-compat32:
+alsa-lib-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  alsa-oss-compat32-1.0.25-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  32 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE DESCRIPTION:
+alsa-oss-compat32: alsa-oss-compat32 (library/wrapper to use OSS programs with ALSA)
+alsa-oss-compat32:
+alsa-oss-compat32: The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI
+alsa-oss-compat32: functionality to the Linux operating system.  OSS (Open Sound System)
+alsa-oss-compat32: is an older sound system for Linux that ALSA is replacing.  Using
+alsa-oss-compat32: the aoss wrapper you can use programs that only support OSS with ALSA
+alsa-oss-compat32: without having to load the OSS compatibility kernel modules.
+alsa-oss-compat32:
+alsa-oss-compat32:
+alsa-oss-compat32:
+alsa-oss-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  atk-compat32-2.8.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  230 K
+PACKAGE DESCRIPTION:
+atk-compat32: atk-compat32 (accessibility functions library)
+atk-compat32:
+atk-compat32: atk-compat32 is a library of accessibility functions that is used by the
+atk-compat32: GTK+-2 toolkit.
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  audiofile-compat32-0.3.6-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  732 K
+PACKAGE SIZE (uncompressed):  3370 K
+PACKAGE DESCRIPTION:
+audiofile-compat32: audiofile-compat32 (audio support library)
+audiofile-compat32:
+audiofile-compat32: Audiofile is a library to handle various audio file formats, and is
+audiofile-compat32: used by the esound daemon.  You can also use it to develop your own
+audiofile-compat32: audiofile-compat32 applications.
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  cairo-compat32-1.12.16-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  548 K
+PACKAGE SIZE (uncompressed):  1580 K
+PACKAGE DESCRIPTION:
+cairo-compat32: cairo-compat32 (graphics library used by GTK+)
+cairo-compat32:
+cairo-compat32: Cairo is a vector graphics library designed to provide high-quality
+cairo-compat32: display and print output. Cairo is designed to produce
+cairo-compat32: identical output on all output media while taking advantage of display
+cairo-compat32: hardware acceleration when available (eg. through the X Render
+cairo-compat32: Extension or OpenGL).
+cairo-compat32:
+cairo-compat32:
+cairo-compat32:
+cairo-compat32:
+
+PACKAGE NAME:  dbus-glib-compat32-0.100.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  280 K
+PACKAGE DESCRIPTION:
+dbus-glib-compat32: dbus-glib-compat32 (Glib bindings for dbus)
+dbus-glib-compat32:
+dbus-glib-compat32: This package includes the glib bindings for the dbus IPC library.
+dbus-glib-compat32:
+dbus-glib-compat32:
+dbus-glib-compat32:
+dbus-glib-compat32:
+dbus-glib-compat32:
+dbus-glib-compat32:
+dbus-glib-compat32:
+dbus-glib-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  esound-compat32-0.2.41-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+esound-compat32: esound-compat32 (Enlightened Sound Daemon)
+esound-compat32:
+esound-compat32: EsounD, the Enlightened Sound Daemon, is a server process that mixes
+esound-compat32: several audio streams for playback by a single audio device. For
+esound-compat32: example, if you're listening to music on a CD and you receive a
+esound-compat32: sound-related event from ICQ, the two applications won't have to
+esound-compat32: jockey for the use of your sound card.  Install esound if you'd like
+esound-compat32: to let sound applications share your audio device.
+esound-compat32:
+esound-compat32:
+esound-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  expat-compat32-2.1.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  100 K
+PACKAGE SIZE (uncompressed):  400 K
+PACKAGE DESCRIPTION:
+expat-compat32: expat-compat32 (C library for parsing XML)
+expat-compat32:
+expat-compat32: This is Expat, a C library for parsing XML, written by James Clark.
+expat-compat32: Expat is a stream-oriented XML parser used by Python, GNOME, Xft2,
+expat-compat32: and other things.
+expat-compat32:
+expat-compat32:
+expat-compat32:
+expat-compat32:
+expat-compat32:
+expat-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  fftw-compat32-3.3.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  2548 K
+PACKAGE SIZE (uncompressed):  13420 K
+PACKAGE DESCRIPTION:
+fftw-compat32: fftw-compat32 (Fastest Fourier Transform in the West)
+fftw-compat32: 
+fftw-compat32: FFTW is a free collection of fast C routines for computing the
+fftw-compat32: Discrete Fourier Transform in one or more dimensions.  It includes
+fftw-compat32: complex, real, symmetric, and parallel transforms, and can handle
+fftw-compat32: arbitrary array sizes efficiently.  FFTW is typically faster than
+fftw-compat32: other publicly-available FFT implementations, and is even
+fftw-compat32: competitive with vendor-tuned libraries.
+fftw-compat32:
+fftw-compat32: Homepage: http://www.fftw.org/
+fftw-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  freetype-compat32-2.5.5-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  264 K
+PACKAGE SIZE (uncompressed):  620 K
+PACKAGE DESCRIPTION:
+freetype-compat32: freetype-compat32 (A Free, High-Quality, and Portable Font Engine)
+freetype-compat32:
+freetype-compat32: The FreeType engine is a free and portable TrueType font rendering
+freetype-compat32: engine.  It has been developed to provide TrueType support to a
+freetype-compat32: great variety of platforms and environments.
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  fribidi-compat32-0.19.2-x86_64-3compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+fribidi-compat32: fribidi-compat32 (Unicode BiDirectional algorithm library)
+fribidi-compat32:
+fribidi-compat32: This library implements the Unicode BiDirectional algorithm, which
+fribidi-compat32: is needed in order to support right-to-left languages such as Arabic
+fribidi-compat32: and Hebrew.  It is used in display software like KDE's SVG modules.
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gamin-compat32-0.1.10-x86_64-5compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+gamin-compat32: gamin-compat32 (A minimalist FAM replacement)
+gamin-compat32:
+gamin-compat32: Gamin is a file and directory monitoring system defined to be a subset
+gamin-compat32: of the FAM (File Alteration Monitor) system.
+gamin-compat32:
+gamin-compat32: The homepage for Gamin is:  http://www.gnome.org/~veillard/gamin/ 
+gamin-compat32:
+gamin-compat32:
+gamin-compat32:
+gamin-compat32:
+gamin-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gdk-pixbuf2-compat32-2.28.2-x86_64-2_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  164 K
+PACKAGE SIZE (uncompressed):  540 K
+PACKAGE DESCRIPTION:
+gdk-pixbuf2-compat32: gdk-pixbuf2-compat32 (image library used by GTK+ v2)
+gdk-pixbuf2-compat32:
+gdk-pixbuf2-compat32: The gdk-pixbuf library provides a number of features:
+gdk-pixbuf2-compat32: - GdkPixbuf structure for representing images.
+gdk-pixbuf2-compat32: - Image loading facilities, both synchronous and progressive.
+gdk-pixbuf2-compat32: - Rendering of a GdkPixbuf into various formats:
+gdk-pixbuf2-compat32:   drawables (windows, pixmaps), GdkRGB buffers.
+gdk-pixbuf2-compat32: - Fast scaling and compositing of pixbufs.
+gdk-pixbuf2-compat32: - Simple animation loading (ie. animated gifs).
+gdk-pixbuf2-compat32:
+gdk-pixbuf2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  giflib-compat32-4.1.6-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  420 K
+PACKAGE DESCRIPTION:
+giflib-compat32: giflib-compat32 (GIF image format library)
+giflib-compat32:
+giflib-compat32: A library to load and save (uncompressed only) images using GIF,
+giflib-compat32: or Graphics Interchange Format.  GIF was introduced by CompuServe
+giflib-compat32: in 1987, but is still widely used today (especially on web pages.)
+giflib-compat32:
+giflib-compat32:
+giflib-compat32:
+giflib-compat32:
+giflib-compat32:
+giflib-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  glib2-compat32-2.36.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  928 K
+PACKAGE SIZE (uncompressed):  3280 K
+PACKAGE DESCRIPTION:
+glib2-compat32: glib2-compat32 (library of C routines)
+glib2-compat32:
+glib2-compat32: GLib is a library which includes support routines for C such as lists,
+glib2-compat32: trees, hashes, memory allocation, and many other things.
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gmp-compat32-5.1.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  368 K
+PACKAGE SIZE (uncompressed):  1460 K
+PACKAGE DESCRIPTION:
+gmp-compat32: gmp-compat32 (GNU multiple precision arithmetic library)
+gmp-compat32:
+gmp-compat32: GNU MP is a library for arbitrary precision arithmetic, operating on
+gmp-compat32: signed integers, rational numbers, and floating point numbers.  It has
+gmp-compat32: a rich set of functions, and the functions have a regular interface.
+gmp-compat32:
+gmp-compat32:
+gmp-compat32:
+gmp-compat32:
+gmp-compat32:
+gmp-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gnome-keyring-compat32-3.8.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  484 K
+PACKAGE SIZE (uncompressed):  2830 K
+PACKAGE DESCRIPTION:
+gnome-keyring-compat32: GNOME Keyring (a tool to handle security credentials)
+gnome-keyring-compat32:
+gnome-keyring-compat32: GNOME Keyring is a program designed to take care of the user's
+gnome-keyring-compat32: security credentials, such as user names and passwords, in an
+gnome-keyring-compat32: easy to access manner.  The keyring is implemented as a daemon
+gnome-keyring-compat32: and uses the process name gnome-keyring-daemon.
+gnome-keyring-compat32:
+gnome-keyring-compat32:
+gnome-keyring-compat32:
+gnome-keyring-compat32:
+gnome-keyring-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gst-plugins-base-compat32-0.10.36-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  772 K
+PACKAGE SIZE (uncompressed):  3050 K
+PACKAGE DESCRIPTION:
+gst-plugins-base-compat32: gst-plugins-base-compat32 (base set of GStreamer plugins)
+gst-plugins-base-compat32:
+gst-plugins-base-compat32: GStreamer Base Plug-ins is a well-groomed and well-maintained 
+gst-plugins-base-compat32: collection of GStreamer plug-ins and elements, spanning the 
+gst-plugins-base-compat32: range of possible types of elements one would want to write 
+gst-plugins-base-compat32: for GStreamer.  It also contains helper libraries and base 
+gst-plugins-base-compat32: classes useful for writing elements.  A wide range of video 
+gst-plugins-base-compat32: and audio decoders, encoders, and filters are included.
+gst-plugins-base-compat32:
+gst-plugins-base-compat32:
+gst-plugins-base-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gst-plugins-good-compat32-0.10.31-x86_64-5compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  848 K
+PACKAGE SIZE (uncompressed):  3250 K
+PACKAGE DESCRIPTION:
+gst-plugins-good-compat32: gst-plugins-good-compat32 (good set of GStreamer plugins)
+gst-plugins-good-compat32:
+gst-plugins-good-compat32: GStreamer Good Plug-ins is a set of plug-ins that have good
+gst-plugins-good-compat32: quality code, correct functionality, and a good license
+gst-plugins-good-compat32: (LGPL for the plug-in code, LGPL or LGPL-compatible for the
+gst-plugins-good-compat32: supporting library).
+gst-plugins-good-compat32:
+gst-plugins-good-compat32:
+gst-plugins-good-compat32:
+gst-plugins-good-compat32:
+gst-plugins-good-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gstreamer-compat32-0.10.36-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  488 K
+PACKAGE SIZE (uncompressed):  1880 K
+PACKAGE DESCRIPTION:
+gstreamer-compat32: GStreamer (streaming multimedia framework)
+gstreamer-compat32: 
+gstreamer-compat32: GStreamer is a library that allows the construction of graphs of a
+gstreamer-compat32: media-handling components, ranging from simple Ogg/Vorbis playback 
+gstreamer-compat32: to complex audio (mixing) and video (non-linear editing) processing.
+gstreamer-compat32: Applications can take advantage of advances in codec and filter 
+gstreamer-compat32: technology transparently. Developers can add new codecs and filters
+gstreamer-compat32: by writing a simple plugin with a clean, generic interface.
+gstreamer-compat32: 
+gstreamer-compat32: GStreamer is released under the LGPL.
+gstreamer-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gtk+2-compat32-2.24.20-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  1936 K
+PACKAGE SIZE (uncompressed):  7080 K
+PACKAGE DESCRIPTION:
+gtk+2-compat32: GTK+ version 2 (multi-platform GUI toolkit)
+gtk+2-compat32:
+gtk+2-compat32: This is GTK+, a multi-platform toolkit for creating graphical user
+gtk+2-compat32: interfaces.  Offering a complete set of widgets, GTK+ is suitable for
+gtk+2-compat32: projects ranging from small one-off projects to complete application
+gtk+2-compat32: suites.
+gtk+2-compat32:
+gtk+2-compat32:
+gtk+2-compat32:
+gtk+2-compat32:
+gtk+2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  harfbuzz-compat32-0.9.16-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  220 K
+PACKAGE SIZE (uncompressed):  690 K
+PACKAGE DESCRIPTION:
+harfbuzz-compat32: harfbuzz-compat32 (OpenType text shaping engine)
+harfbuzz-compat32:
+harfbuzz-compat32: HarfBuzz is an OpenType text shaping engine.
+harfbuzz-compat32:
+harfbuzz-compat32: http://www.freedesktop.org/wiki/Software/HarfBuzz
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32:
+harfbuzz-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  icu4c-compat32-51.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  6296 K
+PACKAGE SIZE (uncompressed):  26110 K
+PACKAGE DESCRIPTION:
+icu4c-compat32: icu4c-compat32 (International Components for Unicode)
+icu4c-compat32:
+icu4c-compat32: The International Components for Unicode (ICU) libraries provide
+icu4c-compat32: robust and full-featured Unicode services on a wide variety of
+icu4c-compat32: platforms.
+icu4c-compat32:
+icu4c-compat32: Homepage: http://www.icu-project.org/
+icu4c-compat32:
+icu4c-compat32:
+icu4c-compat32:
+icu4c-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  jasper-compat32-1.900.1-x86_64-4_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  136 K
+PACKAGE SIZE (uncompressed):  390 K
+PACKAGE DESCRIPTION:
+jasper-compat32: jasper-compat32 (free implementation of the JPEG-2000 standard)
+jasper-compat32:
+jasper-compat32: The JasPer Project is an open-source initiative to provide a free
+jasper-compat32: software-based reference implementation of the codec specified in the
+jasper-compat32: JPEG-2000 Part-1 standard (i.e., ISO/IEC 15444-1).jasper:
+jasper-compat32:
+jasper-compat32: jasper-compat32 home: http://www.ece.uvic.ca/~mdadams/jasper/
+jasper-compat32:
+jasper-compat32:
+jasper-compat32:
+jasper-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  lcms-compat32-1.19-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  350 K
+PACKAGE DESCRIPTION:
+lcms-compat32: lcms-compat32 (little cms engine)
+lcms-compat32:
+lcms-compat32: Little cms is a small, speed optimized color management engine.
+lcms-compat32:
+lcms-compat32: lcms-compat32 was written by Marti Maria <marti@littlecms.com>.
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  lcms2-compat32-2.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  148 K
+PACKAGE SIZE (uncompressed):  460 K
+PACKAGE DESCRIPTION:
+lcms2-compat32: lcms2-compat32 (little cms engine, version 2)
+lcms2-compat32:
+lcms2-compat32: Little cms is a small, speed optimized color management engine.
+lcms2-compat32:
+lcms2-compat32: lcms was written by Marti Maria <marti@littlecms.com>.
+lcms2-compat32:
+lcms2-compat32:
+lcms2-compat32:
+lcms2-compat32:
+lcms2-compat32:
+lcms2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libaio-compat32-0.3.109-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libaio-compat32: libaio-compat32 (asynchronous I/O library)
+libaio-compat32:
+libaio-compat32: The Linux-native asynchronous I/O facility ("async I/O", or "aio")
+libaio-compat32: has a richer API and capability set than the simple POSIX async I/O
+libaio-compat32: facility.  This library provides the Linux-native API for async I/O.
+libaio-compat32: The POSIX async I/O facility requires this library in order to
+libaio-compat32: provide kernel-accelerated async I/O capabilities, as do applications
+libaio-compat32: which require the Linux-native async I/O API.
+libaio-compat32:
+libaio-compat32:
+libaio-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libart_lgpl-compat32-2.3.21-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+libart_lgpl-compat32: libart_lgpl-compat32 (graphics library)
+libart_lgpl-compat32:
+libart_lgpl-compat32: Libart is a library for high-performance 2D graphics.  It is used by
+libart_lgpl-compat32: both KDE and GNOME.  This is the LGPL'd component of the library.
+libart_lgpl-compat32:
+libart_lgpl-compat32: Raph Levien <raph@acm.org> is the author of libart.
+libart_lgpl-compat32:
+libart_lgpl-compat32:
+libart_lgpl-compat32:
+libart_lgpl-compat32:
+libart_lgpl-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libelf-compat32-0.8.13-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE DESCRIPTION:
+libelf-compat32: libelf-compat32 (ELF object file access library)
+libelf-compat32:
+libelf-compat32: Libelf lets you read, modify or create ELF files in an architecture
+libelf-compat32: independent way.  The library takes care of size and endian issues,
+libelf-compat32: so for example you can process a file for SPARC processors on an
+libelf-compat32: Intel based system.  GCC uses libelf for LTO (Link Time Optimization).
+libelf-compat32:
+libelf-compat32: Project home:  http://www.mr511.de/software/
+libelf-compat32:
+libelf-compat32:
+libelf-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libexif-compat32-0.6.21-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  72 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+libexif-compat32: libexif-compat32 (Exchangeable Image File Format library)
+libexif-compat32:
+libexif-compat32: EXIF stands for Exchangeable Image File Format, which is a format used
+libexif-compat32: to store extra information in images such as the JPEG files produced
+libexif-compat32: by digital cameras.  The libexif library allows programs such as 
+libexif-compat32: gthumb to parse, edit, and save EXIF data.
+libexif-compat32:
+libexif-compat32:
+libexif-compat32:
+libexif-compat32:
+libexif-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libffi-compat32-3.0.13-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libffi-compat32: libffi-compat32 (A Portable Foreign Function Interface Library)
+libffi-compat32:
+libffi-compat32: FFI stands for Foreign Function Interface.  A foreign function 
+libffi-compat32: interface is the popular name for the interface that allows code 
+libffi-compat32: written in one language to call code written in another language. 
+libffi-compat32: The libffi library really only provides the lowest, machine dependent 
+libffi-compat32: layer of a fully featured foreign function interface.  
+libffi-compat32:
+libffi-compat32: Homepage: http://sourceware.org/libffi/
+libffi-compat32:
+libffi-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libglade-compat32-2.6.4-x86_64-4compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  48 K
+PACKAGE SIZE (uncompressed):  180 K
+PACKAGE DESCRIPTION:
+libglade-compat32: libglade-compat32 (GLADE library)
+libglade-compat32:
+libglade-compat32: The GLADE library allows loading user interfaces which are stored
+libglade-compat32: externally into a program.  This allows the interface to be changed
+libglade-compat32: without recompiling the program.  The interfaces can also be edited
+libglade-compat32: with GLADE.
+libglade-compat32:
+libglade-compat32:
+libglade-compat32:
+libglade-compat32:
+libglade-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libgphoto2-compat32-2.5.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  596 K
+PACKAGE SIZE (uncompressed):  2500 K
+PACKAGE DESCRIPTION:
+libgphoto2-compat32: libgphoto2-compat32 (Digital Camera Library)
+libgphoto2-compat32:
+libgphoto2-compat32: libgphoto2-compat32 is a library that can be used by applications to access
+libgphoto2-compat32: various digital cameras.
+libgphoto2-compat32:
+libgphoto2-compat32: Homepage: http://www.gphoto.org/
+libgphoto2-compat32:
+libgphoto2-compat32:
+libgphoto2-compat32:
+libgphoto2-compat32:
+libgphoto2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libidn-compat32-1.33-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  124 K
+PACKAGE SIZE (uncompressed):  610 K
+PACKAGE DESCRIPTION:
+libidn-compat32: libidn-compat32 (GNU Internationalized Domain Name library)
+libidn-compat32:
+libidn-compat32: GNU Libidn is an implementation of the Stringprep, Punycode and IDNA
+libidn-compat32: specifications defined by the IETF Internationalized Domain Names
+libidn-compat32: (IDN) working group, used for internationalized domain names.
+libidn-compat32:
+libidn-compat32:
+libidn-compat32:
+libidn-compat32:
+libidn-compat32:
+libidn-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libieee1284-compat32-0.2.11-x86_64-3compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  48 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+libieee1284-compat32: libieee1284-compat32 (parallel port library)
+libieee1284-compat32:
+libieee1284-compat32: This library is intended to be used by applications that need to
+libieee1284-compat32: communicate with (or at least identify) devices that are attached via
+libieee1284-compat32: a parallel port.  For example, SANE uses it to identify scanners.
+libieee1284-compat32:
+libieee1284-compat32:
+libieee1284-compat32:
+libieee1284-compat32:
+libieee1284-compat32:
+libieee1284-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libjpeg-compat32-v8a-x86_64-2_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  192 K
+PACKAGE SIZE (uncompressed):  590 K
+PACKAGE DESCRIPTION:
+libjpeg-compat32: libjpeg-compat32 (Independent JPEG Group's JPEG software)
+libjpeg-compat32:
+libjpeg-compat32: Software to implement JPEG image compression and decompression.  JPEG
+libjpeg-compat32: (pronounced 'jay-peg') is a standardized compression method for
+libjpeg-compat32: full-color and gray-scale images.  JPEG is intended for compressing
+libjpeg-compat32: 'real-world' scenes; cartoons and other non-realistic images are not
+libjpeg-compat32: its strong suit.  JPEG is lossy, however, on typical images of
+libjpeg-compat32: real-world scenes, very good compression levels can be obtained with
+libjpeg-compat32: no visible change, and amazingly high compression levels are possible
+libjpeg-compat32: if you can tolerate a low-quality image.
+libjpeg-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libmng-compat32-1.0.10-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  410 K
+PACKAGE DESCRIPTION:
+libmng-compat32: libmng-compat32 (Multiple-image Network Graphics library)
+libmng-compat32:
+libmng-compat32: This is libmng, the MNG reference library.  MNG (pronounced 'ming'),
+libmng-compat32: is short for Multiple-image Network Graphics.  Designed with the same
+libmng-compat32: modular philosophy as PNG and by many of the same people, MNG is
+libmng-compat32: intended to provide a home for all of the multi-image (animation)
+libmng-compat32: capabilities that have no place in PNG.  
+libmng-compat32:
+libmng-compat32: libmng-compat32 was written by Gerard Juyn.
+libmng-compat32:
+libmng-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libmpc-compat32-0.8.2-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE DESCRIPTION:
+libmpc-compat32: libmpc-compat32 (Multiple Precision Complex Library)
+libmpc-compat32:
+libmpc-compat32: mpc is a complex floating-point library with exact rounding.  It is
+libmpc-compat32: based on the GNU MPFR floating-point library (http://www.mpfr.org/),
+libmpc-compat32: which is itself based on the GNU MP library (http://gmplib.org/).
+libmpc-compat32:
+libmpc-compat32: Homepage:  http://www.multiprecision.org
+libmpc-compat32:
+libmpc-compat32:
+libmpc-compat32:
+libmpc-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libnl3-compat32-3.2.21-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  176 K
+PACKAGE SIZE (uncompressed):  640 K
+PACKAGE DESCRIPTION:
+libnl3-compat32: libnl3-compat32 (Netlink Protocol Library Suite version 3)
+libnl3-compat32:
+libnl3-compat32: The libnl suite is a collection of libraries providing APIs to 
+libnl3-compat32: netlink protocol based Linux kernel interfaces.
+libnl3-compat32: Netlink is a IPC mechanism primarily between the kernel and user 
+libnl3-compat32: space processes. It was designed to be a more flexible successor 
+libnl3-compat32: to ioctl to provide mainly networking related kernel configuration 
+libnl3-compat32: and monitoring interfaces. 
+libnl3-compat32:
+libnl3-compat32: Homepage: http://www.infradead.org/~tgr/libnl/
+libnl3-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libnotify-compat32-0.7.5-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+libnotify-compat32: libnotify-compat32 (notification library)
+libnotify-compat32: 
+libnotify-compat32: A general library for event notification
+libnotify-compat32:
+libnotify-compat32: Homepage: http://www.galago-project.org/news/index.php
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libogg-compat32-1.3.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+libogg-compat32: libogg-compat32 (Ogg Bitstream library)
+libogg-compat32:
+libogg-compat32: Libogg is a library for manipulating ogg bitstreams.  It handles
+libogg-compat32: both making ogg bitstreams and getting packets from ogg bitstreams.
+libogg-compat32:
+libogg-compat32: libogg-compat32 is needed to use the Ogg Vorbis audio format.
+libogg-compat32:
+libogg-compat32:
+libogg-compat32:
+libogg-compat32:
+libogg-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libpcap-compat32-1.4.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  128 K
+PACKAGE SIZE (uncompressed):  640 K
+PACKAGE DESCRIPTION:
+libpcap-compat32: libpcap-compat32 (packet capture library)
+libpcap-compat32:
+libpcap-compat32: libpcap-compat32 is a library for user-level packet capture.  libpcap provides
+libpcap-compat32: a portable framework for low-level network monitoring.  Applications
+libpcap-compat32: include network statistics collection, security monitoring, network
+libpcap-compat32: debugging, etc.  The tcpdump utility uses libpcap.
+libpcap-compat32:
+libpcap-compat32: Project homepage:  http://sourceforge.net/projects/libpcap/
+libpcap-compat32:
+libpcap-compat32:
+libpcap-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libpng-compat32-1.4.19-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  364 K
+PACKAGE SIZE (uncompressed):  1860 K
+PACKAGE DESCRIPTION:
+libpng-compat32: libpng-compat32 (Portable Network Graphics library)
+libpng-compat32:
+libpng-compat32: PNG (Portable Network Graphics) is an extensible file format for the
+libpng-compat32: lossless, portable, well-compressed storage of raster images.  PNG
+libpng-compat32: provides a patent-free replacement for GIF and can also replace many
+libpng-compat32: common uses of TIFF.  Indexed-color, grayscale, and truecolor images
+libpng-compat32: are supported, plus an optional alpha channel.  Sample depths range
+libpng-compat32: from 1 to 16 bits.
+libpng-compat32:
+libpng-compat32:
+libpng-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libsamplerate-compat32-0.1.8-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  924 K
+PACKAGE SIZE (uncompressed):  1500 K
+PACKAGE DESCRIPTION:
+libsamplerate-compat32: libsamplerate-compat32 (a Sample Rate Converter for audio)
+libsamplerate-compat32:
+libsamplerate-compat32: Secret Rabbit Code (aka libsamplerate) is a Sample Rate Converter for
+libsamplerate-compat32: audio.  One example of where such a thing would be useful is
+libsamplerate-compat32: converting audio from the CD sample rate of 44.1kHz to the 48kHz
+libsamplerate-compat32: sample rate used by DAT players.  SRC is capable of arbitrary and time
+libsamplerate-compat32: varying conversions.  SRC provides a small set of converters to allow
+libsamplerate-compat32: quality to be traded off against computation cost.
+libsamplerate-compat32:
+libsamplerate-compat32: libsamplerate-compat32 home: http://www.mega-nerd.com/SRC/
+libsamplerate-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libsndfile-compat32-1.0.26-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  204 K
+PACKAGE SIZE (uncompressed):  720 K
+PACKAGE DESCRIPTION:
+libsndfile-compat32: libsndfile-compat32 (C library for reading and writing wav files)
+libsndfile-compat32:
+libsndfile-compat32: Libsndfile is a C library for reading and writing files containing
+libsndfile-compat32: sampled sound (such as MS Windows WAV and Apple/SGI AIFF format).
+libsndfile-compat32:
+libsndfile-compat32: Homepage:  http://www.mega-nerd.com/libsndfile/
+libsndfile-compat32:
+libsndfile-compat32:
+libsndfile-compat32:
+libsndfile-compat32:
+libsndfile-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libtasn1-compat32-3.6-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  60 K
+PACKAGE SIZE (uncompressed):  190 K
+PACKAGE DESCRIPTION:
+libtasn1-compat32: libtasn1-compat32 (ASN.1 library)
+libtasn1-compat32:
+libtasn1-compat32: Libtasn1 is the GNU ASN.1 library.  Abstract Syntax Notation One
+libtasn1-compat32: (ASN.1) is a standard and flexible notation that describes rules and
+libtasn1-compat32: structures for representing, encoding, transmitting, and decoding
+libtasn1-compat32: data in telecommunications and computer networking.
+libtasn1-compat32:
+libtasn1-compat32: Libtasn1 was written by Fabio Fiorina.
+libtasn1-compat32:
+libtasn1-compat32:
+libtasn1-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libtermcap-compat32-1.2.3-x86_64-7compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libtermcap-compat32: libtermcap
+libtermcap-compat32:
+libtermcap-compat32: This is the GNU termcap library -- a library of C functions that
+libtermcap-compat32: enable programs to send control strings to terminals in a way
+libtermcap-compat32: independent of the terminal type.  Most of this package is also
+libtermcap-compat32: distributed with GNU Emacs, but it is available in this separate
+libtermcap-compat32: distribution to make it easier to install as -ltermcap.
+libtermcap-compat32:
+libtermcap-compat32:
+libtermcap-compat32:
+libtermcap-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libtiff-compat32-3.9.7-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  344 K
+PACKAGE SIZE (uncompressed):  1370 K
+PACKAGE DESCRIPTION:
+libtiff-compat32: libtiff-compat32 (a library for reading and writing TIFF files)
+libtiff-compat32:
+libtiff-compat32: This package provides support for the Tag Image File Format (TIFF),
+libtiff-compat32: a widely used format for storing image data.  Included is the libtiff
+libtiff-compat32: library (for reading and writing TIFF files), and a collection of
+libtiff-compat32: tools for working with TIFF images.
+libtiff-compat32:
+libtiff-compat32:
+libtiff-compat32:
+libtiff-compat32:
+libtiff-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libusb-compat32-1.0.9-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE DESCRIPTION:
+libusb-compat32: libusb-compat32 (USB library)
+libusb-compat32:
+libusb-compat32: This is libusb, a library which allows userspace application access
+libusb-compat32: to USB devices.  It is used to connect to USB devices like scanners
+libusb-compat32: and printers.
+libusb-compat32:
+libusb-compat32: http://libusb.org
+libusb-compat32:
+libusb-compat32:
+libusb-compat32:
+libusb-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libvorbis-compat32-1.3.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  152 K
+PACKAGE SIZE (uncompressed):  1720 K
+PACKAGE DESCRIPTION:
+libvorbis-compat32: libvorbis-compat32 (Ogg Vorbis library)
+libvorbis-compat32:
+libvorbis-compat32: This library supports the Vorbis General Audio Compression Codec
+libvorbis-compat32: (commonly known as Ogg Vorbis).  Ogg Vorbis is a fully open,
+libvorbis-compat32: non-proprietary, patent-and-royalty-free, general-purpose compressed
+libvorbis-compat32: audio format for audio and music at fixed and variable bitrates.
+libvorbis-compat32:
+libvorbis-compat32: The libvorbis library requires libao and libogg.  You'll find some
+libvorbis-compat32: basic tools for creating and using Ogg Vorbis files in the
+libvorbis-compat32: vorbis-tools package.
+libvorbis-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libxml2-compat32-2.9.4-x86_64-2_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  620 K
+PACKAGE SIZE (uncompressed):  2170 K
+PACKAGE DESCRIPTION:
+libxml2-compat32: libxml2-compat32 (XML parser library)
+libxml2-compat32:
+libxml2-compat32: Libxml2 is the XML C parser library and toolkit.  XML itself is a
+libxml2-compat32: metalanguage to design markup languages  -- i.e. a text language where
+libxml2-compat32: structures are added to the content using extra "markup" information
+libxml2-compat32: enclosed between angle brackets.  HTML is the most well-known markup
+libxml2-compat32: language.  Though the library is written in C, a variety of language
+libxml2-compat32: bindings make it available in other environments.
+libxml2-compat32:
+libxml2-compat32:
+libxml2-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libxslt-compat32-1.1.29-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  148 K
+PACKAGE SIZE (uncompressed):  500 K
+PACKAGE DESCRIPTION:
+libxslt-compat32: libxslt-compat32 (XML transformation library)
+libxslt-compat32:
+libxslt-compat32: XSLT support for libxml2.  (XSLT is a language used for transforming
+libxslt-compat32: XML documents)
+libxslt-compat32:
+libxslt-compat32:
+libxslt-compat32:
+libxslt-compat32:
+libxslt-compat32:
+libxslt-compat32:
+libxslt-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  lzo-compat32-2.03-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  170 K
+PACKAGE DESCRIPTION:
+lzo-compat32: lzo-compat32 (LZO Compression Library)
+lzo-compat32:
+lzo-compat32: LZO is a portable lossless data compression library written in ANSI C.
+lzo-compat32: It offers pretty fast compression and very fast decompression. 
+lzo-compat32:
+lzo-compat32: Homepage:  http://www.oberhumer.com/opensource/lzo/ 
+lzo-compat32:
+lzo-compat32:
+lzo-compat32:
+lzo-compat32:
+lzo-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  ncurses-compat32-5.9-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  576 K
+PACKAGE SIZE (uncompressed):  3310 K
+PACKAGE DESCRIPTION:
+ncurses-compat32: ncurses-compat32 (CRT screen handling and optimization package)
+ncurses-compat32:
+ncurses-compat32: The ncurses (new curses) library is a free software emulation of
+ncurses-compat32: curses in System V Release 4.0, and more.  It uses terminfo format,
+ncurses-compat32: supports pads and color and multiple highlights and forms characters
+ncurses-compat32: and function-key mapping, and has all the other SYSV-curses
+ncurses-compat32: enhancements over BSD curses.
+ncurses-compat32:
+ncurses-compat32:
+ncurses-compat32:
+ncurses-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  pango-compat32-1.34.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  184 K
+PACKAGE SIZE (uncompressed):  650 K
+PACKAGE DESCRIPTION:
+pango-compat32: pango-compat32 (library for layout and rendering of text)
+pango-compat32:
+pango-compat32: Pango is a library for layout and rendering of text, with an emphasis
+pango-compat32: on internationalization. Pango can be used anywhere that text layout
+pango-compat32: is needed; however, most of the work on Pango was done using the GTK+
+pango-compat32: widget toolkit as a test platform. Pango forms the core of text and
+pango-compat32: font handling for GTK+-2.
+pango-compat32:
+pango-compat32:
+pango-compat32:
+pango-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  popt-compat32-1.16-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+popt-compat32: popt-compat32 (command line parsing library)
+popt-compat32:
+popt-compat32: Popt is a C library for parsing command line parameters.  Popt was
+popt-compat32: heavily influenced by the getopt() and getopt_long() functions, but it
+popt-compat32: improves on them by allowing more powerful argument expansion.  Popt
+popt-compat32: can parse arbitrary argv[] style arrays and automatically set
+popt-compat32: variables based on command line arguments.  Popt allows command line
+popt-compat32: arguments to be aliased via configuration files and includes utility
+popt-compat32: functions for parsing arbitrary strings into argv[] arrays using
+popt-compat32: shell-like rules.
+popt-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  qt-compat32-4.8.7-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  28600 K
+PACKAGE SIZE (uncompressed):  117310 K
+PACKAGE DESCRIPTION:
+qt-compat32: Qt (a multi-platform C++ graphical user interface toolkit)
+qt-compat32:
+qt-compat32: Qt is a complete and well-developed object-oriented framework for
+qt-compat32: developing graphical user interface (GUI) applications using C++.
+qt-compat32:
+qt-compat32: Homepage:  http://qt-project.org/
+qt-compat32:
+qt-compat32:
+qt-compat32:
+qt-compat32:
+qt-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  readline-compat32-5.2-x86_64-4compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  152 K
+PACKAGE SIZE (uncompressed):  550 K
+PACKAGE DESCRIPTION:
+readline-compat32: readline-compat32 (line input library with editing features)
+readline-compat32:
+readline-compat32: The GNU Readline library provides a set of functions for use by
+readline-compat32: applications that allow users to edit command lines as they are typed
+readline-compat32: in.  Both Emacs and vi editing modes are available.  The Readline
+readline-compat32: library includes additional functions to maintain a list of previously
+readline-compat32: entered command lines, to recall and perhaps edit those lines, and
+readline-compat32: perform csh-like history expansion on previous commands.  
+readline-compat32:
+readline-compat32:
+readline-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  sdl-compat32-1.2.15-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  356 K
+PACKAGE SIZE (uncompressed):  1050 K
+PACKAGE DESCRIPTION:
+sdl-compat32: sdl-compat32 (Simple DirectMedia Layer library)
+sdl-compat32:
+sdl-compat32: This is the Simple DirectMedia Layer, a generic API that provides low
+sdl-compat32: level access to audio, keyboard, mouse, joystick, 3D hardware via
+sdl-compat32: OpenGL, and 2D framebuffer across multiple platforms.
+sdl-compat32:
+sdl-compat32: SDL links against alsa-lib, arts, audiofile, esound, and the X11
+sdl-compat32: libraries.  Make sure all of these are installed if you're planning to
+sdl-compat32: use SDL (a full installation will cover all of the prerequisites).
+sdl-compat32:
+sdl-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  seamonkey-solibs-compat32-2.40-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  1292 K
+PACKAGE SIZE (uncompressed):  3610 K
+PACKAGE DESCRIPTION:
+seamonkey-solibs-compat32: seamonkey-solibs-compat32 (Shared libraries from Seamonkey)
+seamonkey-solibs-compat32:
+seamonkey-solibs-compat32: This package contains a subset of the shared libraries from Seamonkey
+seamonkey-solibs-compat32: to provide runtime support for various programs.
+seamonkey-solibs-compat32: This package is built from the Seamonkey sources and is provided
+seamonkey-solibs-compat32: as a standalone runtime package for people who do not want to install
+seamonkey-solibs-compat32: the entire seamonkey package (as for server use).
+seamonkey-solibs-compat32:
+seamonkey-solibs-compat32: This package is runtime only.  The include files and other files for
+seamonkey-solibs-compat32: development can be found in the seamonkey package.
+seamonkey-solibs-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  startup-notification-compat32-0.12-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  24 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+startup-notification-compat32: startup-notification-compat32 ("busy" cursors support)
+startup-notification-compat32:
+startup-notification-compat32: Adds support for applications to use "busy" cursors while starting up.
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  svgalib-compat32-1.9.25-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  200 K
+PACKAGE SIZE (uncompressed):  600 K
+PACKAGE DESCRIPTION:
+svgalib-compat32: svgalib-compat32 (A low level graphics library for Linux)
+svgalib-compat32: 
+svgalib-compat32: This is a low level graphics library for Linux, originally based on
+svgalib-compat32: VGAlib 1.2 by Tommy Frandsen.  Support for many more chipsets has
+svgalib-compat32: been added.
+svgalib-compat32:
+svgalib-compat32: svgalib-compat32 is currently maintained by Matan Ziv-Av.
+svgalib-compat32:
+svgalib-compat32:
+svgalib-compat32:
+svgalib-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  v4l-utils-compat32-0.9.5-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  344 K
+PACKAGE SIZE (uncompressed):  1120 K
+PACKAGE DESCRIPTION:
+v4l-utils-compat32: v4l-utils-compat32 (libraries and utilities for video4linux)
+v4l-utils-compat32:
+v4l-utils-compat32: libv4l is a collection of libraries which adds a thin abstraction
+v4l-utils-compat32: layer on top of video4linux2 devices.  The purpose of this (thin)
+v4l-utils-compat32: layer is to make it easy for application writers to support a wide
+v4l-utils-compat32: variety of devices without having to write separate code for
+v4l-utils-compat32: different devices in the same class.  Linux V4L2 and DVB API
+v4l-utils-compat32: utilities are also included.
+v4l-utils-compat32:
+v4l-utils-compat32: Homepage:  http://linuxtv.org
+v4l-utils-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  zlib-compat32-1.2.8-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  200 K
+PACKAGE DESCRIPTION:
+zlib-compat32: zlib-compat32 (compression library)
+zlib-compat32:
+zlib-compat32: zlib-compat32 is a general purpose thread safe data compression library.  The
+zlib-compat32: data format used by the zlib library is described by RFCs 1950 to 
+zlib-compat32: 1952 in the files ftp://ds.internic.net/rfc/rfc1950.txt (zlib format)
+zlib-compat32: rfc1951.txt (deflate format) and rfc1952.txt (gzip format).
+zlib-compat32:
+zlib-compat32:
+zlib-compat32:
+zlib-compat32:
+zlib-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  curl-compat32-7.50.1-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  268 K
+PACKAGE SIZE (uncompressed):  620 K
+PACKAGE DESCRIPTION:
+curl-compat32: curl-compat32 (command line URL data transfer tool)
+curl-compat32:
+curl-compat32: Curl is a command line tool for transferring data specified with URL
+curl-compat32: syntax.  The command is designed to work without user interaction or
+curl-compat32: any kind of interactivity.   Curl offers a busload of useful tricks
+curl-compat32: like proxy support, user authentication, ftp upload, HTTP post,  SSL
+curl-compat32: (https:) connections, cookies, file transfer resume and more.
+curl-compat32:
+curl-compat32: libcurl is a library that Curl uses to do its job. It is readily
+curl-compat32: available to be used by your software, too.
+curl-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  cyrus-sasl-compat32-2.1.23-x86_64-5compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+cyrus-sasl-compat32: cyrus-sasl-compat32 (Simple Authentication and Security Layer)
+cyrus-sasl-compat32:
+cyrus-sasl-compat32: This is the Cyrus SASL library.  Cyrus SASL is used by mail programs 
+cyrus-sasl-compat32: on the client or server side to provide authentication and
+cyrus-sasl-compat32: authorization services.  See RFC 2222 for more information.
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  gnutls-compat32-3.3.17.1-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  616 K
+PACKAGE SIZE (uncompressed):  2580 K
+PACKAGE DESCRIPTION:
+gnutls-compat32: gnutls-compat32 (GNU TLS library)
+gnutls-compat32:
+gnutls-compat32: This is a TLS (Transport Layer Security) 1.0 and SSL (Secure Sockets
+gnutls-compat32: Layer) 3.0 implementation.  In brief, GnuTLS can be described as a
+gnutls-compat32: library which offers an API to access secure communication protocols.
+gnutls-compat32: These protocols provide privacy over insecure lines, and were designed
+gnutls-compat32: to prevent eavesdropping, tampering, or message forgery.
+gnutls-compat32:
+gnutls-compat32: Homepage: http://www.gnu.org/software/gnutls/
+gnutls-compat32:
+gnutls-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libgcrypt-compat32-1.5.5-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  232 K
+PACKAGE SIZE (uncompressed):  630 K
+PACKAGE DESCRIPTION:
+libgcrypt-compat32: libgcrypt-compat32 (General purpose crypto library)
+libgcrypt-compat32:
+libgcrypt-compat32: Libgcrypt is a general purpose crypto library based on the code 
+libgcrypt-compat32: used in GnuPG. 
+libgcrypt-compat32:
+libgcrypt-compat32:
+libgcrypt-compat32:
+libgcrypt-compat32:
+libgcrypt-compat32:
+libgcrypt-compat32:
+libgcrypt-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libgpg-error-compat32-1.11-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+libgpg-error-compat32: libgpg-error-compat32 (GnuPG Error Definitions Library)
+libgpg-error-compat32:
+libgpg-error-compat32: This is a library that defines common error values for all GnuPG
+libgpg-error-compat32: components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, 
+libgpg-error-compat32: libgcrypt, Libksba, DirMngr, Pinentry, SmartCard Daemon, and more.
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  nettle-compat32-2.7.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  220 K
+PACKAGE SIZE (uncompressed):  460 K
+PACKAGE DESCRIPTION:
+nettle-compat32: Nettle (small cryptographic library)
+nettle-compat32:
+nettle-compat32: Nettle is a cryptographic library that is designed to fit easily in 
+nettle-compat32: more or less any context: In crypto toolkits for object-oriented 
+nettle-compat32: languages (C++, Python, Pike, ...), in applications like LSH or 
+nettle-compat32: GNUPG, or even in kernel space.
+nettle-compat32:
+nettle-compat32: Homepage: http://www.lysator.liu.se/~nisse/nettle/
+nettle-compat32:
+nettle-compat32:
+nettle-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  openldap-client-compat32-2.4.31-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  244 K
+PACKAGE SIZE (uncompressed):  1150 K
+PACKAGE DESCRIPTION:
+openldap-client-compat32: openldap-client-compat32 (OpenLDAP client programs)
+openldap-client-compat32:
+openldap-client-compat32: OpenLDAP is an open source implementation of the Lightweight
+openldap-client-compat32: Directory Access Protocol.  LDAP is a alternative to the X.500
+openldap-client-compat32: Directory Access Protocol (DAP). It uses the TCP/IP stack versus
+openldap-client-compat32: the overly complex OSI stack.
+openldap-client-compat32:
+openldap-client-compat32: LDAP is often used to provide authentication (such as for email).
+openldap-client-compat32:
+openldap-client-compat32: The OpenLDAP homepage is http://www.openldap.org/
+openldap-client-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  openssl-compat32-1.0.1t-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  1288 K
+PACKAGE SIZE (uncompressed):  6710 K
+PACKAGE DESCRIPTION:
+openssl-compat32: openssl-compat32 (Secure Sockets Layer toolkit)
+openssl-compat32:
+openssl-compat32: The OpenSSL certificate management tool and the shared libraries that
+openssl-compat32: provide various encryption and decryption algorithms and protocols.
+openssl-compat32:
+openssl-compat32: This product includes software developed by the OpenSSL Project for
+openssl-compat32: use in the OpenSSL Toolkit (http://www.openssl.org).  This product
+openssl-compat32: includes cryptographic software written by Eric Young
+openssl-compat32: (eay@cryptsoft.com).  This product includes software written by Tim
+openssl-compat32: Hudson (tjh@cryptsoft.com).
+openssl-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  p11-kit-compat32-0.16.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  88 K
+PACKAGE SIZE (uncompressed):  330 K
+PACKAGE DESCRIPTION:
+p11-kit-compat32: p11-kit-compat32 (PKCS#11 toolkit)
+p11-kit-compat32:
+p11-kit-compat32: p11-kit-compat32 provides a way to load and enumerate PKCS#11 modules. 
+p11-kit-compat32:
+p11-kit-compat32: It provides a standard configuration setup for installing PKCS#11 
+p11-kit-compat32: modules in such a way that they're discoverable.  It also solves
+p11-kit-compat32: problems with coordinating the use of PKCS#11 by different components
+p11-kit-compat32: or libraries living in the same process.
+p11-kit-compat32:
+p11-kit-compat32: Homepage: http://p11-glue.freedesktop.org/p11-kit.html
+p11-kit-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  samba-compat32-4.2.14-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  8832 K
+PACKAGE SIZE (uncompressed):  43400 K
+PACKAGE DESCRIPTION:
+samba-compat32: samba-compat32 (CIFS file and print server)
+samba-compat32:
+samba-compat32: Samba is a CIFS file and print server for CIFS clients.  It allows
+samba-compat32: you to make file space or printers on a Samba host available to CIFS
+samba-compat32: clients (such as PCs running Windows).
+samba-compat32:
+samba-compat32: If you have any Windows file servers, you may be able to replace them
+samba-compat32: or supplement them with Samba.  One of Samba's big strengths is
+samba-compat32: integration, so you can use it to tie together your Linux hosts and
+samba-compat32: Windows PC clients.
+samba-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  fontconfig-compat32-2.10.93-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  112 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+fontconfig-compat32: fontconfig-compat32 (Font library and tools)
+fontconfig-compat32:
+fontconfig-compat32: Fontconfig is a library and tools designed to provide system-wide
+fontconfig-compat32: font configuration, customization, and application access.
+fontconfig-compat32:
+fontconfig-compat32: Fontconfig is written and maintained by Keith Packard.
+fontconfig-compat32:
+fontconfig-compat32:
+fontconfig-compat32:
+fontconfig-compat32:
+fontconfig-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  freeglut-compat32-2.8.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  250 K
+PACKAGE DESCRIPTION:
+freeglut-compat32: freeglut-compat32 (alternative GLUT library)
+freeglut-compat32:
+freeglut-compat32: freeglut-compat32 is a completely OpenSourced alternative to the OpenGL 
+freeglut-compat32: Utility Toolkit (GLUT) library.  GLUT (and hence freeglut) allows 
+freeglut-compat32: the user to create and manage windows containing OpenGL contexts 
+freeglut-compat32: on a wide range of platforms and also read the mouse, keyboard, and 
+freeglut-compat32: joystick functions.
+freeglut-compat32:
+freeglut-compat32: Homepage: http://freeglut.sourceforge.net/
+freeglut-compat32:
+freeglut-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  glew-compat32-1.9.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  164 K
+PACKAGE SIZE (uncompressed):  1030 K
+PACKAGE DESCRIPTION:
+glew-compat32: glew-compat32 (the OpenGL Extension Wrangler Library)
+glew-compat32:
+glew-compat32: The OpenGL Extension Wrangler Library (GLEW) is a cross-platform 
+glew-compat32: open-source C/C++ extension loading library. GLEW provides efficient 
+glew-compat32: run-time mechanisms for determining which OpenGL extensions are 
+glew-compat32: supported on the target platform.
+glew-compat32:
+glew-compat32: Homepage: http://glew.sourceforge.net/
+glew-compat32:
+glew-compat32:
+glew-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  glu-compat32-9.0.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  180 K
+PACKAGE SIZE (uncompressed):  550 K
+PACKAGE DESCRIPTION:
+glu-compat32: glu-compat32 (Mesa OpenGL utility library)
+glu-compat32:
+glu-compat32: glu-compat32 is the Mesa OpenGL utility library (libGLU).
+glu-compat32:
+glu-compat32:
+glu-compat32:
+glu-compat32:
+glu-compat32:
+glu-compat32:
+glu-compat32:
+glu-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libFS-compat32-1.0.5-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+libFS-compat32: libFS-compat32 (X Font Service client library)
+libFS-compat32:
+libFS-compat32: libFS-compat32 is part of X11.
+libFS-compat32:
+libFS-compat32: For more information about the X.Org Foundation (the providers of the
+libFS-compat32: X.Org implementation of the X Window System), see their website:
+libFS-compat32:
+libFS-compat32: http://www.x.org
+libFS-compat32:
+libFS-compat32:
+libFS-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libICE-compat32-1.0.8-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+libICE-compat32: libICE-compat32 (X Inter-Client Exchange Library)
+libICE-compat32:
+libICE-compat32: libICE-compat32 is part of X11.
+libICE-compat32:
+libICE-compat32: For more information about the X.Org Foundation (the providers of the
+libICE-compat32: X.Org implementation of the X Window System), see their website:
+libICE-compat32:
+libICE-compat32: http://www.x.org
+libICE-compat32:
+libICE-compat32:
+libICE-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libSM-compat32-1.2.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+libSM-compat32: libSM-compat32 (X Session Management Library)
+libSM-compat32:
+libSM-compat32: libSM-compat32 is part of X11.
+libSM-compat32:
+libSM-compat32: For more information about the X.Org Foundation (the providers of the
+libSM-compat32: X.Org implementation of the X Window System), see their website:
+libSM-compat32:
+libSM-compat32: http://www.x.org
+libSM-compat32:
+libSM-compat32:
+libSM-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libX11-compat32-1.6.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  532 K
+PACKAGE SIZE (uncompressed):  1310 K
+PACKAGE DESCRIPTION:
+libX11-compat32: libX11-compat32 (Core X11 protocol client library)
+libX11-compat32:
+libX11-compat32: libX11-compat32 is part of X11.
+libX11-compat32:
+libX11-compat32: For more information about the X.Org Foundation (the providers of the
+libX11-compat32: X.Org implementation of the X Window System), see their website:
+libX11-compat32:
+libX11-compat32: http://www.x.org
+libX11-compat32:
+libX11-compat32:
+libX11-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXScrnSaver-compat32-1.2.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXScrnSaver-compat32: libXScrnSaver-compat32 (X11 Screen Saver extension client library)
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: libXScrnSaver-compat32 is part of X11.
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: For more information about the X.Org Foundation (the providers of the
+libXScrnSaver-compat32: X.Org implementation of the X Window System), see their website:
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: http://www.x.org
+libXScrnSaver-compat32:
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXau-compat32-1.0.8-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXau-compat32: libXau-compat32 (Sample Authorization Protocol for X)
+libXau-compat32:
+libXau-compat32: This is a very simple mechanism for providing individual access to 
+libXau-compat32: an X Window System display.It uses existing core protocol and library 
+libXau-compat32: hooks for specifying authorization data in the connection setup block 
+libXau-compat32: to restrict use of the display to only those clients that show that 
+libXau-compat32: they know a server-specific key called a "magic cookie."
+libXau-compat32:
+libXau-compat32:
+libXau-compat32:
+libXau-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXaw-compat32-1.0.12-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  200 K
+PACKAGE SIZE (uncompressed):  730 K
+PACKAGE DESCRIPTION:
+libXaw-compat32: libXaw-compat32 (client library for the X Athena Widget Set)
+libXaw-compat32:
+libXaw-compat32: Xaw is a widget set based on the X Toolkit Intrinsics (Xt) Library.
+libXaw-compat32:
+libXaw-compat32:
+libXaw-compat32:
+libXaw-compat32:
+libXaw-compat32:
+libXaw-compat32:
+libXaw-compat32:
+libXaw-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXcomposite-compat32-0.4.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXcomposite-compat32: libXcomposite-compat32 (client library for the X Composite extension)
+libXcomposite-compat32:
+libXcomposite-compat32: libXcomposite-compat32 is part of X11.
+libXcomposite-compat32:
+libXcomposite-compat32: For more information about the X.Org Foundation (the providers of the
+libXcomposite-compat32: X.Org implementation of the X Window System), see their website:
+libXcomposite-compat32:
+libXcomposite-compat32: http://www.x.org
+libXcomposite-compat32:
+libXcomposite-compat32:
+libXcomposite-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXcursor-compat32-1.1.14-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  20 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+libXcursor-compat32: libXcursor-compat32 (X Window System Cursor management library)
+libXcursor-compat32:
+libXcursor-compat32: libXcursor-compat32 is part of X11.
+libXcursor-compat32:
+libXcursor-compat32: For more information about the X.Org Foundation (the providers of the
+libXcursor-compat32: X.Org implementation of the X Window System), see their website:
+libXcursor-compat32:
+libXcursor-compat32: http://www.x.org
+libXcursor-compat32:
+libXcursor-compat32:
+libXcursor-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXdamage-compat32-1.1.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  20 K
+PACKAGE DESCRIPTION:
+libXdamage-compat32: libXdamage-compat32 (client library for the X Damage Extension)
+libXdamage-compat32:
+libXdamage-compat32: libXdamage-compat32 is part of X11.
+libXdamage-compat32:
+libXdamage-compat32: For more information about the X.Org Foundation (the providers of the
+libXdamage-compat32: X.Org implementation of the X Window System), see their website:
+libXdamage-compat32:
+libXdamage-compat32: http://www.x.org
+libXdamage-compat32:
+libXdamage-compat32:
+libXdamage-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXdmcp-compat32-1.1.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libXdmcp-compat32: libXdmcp-compat32 (X Display Manager Control Protocol library)
+libXdmcp-compat32:
+libXdmcp-compat32: libXdmcp-compat32 is part of X11.
+libXdmcp-compat32:
+libXdmcp-compat32: For more information about the X.Org Foundation (the providers of the
+libXdmcp-compat32: X.Org implementation of the X Window System), see their website:
+libXdmcp-compat32:
+libXdmcp-compat32: http://www.x.org
+libXdmcp-compat32:
+libXdmcp-compat32:
+libXdmcp-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXevie-compat32-1.0.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  4 K
+PACKAGE SIZE (uncompressed):  20 K
+PACKAGE DESCRIPTION:
+libXevie-compat32: libXevie
+libXevie-compat32:
+libXevie-compat32: libXevie-compat32 is part of X11.
+libXevie-compat32:
+libXevie-compat32: For more information about the X.Org Foundation (the providers of the
+libXevie-compat32: X.Org implementation of the X Window System), see their website:
+libXevie-compat32:
+libXevie-compat32: http://www.x.org
+libXevie-compat32:
+libXevie-compat32:
+libXevie-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXext-compat32-1.3.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  90 K
+PACKAGE DESCRIPTION:
+libXext-compat32: libXext-compat32 (library for common extensions to the X11 protocol)
+libXext-compat32:
+libXext-compat32: libXext-compat32 is part of X11.
+libXext-compat32:
+libXext-compat32: For more information about the X.Org Foundation (the providers of the
+libXext-compat32: X.Org implementation of the X Window System), see their website:
+libXext-compat32:
+libXext-compat32: http://www.x.org
+libXext-compat32:
+libXext-compat32:
+libXext-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXfixes-compat32-5.0.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libXfixes-compat32: libXfixes-compat32 (client library for the Xfixes extension)
+libXfixes-compat32:
+libXfixes-compat32: libXfixes-compat32 is part of X11.
+libXfixes-compat32:
+libXfixes-compat32: For more information about the X.Org Foundation (the providers of the
+libXfixes-compat32: X.Org implementation of the X Window System), see their website:
+libXfixes-compat32:
+libXfixes-compat32: http://www.x.org
+libXfixes-compat32:
+libXfixes-compat32:
+libXfixes-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXfont-compat32-1.4.7-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  108 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+libXfont-compat32: libXfont-compat32 (library for legacy X11 font system)
+libXfont-compat32:
+libXfont-compat32: libXfont-compat32 provides the core of the legacy X11 font system, handling the
+libXfont-compat32: index files (fonts.dir, fonts.alias, fonts.scale), the various font
+libXfont-compat32: file formats, and rasterizing them.   It is used by the X servers, the
+libXfont-compat32: X Font Server (xfs), and some font utilities (bdftopcf for instance),
+libXfont-compat32: but should not be used by normal X11 clients.  X11 clients access fonts
+libXfont-compat32: via either the new API's in libXft, or the legacy API's in libX11.
+libXfont-compat32:
+libXfont-compat32:
+libXfont-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXfontcache-compat32-1.0.5-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  20 K
+PACKAGE DESCRIPTION:
+libXfontcache-compat32: libXfontcache
+libXfontcache-compat32:
+libXfontcache-compat32: libXfontcache-compat32 is part of X11.
+libXfontcache-compat32:
+libXfontcache-compat32: For more information about the X.Org Foundation (the providers of the
+libXfontcache-compat32: X.Org implementation of the X Window System), see their website:
+libXfontcache-compat32:
+libXfontcache-compat32: http://www.x.org
+libXfontcache-compat32:
+libXfontcache-compat32:
+libXfontcache-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXft-compat32-2.3.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE DESCRIPTION:
+libXft-compat32: libXft-compat32 (X FreeType library)
+libXft-compat32:
+libXft-compat32: libXft-compat32 is part of X11.
+libXft-compat32:
+libXft-compat32: For more information about the X.Org Foundation (the providers of the
+libXft-compat32: X.Org implementation of the X Window System), see their website:
+libXft-compat32:
+libXft-compat32: http://www.x.org
+libXft-compat32:
+libXft-compat32:
+libXft-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXi-compat32-1.7.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  80 K
+PACKAGE DESCRIPTION:
+libXi-compat32: libXi-compat32 (library for the X Input Extension)
+libXi-compat32:
+libXi-compat32: libXi-compat32 is part of X11.
+libXi-compat32:
+libXi-compat32: For more information about the X.Org Foundation (the providers of the
+libXi-compat32: X.Org implementation of the X Window System), see their website:
+libXi-compat32:
+libXi-compat32: http://www.x.org
+libXi-compat32:
+libXi-compat32:
+libXi-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXinerama-compat32-1.1.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXinerama-compat32: libXinerama-compat32 (library for Xinerama extension to X11 Protocol)
+libXinerama-compat32:
+libXinerama-compat32: libXinerama-compat32 is part of X11.
+libXinerama-compat32:
+libXinerama-compat32: For more information about the X.Org Foundation (the providers of the
+libXinerama-compat32: X.Org implementation of the X Window System), see their website:
+libXinerama-compat32:
+libXinerama-compat32: http://www.x.org
+libXinerama-compat32:
+libXinerama-compat32:
+libXinerama-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXmu-compat32-1.1.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE DESCRIPTION:
+libXmu-compat32: libXmu-compat32 (X miscellaneous utility library)
+libXmu-compat32:
+libXmu-compat32: This library contains miscellaneous utilities and is not part of the
+libXmu-compat32: Xlib standard.  It contains routines which only use public interfaces
+libXmu-compat32: so that it may be layered on top of any proprietary implementation
+libXmu-compat32: of Xlib or Xt.
+libXmu-compat32:
+libXmu-compat32:
+libXmu-compat32:
+libXmu-compat32:
+libXmu-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXp-compat32-1.0.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+libXp-compat32: libXp-compat32 (X Print Client Library)
+libXp-compat32:
+libXp-compat32: libXp-compat32 is part of X11.
+libXp-compat32:
+libXp-compat32: For more information about the X.Org Foundation (the providers of the
+libXp-compat32: X.Org implementation of the X Window System), see their website:
+libXp-compat32:
+libXp-compat32: http://www.x.org
+libXp-compat32:
+libXp-compat32:
+libXp-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXpm-compat32-3.5.11-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  44 K
+PACKAGE SIZE (uncompressed):  120 K
+PACKAGE DESCRIPTION:
+libXpm-compat32: libXpm-compat32 (X Pixmap (XPM) image file format library)
+libXpm-compat32:
+libXpm-compat32: libXpm-compat32 is part of X11.
+libXpm-compat32:
+libXpm-compat32: For more information about the X.Org Foundation (the providers of the
+libXpm-compat32: X.Org implementation of the X Window System), see their website:
+libXpm-compat32:
+libXpm-compat32: http://www.x.org
+libXpm-compat32:
+libXpm-compat32:
+libXpm-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXrandr-compat32-1.4.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE DESCRIPTION:
+libXrandr-compat32: libXrandr-compat32 (X Resize, Rotate and Reflection extension library)
+libXrandr-compat32:
+libXrandr-compat32: libXrandr-compat32 is part of X11.
+libXrandr-compat32:
+libXrandr-compat32: For more information about the X.Org Foundation (the providers of the
+libXrandr-compat32: X.Org implementation of the X Window System), see their website:
+libXrandr-compat32:
+libXrandr-compat32: http://www.x.org
+libXrandr-compat32:
+libXrandr-compat32:
+libXrandr-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXrender-compat32-0.9.8-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+libXrender-compat32: libXrender-compat32 (library for the Render Extension to the X11 protocol)
+libXrender-compat32:
+libXrender-compat32: libXrender-compat32 is part of X11.
+libXrender-compat32:
+libXrender-compat32: For more information about the X.Org Foundation (the providers of the
+libXrender-compat32: X.Org implementation of the X Window System), see their website:
+libXrender-compat32:
+libXrender-compat32: http://www.x.org
+libXrender-compat32:
+libXrender-compat32:
+libXrender-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXres-compat32-1.0.7-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  20 K
+PACKAGE DESCRIPTION:
+libXres-compat32: libXres-compat32 (X-Resource extension client library)
+libXres-compat32:
+libXres-compat32: libXres-compat32 is part of X11.
+libXres-compat32:
+libXres-compat32: For more information about the X.Org Foundation (the providers of the
+libXres-compat32: X.Org implementation of the X Window System), see their website:
+libXres-compat32:
+libXres-compat32: http://www.x.org
+libXres-compat32:
+libXres-compat32:
+libXres-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXt-compat32-1.1.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  136 K
+PACKAGE SIZE (uncompressed):  380 K
+PACKAGE DESCRIPTION:
+libXt-compat32: libXt-compat32 (X Toolkit Intrinsics library)
+libXt-compat32:
+libXt-compat32: libXt-compat32 is part of X11.
+libXt-compat32:
+libXt-compat32: For more information about the X.Org Foundation (the providers of the
+libXt-compat32: X.Org implementation of the X Window System), see their website:
+libXt-compat32:
+libXt-compat32: http://www.x.org
+libXt-compat32:
+libXt-compat32:
+libXt-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXtst-compat32-1.2.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libXtst-compat32: libXtst-compat32 (client library for the XTEST & RECORD extensions)
+libXtst-compat32:
+libXtst-compat32: libXtst-compat32 is part of X11.
+libXtst-compat32:
+libXtst-compat32: For more information about the X.Org Foundation (the providers of the
+libXtst-compat32: X.Org implementation of the X Window System), see their website:
+libXtst-compat32:
+libXtst-compat32: http://www.x.org
+libXtst-compat32:
+libXtst-compat32:
+libXtst-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXv-compat32-1.0.10-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXv-compat32: libXv-compat32 (library for the X Video (Xv) extension to the X Window System)
+libXv-compat32:
+libXv-compat32: libXv-compat32 is part of X11.
+libXv-compat32:
+libXv-compat32: For more information about the X.Org Foundation (the providers of the
+libXv-compat32: X.Org implementation of the X Window System), see their website:
+libXv-compat32:
+libXv-compat32: http://www.x.org
+libXv-compat32:
+libXv-compat32:
+libXv-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXvMC-compat32-1.0.8-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+libXvMC-compat32: libXvMC-compat32 (X.Org X11 libXvMC runtime library)
+libXvMC-compat32:
+libXvMC-compat32: libXvMC-compat32 is part of X11.
+libXvMC-compat32:
+libXvMC-compat32: For more information about the X.Org Foundation (the providers of the
+libXvMC-compat32: X.Org implementation of the X Window System), see their website:
+libXvMC-compat32:
+libXvMC-compat32: http://www.x.org
+libXvMC-compat32:
+libXvMC-compat32:
+libXvMC-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXxf86dga-compat32-1.1.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libXxf86dga-compat32: libXxf86dga-compat32 (client library for the XFree86-DGA extension)
+libXxf86dga-compat32:
+libXxf86dga-compat32: libXxf86dga-compat32 is part of X11.
+libXxf86dga-compat32:
+libXxf86dga-compat32: For more information about the X.Org Foundation (the providers of the
+libXxf86dga-compat32: X.Org implementation of the X Window System), see their website:
+libXxf86dga-compat32:
+libXxf86dga-compat32: http://www.x.org
+libXxf86dga-compat32:
+libXxf86dga-compat32:
+libXxf86dga-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXxf86misc-compat32-1.0.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXxf86misc-compat32: libXxf86misc
+libXxf86misc-compat32:
+libXxf86misc-compat32: libXxf86misc-compat32 is part of X11.
+libXxf86misc-compat32:
+libXxf86misc-compat32: For more information about the X.Org Foundation (the providers of the
+libXxf86misc-compat32: X.Org implementation of the X Window System), see their website:
+libXxf86misc-compat32:
+libXxf86misc-compat32: http://www.x.org
+libXxf86misc-compat32:
+libXxf86misc-compat32:
+libXxf86misc-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libXxf86vm-compat32-1.1.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXxf86vm-compat32: libXxf86vm-compat32 (library for the XFree86-VidMode X extension)
+libXxf86vm-compat32:
+libXxf86vm-compat32: libXxf86vm-compat32 is part of X11.
+libXxf86vm-compat32:
+libXxf86vm-compat32: For more information about the X.Org Foundation (the providers of the
+libXxf86vm-compat32: X.Org implementation of the X Window System), see their website:
+libXxf86vm-compat32:
+libXxf86vm-compat32: http://www.x.org
+libXxf86vm-compat32:
+libXxf86vm-compat32:
+libXxf86vm-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libdmx-compat32-1.1.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libdmx-compat32: libdmx-compat32 (DMX (Distributed Multihead X) extension library)
+libdmx-compat32:
+libdmx-compat32: libdmx-compat32 is part of X11.
+libdmx-compat32:
+libdmx-compat32: For more information about the X.Org Foundation (the providers of the
+libdmx-compat32: X.Org implementation of the X Window System), see their website:
+libdmx-compat32:
+libdmx-compat32: http://www.x.org
+libdmx-compat32:
+libdmx-compat32:
+libdmx-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libdrm-compat32-2.4.46-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  100 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+libdrm-compat32: libdrm-compat32 (A library to support Direct Rendering)
+libdrm-compat32:
+libdrm-compat32: This library implements an interface to the kernel's DRM services.
+libdrm-compat32: It is used to support hardware accelerated 3-D rendering.
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libfontenc-compat32-1.1.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libfontenc-compat32: libfontenc-compat32 (font encoding library)
+libfontenc-compat32:
+libfontenc-compat32: libfontenc-compat32 is part of X11.
+libfontenc-compat32:
+libfontenc-compat32: For more information about the X.Org Foundation (the providers of the
+libfontenc-compat32: X.Org implementation of the X Window System), see their website:
+libfontenc-compat32:
+libfontenc-compat32: http://www.x.org
+libfontenc-compat32:
+libfontenc-compat32:
+libfontenc-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libpciaccess-compat32-0.13.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+libpciaccess-compat32: libpciaccess-compat32 (Generic PCI access library)
+libpciaccess-compat32:
+libpciaccess-compat32: libpciaccess-compat32 is part of X11.
+libpciaccess-compat32:
+libpciaccess-compat32: For more information about the X.Org Foundation (the providers of the
+libpciaccess-compat32: X.Org implementation of the X Window System), see their website:
+libpciaccess-compat32:
+libpciaccess-compat32: http://www.x.org
+libpciaccess-compat32:
+libpciaccess-compat32:
+libpciaccess-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  libxcb-compat32-1.9.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  92 K
+PACKAGE SIZE (uncompressed):  590 K
+PACKAGE DESCRIPTION:
+libxcb-compat32: libxcb-compat32 (X protocol C-language Binding)
+libxcb-compat32:
+libxcb-compat32: The XCB library provides an interface to the X Window System protocol
+libxcb-compat32: which is fully capable of replacing Xlib.  In fact, libX11 makes use
+libxcb-compat32: of libxcb as much as possible.  :-)  Porting to XCB has several
+libxcb-compat32: advantages such as a smaller memory footprint, latency hiding, direct
+libxcb-compat32: protocol access, and improved thread support.
+libxcb-compat32:
+libxcb-compat32:
+libxcb-compat32:
+libxcb-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  mesa-compat32-9.1.7-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  21436 K
+PACKAGE SIZE (uncompressed):  85130 K
+PACKAGE DESCRIPTION:
+mesa-compat32: mesa-compat32 (a 3-D graphics library)
+mesa-compat32:
+mesa-compat32: Mesa is a 3-D graphics library with an API very similar to that of
+mesa-compat32: another well-known 3-D graphics library.  :-)  The Mesa libraries are
+mesa-compat32: used by X to provide both software and hardware accelerated graphics.
+mesa-compat32:
+mesa-compat32: Mesa was written by Brian Paul.
+mesa-compat32:
+mesa-compat32:
+mesa-compat32:
+mesa-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  pixman-compat32-0.30.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  164 K
+PACKAGE SIZE (uncompressed):  560 K
+PACKAGE DESCRIPTION:
+pixman-compat32: pixman-compat32 (pixel manipulation library)
+pixman-compat32:
+pixman-compat32: pixman-compat32 contains low-level pixel manipulation routines and is used by
+pixman-compat32: both xorg and cairo.
+pixman-compat32:
+pixman-compat32: For more information about the X.Org Foundation (the providers of the
+pixman-compat32: X.Org implementation of the X Window System), see their website:
+pixman-compat32:
+pixman-compat32: http://www.x.org
+pixman-compat32:
+pixman-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  xcb-util-compat32-0.3.9-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+xcb-util-compat32: xcb-util-compat32 (utility libraries for X protocol C-language Binding)
+xcb-util-compat32:
+xcb-util-compat32: xcb-util-compat32 is part of X11.
+xcb-util-compat32:
+xcb-util-compat32: For more information about the X.Org Foundation (the providers of the
+xcb-util-compat32: X.Org implementation of the X Window System), see their website:
+xcb-util-compat32:
+xcb-util-compat32: http://www.x.org
+xcb-util-compat32:
+xcb-util-compat32:
+xcb-util-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  sane-compat32-1.0.24-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/xap-compat32
+PACKAGE SIZE (compressed):  1944 K
+PACKAGE SIZE (uncompressed):  9430 K
+PACKAGE DESCRIPTION:
+sane-compat32: sane-compat32 (Scanner Access Now Easy)
+sane-compat32:
+sane-compat32: SANE is a universal scanner interface that provides standardized
+sane-compat32: access to any raster image scanner hardware, such as flatbed scanners,
+sane-compat32: hand-held scanners, video and still cameras, frame-grabbers, and other
+sane-compat32: similar devices.
+sane-compat32:
+sane-compat32:
+sane-compat32:
+sane-compat32:
+sane-compat32: This package contains 32-bit compatibility binaries.
+
+PACKAGE NAME:  xsane-compat32-0.998-x86_64-3compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/xap-compat32
+PACKAGE SIZE (compressed):  200 K
+PACKAGE SIZE (uncompressed):  670 K
+PACKAGE DESCRIPTION:
+xsane-compat32: xsane-compat32 (Graphical frontend to SANE, Scanner Access Now Easy)
+xsane-compat32:
+xsane-compat32: xsane-compat32 provides a graphical user-interface to control an image
+xsane-compat32: acquisition device such as a flatbed scanner.  It allows previewing
+xsane-compat32: and scanning individual images and can be invoked either directly
+xsane-compat32: from the command-line or through the GIMP image manipulation program.
+xsane-compat32:
+xsane-compat32: xsane-compat32 accesses image acquisition devices through the SANE (Scanner
+xsane-compat32: Access Now Easy) interface. 
+xsane-compat32:
+xsane-compat32: This package contains 32-bit compatibility binaries.
+

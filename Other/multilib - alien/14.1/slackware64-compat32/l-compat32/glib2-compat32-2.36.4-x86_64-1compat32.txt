@@ -1,0 +1,11 @@
+glib2-compat32: glib2-compat32 (library of C routines)
+glib2-compat32:
+glib2-compat32: GLib is a library which includes support routines for C such as lists,
+glib2-compat32: trees, hashes, memory allocation, and many other things.
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32:
+glib2-compat32: This package contains 32-bit compatibility binaries.

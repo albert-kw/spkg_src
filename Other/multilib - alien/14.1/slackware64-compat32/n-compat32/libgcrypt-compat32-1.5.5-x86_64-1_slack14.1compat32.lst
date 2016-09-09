@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/n-compat32/libgcrypt-compat32-1.5.5-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-02-23 23:44 ./
+drwxr-xr-x root/root         0 2016-02-23 23:44 install/
+-rw-r--r-- root/root       404 2016-02-23 23:44 install/doinst.sh
+-rw-r--r-- root/root       875 2016-02-23 23:44 install/slack-desc
+drwxr-xr-x root/root         0 2016-02-23 20:04 lib/
+-rwxr-xr-x root/root    543296 2016-02-23 20:04 lib/libgcrypt.so.11.8.4
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/
+drwxr-xr-x root/root         0 2016-02-23 20:04 usr/lib/
+-rwxr-xr-x root/root       960 2016-02-23 20:04 usr/lib/libgcrypt.la
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/bin/
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/bin/32/
+-rwxr-xr-x root/root     10548 2016-02-23 20:04 usr/bin/32/hmac256
+-rwxr-xr-x root/root     10120 2016-02-23 20:04 usr/bin/32/dumpsexp
+-rwxr-xr-x root/root      3894 2016-02-23 20:04 usr/bin/32/libgcrypt-config
+drwxr-xr-x root/root         0 2016-02-23 20:04 usr/doc/
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/doc/libgcrypt-1.5.5/
+-rw-r--r-- root/root     26536 2013-03-15 20:25 usr/doc/libgcrypt-1.5.5/COPYING.LIB
+-rw-r--r-- root/root      5017 2016-02-18 08:39 usr/doc/libgcrypt-1.5.5/AUTHORS
+-rw-r--r-- root/root      6935 2013-09-16 15:55 usr/doc/libgcrypt-1.5.5/THANKS
+-rw-r--r-- root/root     17992 2013-03-15 20:25 usr/doc/libgcrypt-1.5.5/COPYING
+
+

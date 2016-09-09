@@ -1,0 +1,11 @@
+audiofile-compat32: audiofile-compat32 (audio support library)
+audiofile-compat32:
+audiofile-compat32: Audiofile is a library to handle various audio file formats, and is
+audiofile-compat32: used by the esound daemon.  You can also use it to develop your own
+audiofile-compat32: audiofile-compat32 applications.
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32:
+audiofile-compat32: This package contains 32-bit compatibility binaries.

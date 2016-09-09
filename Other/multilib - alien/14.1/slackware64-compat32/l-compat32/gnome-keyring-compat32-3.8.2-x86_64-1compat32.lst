@@ -1,0 +1,35 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/gnome-keyring-compat32-3.8.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-12-13 13:40 ./
+drwxr-xr-x root/root         0 2013-12-13 13:40 install/
+-rw-r--r-- root/root        98 2013-12-13 13:40 install/doinst.sh
+-rw-r--r-- root/root      1080 2013-12-13 13:40 install/slack-desc
+drwxr-xr-x root/root         0 2013-12-13 13:40 usr/
+drwxr-xr-x root/root         0 2013-05-19 07:29 usr/lib/
+drwxr-xr-x root/root         0 2013-05-19 07:29 usr/lib/pkcs11/
+-rwxr-xr-x root/root       978 2013-05-19 07:29 usr/lib/pkcs11/gnome-keyring-pkcs11.la
+-rwxr-xr-x root/root     57412 2013-05-19 07:29 usr/lib/pkcs11/gnome-keyring-pkcs11.so
+drwxr-xr-x root/root         0 2013-05-19 07:29 usr/lib/gnome-keyring/
+drwxr-xr-x root/root         0 2013-05-19 07:29 usr/lib/gnome-keyring/devel/
+-rwxr-xr-x root/root      1210 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-xdg-store-standalone.la
+-rwxr-xr-x root/root      1196 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-gnome2-store-standalone.la
+-rwxr-xr-x root/root    446472 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-ssh-store-standalone.so
+-rwxr-xr-x root/root    454504 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-xdg-store-standalone.so
+-rwxr-xr-x root/root    507496 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-secret-store-standalone.so
+-rwxr-xr-x root/root      1210 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-ssh-store-standalone.la
+-rwxr-xr-x root/root    478728 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-gnome2-store-standalone.so
+-rwxr-xr-x root/root      1228 2013-05-19 07:29 usr/lib/gnome-keyring/devel/gkm-secret-store-standalone.la
+drwxr-xr-x root/root         0 2013-12-13 13:40 usr/bin/
+drwxr-xr-x root/root         0 2013-12-13 13:40 usr/bin/32/
+-rwxr-xr-x root/root    860240 2013-05-19 07:29 usr/bin/32/gnome-keyring-daemon
+-rwxr-xr-x root/root     13012 2013-05-19 07:29 usr/bin/32/gnome-keyring-3
+drwxr-xr-x root/root         0 2013-05-19 07:29 usr/doc/
+drwxr-xr-x root/root         0 2013-12-13 13:40 usr/doc/gnome-keyring-3.8.2/
+-rw-r--r-- root/root     25265 2012-06-25 10:30 usr/doc/gnome-keyring-3.8.2/COPYING.LIB
+-rw-r--r-- root/root       214 2012-04-09 10:27 usr/doc/gnome-keyring-3.8.2/AUTHORS
+-rw-r--r-- root/root     17992 2009-11-10 02:58 usr/doc/gnome-keyring-3.8.2/COPYING
+
+

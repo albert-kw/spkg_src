@@ -1,0 +1,11 @@
+alsa-oss-compat32: alsa-oss-compat32 (library/wrapper to use OSS programs with ALSA)
+alsa-oss-compat32:
+alsa-oss-compat32: The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI
+alsa-oss-compat32: functionality to the Linux operating system.  OSS (Open Sound System)
+alsa-oss-compat32: is an older sound system for Linux that ALSA is replacing.  Using
+alsa-oss-compat32: the aoss wrapper you can use programs that only support OSS with ALSA
+alsa-oss-compat32: without having to load the OSS compatibility kernel modules.
+alsa-oss-compat32:
+alsa-oss-compat32:
+alsa-oss-compat32:
+alsa-oss-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXrandr-compat32-1.4.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-20 02:11 ./
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/
+drwxr-xr-x root/root         0 2013-09-20 02:11 usr/doc/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/doc/libXrandr-1.4.2/
+-rw-r--r-- root/root      3645 2013-09-08 06:50 usr/doc/libXrandr-1.4.2/COPYING
+-rw-r--r-- root/root        85 2013-09-08 06:50 usr/doc/libXrandr-1.4.2/AUTHORS
+drwxr-xr-x root/root         0 2013-09-20 02:11 usr/lib/
+-rwxr-xr-x root/root     35460 2013-09-20 02:11 usr/lib/libXrandr.so.2.2.0
+drwxr-xr-x root/root         0 2013-09-20 02:11 usr/lib/pkgconfig/
+-rw-r--r-- root/root       258 2013-09-20 02:11 usr/lib/pkgconfig/xrandr.pc
+-rwxr-xr-x root/root      1040 2013-09-20 02:11 usr/lib/libXrandr.la
+drwxr-xr-x root/root         0 2013-09-21 12:31 install/
+-rw-r--r-- root/root       190 2013-09-21 12:31 install/doinst.sh
+-rw-r--r-- root/root      1000 2013-09-21 12:31 install/slack-desc
+
+

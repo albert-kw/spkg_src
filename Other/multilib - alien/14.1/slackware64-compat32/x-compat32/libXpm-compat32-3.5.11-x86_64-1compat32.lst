@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXpm-compat32-3.5.11-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-21 12:31 ./
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/bin/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/bin/32/
+-rwxr-xr-x root/root     14936 2013-09-20 02:11 usr/bin/32/sxpm
+-rwxr-xr-x root/root     20896 2013-09-20 02:11 usr/bin/32/cxpm
+drwxr-xr-x root/root         0 2013-09-20 02:11 usr/doc/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/doc/libXpm-3.5.11/
+-rw-r--r-- root/root      3792 2013-09-08 06:40 usr/doc/libXpm-3.5.11/COPYING
+-rw-r--r-- root/root       171 2013-09-08 06:40 usr/doc/libXpm-3.5.11/AUTHORS
+drwxr-xr-x root/root         0 2013-09-20 02:11 usr/lib/
+-rwxr-xr-x root/root     66028 2013-09-20 02:11 usr/lib/libXpm.so.4.11.0
+drwxr-xr-x root/root         0 2013-09-20 02:11 usr/lib/pkgconfig/
+-rw-r--r-- root/root       220 2013-09-20 02:11 usr/lib/pkgconfig/xpm.pc
+-rwxr-xr-x root/root       982 2013-09-20 02:11 usr/lib/libXpm.la
+drwxr-xr-x root/root         0 2013-09-21 12:31 install/
+-rw-r--r-- root/root       174 2013-09-21 12:31 install/doinst.sh
+-rw-r--r-- root/root       949 2013-09-21 12:31 install/slack-desc
+
+

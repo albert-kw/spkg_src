@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/a-compat32/openssl-solibs-compat32-1.0.1t-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-05-20 09:35 ./
+drwxr-xr-x root/root         0 2016-05-20 09:35 install/
+-rw-r--r-- root/root       685 2016-05-20 09:35 install/doinst.sh
+-rw-r--r-- root/root      1260 2016-05-20 09:35 install/slack-desc
+drwxr-xr-x root/root         0 2016-05-03 21:24 lib/
+-r-xr-xr-x root/root   1708063 2016-05-03 21:23 lib/libcrypto.so.0.9.8
+-r-xr-xr-x root/root    369703 2016-05-03 21:23 lib/libssl.so.0.9.8
+-r-xr-xr-x root/root    417696 2016-05-03 21:21 lib/libssl.so.1.0.0
+-r-xr-xr-x root/root   1809044 2016-05-03 21:21 lib/libcrypto.so.1.0.0
+drwxr-xr-x root/root         0 2016-05-03 21:24 usr/
+drwxr-xr-x root/root         0 2016-05-03 21:24 usr/doc/
+drwxr-xr-x root/root         0 2016-05-20 09:35 usr/doc/openssl-1.0.1t/
+-rw-r--r-- root/root      6279 2016-05-03 15:38 usr/doc/openssl-1.0.1t/LICENSE
+
+

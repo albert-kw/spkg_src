@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXt-compat32-1.1.4-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-06-22 06:37 ./
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/doc/
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/doc/libXt-1.1.4/
+-rw-r--r-- root/root      5673 2013-05-31 03:17 usr/doc/libXt-1.1.4/COPYING
+drwxr-xr-x root/root         0 2013-06-22 06:37 usr/lib/
+drwxr-xr-x root/root         0 2013-06-22 06:37 usr/lib/pkgconfig/
+-rw-r--r-- root/root       322 2013-06-22 06:37 usr/lib/pkgconfig/xt.pc
+-rwxr-xr-x root/root      1030 2013-06-22 06:37 usr/lib/libXt.la
+-rwxr-xr-x root/root    372132 2013-06-22 06:37 usr/lib/libXt.so.6.0.0
+drwxr-xr-x root/root         0 2013-07-13 15:03 install/
+-rw-r--r-- root/root       166 2013-07-13 15:03 install/doinst.sh
+-rw-r--r-- root/root       923 2013-07-13 15:03 install/slack-desc
+
+

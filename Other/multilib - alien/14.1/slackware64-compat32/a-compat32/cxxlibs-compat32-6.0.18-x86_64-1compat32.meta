@@ -1,0 +1,17 @@
+PACKAGE NAME:  cxxlibs-compat32-6.0.18-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  380 K
+PACKAGE SIZE (uncompressed):  1620 K
+PACKAGE DESCRIPTION:
+cxxlibs-compat32: cxxlibs-compat32 (C++ shared library compatibility package)
+cxxlibs-compat32:
+cxxlibs-compat32: This package contains the shared libraries needed to run dynamically
+cxxlibs-compat32: linked C++ binaries linked with older versions of libstdc++.
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32: This package contains 32-bit compatibility binaries.
+

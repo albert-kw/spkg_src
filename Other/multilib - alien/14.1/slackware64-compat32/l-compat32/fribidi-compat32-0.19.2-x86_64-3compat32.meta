@@ -1,0 +1,17 @@
+PACKAGE NAME:  fribidi-compat32-0.19.2-x86_64-3compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  150 K
+PACKAGE DESCRIPTION:
+fribidi-compat32: fribidi-compat32 (Unicode BiDirectional algorithm library)
+fribidi-compat32:
+fribidi-compat32: This library implements the Unicode BiDirectional algorithm, which
+fribidi-compat32: is needed in order to support right-to-left languages such as Arabic
+fribidi-compat32: and Hebrew.  It is used in display software like KDE's SVG modules.
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32:
+fribidi-compat32: This package contains 32-bit compatibility binaries.
+

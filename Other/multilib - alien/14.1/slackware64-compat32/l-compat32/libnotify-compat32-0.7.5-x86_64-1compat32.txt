@@ -1,0 +1,11 @@
+libnotify-compat32: libnotify-compat32 (notification library)
+libnotify-compat32: 
+libnotify-compat32: A general library for event notification
+libnotify-compat32:
+libnotify-compat32: Homepage: http://www.galago-project.org/news/index.php
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32:
+libnotify-compat32: This package contains 32-bit compatibility binaries.

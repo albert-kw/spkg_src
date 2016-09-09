@@ -1,0 +1,11 @@
+libXfontcache-compat32: libXfontcache
+libXfontcache-compat32:
+libXfontcache-compat32: libXfontcache-compat32 is part of X11.
+libXfontcache-compat32:
+libXfontcache-compat32: For more information about the X.Org Foundation (the providers of the
+libXfontcache-compat32: X.Org implementation of the X Window System), see their website:
+libXfontcache-compat32:
+libXfontcache-compat32: http://www.x.org
+libXfontcache-compat32:
+libXfontcache-compat32:
+libXfontcache-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,17 @@
+PACKAGE NAME:  cyrus-sasl-compat32-2.1.23-x86_64-5compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  84 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+cyrus-sasl-compat32: cyrus-sasl-compat32 (Simple Authentication and Security Layer)
+cyrus-sasl-compat32:
+cyrus-sasl-compat32: This is the Cyrus SASL library.  Cyrus SASL is used by mail programs 
+cyrus-sasl-compat32: on the client or server side to provide authentication and
+cyrus-sasl-compat32: authorization services.  See RFC 2222 for more information.
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32: This package contains 32-bit compatibility binaries.
+

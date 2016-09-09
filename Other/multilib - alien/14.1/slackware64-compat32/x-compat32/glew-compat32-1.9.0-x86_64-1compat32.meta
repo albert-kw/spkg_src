@@ -1,0 +1,17 @@
+PACKAGE NAME:  glew-compat32-1.9.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  164 K
+PACKAGE SIZE (uncompressed):  1030 K
+PACKAGE DESCRIPTION:
+glew-compat32: glew-compat32 (the OpenGL Extension Wrangler Library)
+glew-compat32:
+glew-compat32: The OpenGL Extension Wrangler Library (GLEW) is a cross-platform 
+glew-compat32: open-source C/C++ extension loading library. GLEW provides efficient 
+glew-compat32: run-time mechanisms for determining which OpenGL extensions are 
+glew-compat32: supported on the target platform.
+glew-compat32:
+glew-compat32: Homepage: http://glew.sourceforge.net/
+glew-compat32:
+glew-compat32:
+glew-compat32: This package contains 32-bit compatibility binaries.
+

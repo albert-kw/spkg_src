@@ -1,0 +1,24 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libX11-compat32-1.6.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-20 02:08 ./
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/
+drwxr-xr-x root/root         0 2013-09-20 02:08 usr/doc/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/doc/libX11-1.6.2/
+-rw-r--r-- root/root     47018 2013-09-09 03:37 usr/doc/libX11-1.6.2/COPYING
+-rw-r--r-- root/root      1306 2013-09-09 03:37 usr/doc/libX11-1.6.2/AUTHORS
+drwxr-xr-x root/root         0 2013-09-20 02:08 usr/lib/
+-rwxr-xr-x root/root   1268432 2013-09-20 02:08 usr/lib/libX11.so.6.3.0
+drwxr-xr-x root/root         0 2013-09-20 02:08 usr/lib/pkgconfig/
+-rw-r--r-- root/root       216 2013-09-20 02:08 usr/lib/pkgconfig/x11-xcb.pc
+-rw-r--r-- root/root       280 2013-09-20 02:08 usr/lib/pkgconfig/x11.pc
+-rwxr-xr-x root/root      3096 2013-09-20 02:08 usr/lib/libX11-xcb.so.1.0.0
+-rwxr-xr-x root/root       960 2013-09-20 02:08 usr/lib/libX11.la
+-rwxr-xr-x root/root      1003 2013-09-20 02:08 usr/lib/libX11-xcb.la
+drwxr-xr-x root/root         0 2013-09-21 12:31 install/
+-rw-r--r-- root/root       368 2013-09-21 12:31 install/doinst.sh
+-rw-r--r-- root/root       941 2013-09-21 12:31 install/slack-desc
+
+

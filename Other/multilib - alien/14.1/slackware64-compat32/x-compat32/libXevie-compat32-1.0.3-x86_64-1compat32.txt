@@ -1,0 +1,11 @@
+libXevie-compat32: libXevie
+libXevie-compat32:
+libXevie-compat32: libXevie-compat32 is part of X11.
+libXevie-compat32:
+libXevie-compat32: For more information about the X.Org Foundation (the providers of the
+libXevie-compat32: X.Org implementation of the X Window System), see their website:
+libXevie-compat32:
+libXevie-compat32: http://www.x.org
+libXevie-compat32:
+libXevie-compat32:
+libXevie-compat32: This package contains 32-bit compatibility binaries.

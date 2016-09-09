@@ -1,0 +1,11 @@
+libpcap-compat32: libpcap-compat32 (packet capture library)
+libpcap-compat32:
+libpcap-compat32: libpcap-compat32 is a library for user-level packet capture.  libpcap provides
+libpcap-compat32: a portable framework for low-level network monitoring.  Applications
+libpcap-compat32: include network statistics collection, security monitoring, network
+libpcap-compat32: debugging, etc.  The tcpdump utility uses libpcap.
+libpcap-compat32:
+libpcap-compat32: Project homepage:  http://sourceforge.net/projects/libpcap/
+libpcap-compat32:
+libpcap-compat32:
+libpcap-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,28 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libieee1284-compat32-0.2.11-x86_64-3compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-02-27 19:37 ./
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/bin/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/bin/32/
+-rwxr-xr-x root/root      6708 2012-06-20 21:55 usr/bin/32/libieee1284_test
+drwxr-xr-x root/root         0 2012-06-20 21:55 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/doc/libieee1284-0.2.11/
+-rw-r--r-- root/root     18002 2007-09-18 11:59 usr/doc/libieee1284-0.2.11/COPYING
+-rw-r--r-- root/root        76 2002-07-31 19:37 usr/doc/libieee1284-0.2.11/AUTHORS
+drwxr-xr-x root/root         0 2012-06-20 21:55 usr/lib/
+-rwxr-xr-x root/root       814 2012-06-20 21:55 usr/lib/libieee1284.la
+-rw-r--r-- root/root     59458 2012-06-20 21:55 usr/lib/libieee1284.a
+-rwxr-xr-x root/root     43028 2012-06-20 21:55 usr/lib/libieee1284.so.3.2.2
+drwxr-xr-x root/root         0 2012-06-20 21:55 usr/lib/python2.7/
+drwxr-xr-x root/root         0 2012-06-20 21:55 usr/lib/python2.7/site-packages/
+-rwxr-xr-x root/root       874 2012-06-20 21:55 usr/lib/python2.7/site-packages/ieee1284module.la
+-rwxr-xr-x root/root     23088 2012-06-20 21:55 usr/lib/python2.7/site-packages/ieee1284module.so
+-rw-r--r-- root/root     24848 2012-06-20 21:55 usr/lib/python2.7/site-packages/ieee1284module.a
+drwxr-xr-x root/root         0 2013-02-27 19:37 install/
+-rw-r--r-- root/root       202 2013-02-27 19:37 install/doinst.sh
+-rw-r--r-- root/root      1012 2013-02-27 19:37 install/slack-desc
+
+

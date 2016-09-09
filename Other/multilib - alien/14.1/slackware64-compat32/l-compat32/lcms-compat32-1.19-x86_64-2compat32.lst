@@ -1,0 +1,30 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/lcms-compat32-1.19-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-02-27 19:37 ./
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/bin/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/bin/32/
+-rwxr-xr-x root/root     15664 2012-06-20 22:37 usr/bin/32/tiffdiff
+-rwxr-xr-x root/root     18872 2012-06-20 22:37 usr/bin/32/jpegicc
+-rwxr-xr-x root/root     24816 2012-06-20 22:37 usr/bin/32/tifficc
+-rwxr-xr-x root/root     12744 2012-06-20 22:37 usr/bin/32/icclink
+-rwxr-xr-x root/root      8048 2012-06-20 22:37 usr/bin/32/icc2ps
+-rwxr-xr-x root/root      5760 2012-06-20 22:37 usr/bin/32/wtpt
+-rwxr-xr-x root/root     26476 2012-06-20 22:37 usr/bin/32/icctrans
+drwxr-xr-x root/root         0 2012-06-20 22:37 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/doc/lcms-1.19/
+-rw-r--r-- root/root      1078 2009-10-30 16:57 usr/doc/lcms-1.19/COPYING
+-rw-r--r-- root/root        60 2009-10-30 16:57 usr/doc/lcms-1.19/AUTHORS
+drwxr-xr-x root/root         0 2012-06-20 22:37 usr/lib/
+-rwxr-xr-x root/root       784 2012-06-20 22:37 usr/lib/liblcms.la
+drwxr-xr-x root/root         0 2012-06-20 22:37 usr/lib/pkgconfig/
+-rw-r--r-- root/root       197 2012-06-20 22:37 usr/lib/pkgconfig/lcms.pc
+-rwxr-xr-x root/root    222064 2012-06-20 22:37 usr/lib/liblcms.so.1.0.19
+drwxr-xr-x root/root         0 2013-02-27 19:37 install/
+-rw-r--r-- root/root       180 2013-02-27 19:37 install/doinst.sh
+-rw-r--r-- root/root       844 2013-02-27 19:37 install/slack-desc
+
+

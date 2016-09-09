@@ -1,0 +1,17 @@
+PACKAGE NAME:  freetype-compat32-2.5.5-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  264 K
+PACKAGE SIZE (uncompressed):  620 K
+PACKAGE DESCRIPTION:
+freetype-compat32: freetype-compat32 (A Free, High-Quality, and Portable Font Engine)
+freetype-compat32:
+freetype-compat32: The FreeType engine is a free and portable TrueType font rendering
+freetype-compat32: engine.  It has been developed to provide TrueType support to a
+freetype-compat32: great variety of platforms and environments.
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32: This package contains 32-bit compatibility binaries.
+

@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/ap-compat32/mpg123-compat32-1.15.4-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-07-13 15:02 ./
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/bin/
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/bin/32/
+-rwxr-xr-x root/root    134988 2013-06-23 01:15 usr/bin/32/mpg123
+drwxr-xr-x root/root         0 2013-06-23 01:15 usr/doc/
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/doc/mpg123-1.15.4/
+-rw-r--r-- root/root     41537 2013-05-20 13:39 usr/doc/mpg123-1.15.4/COPYING
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/doc/mpg123-1.15.4/doc/
+-rw-r--r-- root/root       957 2013-05-20 13:39 usr/doc/mpg123-1.15.4/doc/LICENSE
+-rw-r--r-- root/root       727 2013-05-20 13:39 usr/doc/mpg123-1.15.4/doc/THANKS
+-rw-r--r-- root/root      7589 2013-05-20 13:39 usr/doc/mpg123-1.15.4/AUTHORS
+drwxr-xr-x root/root         0 2013-06-23 01:15 usr/lib/
+drwxr-xr-x root/root         0 2013-06-23 01:15 usr/lib/pkgconfig/
+-rw-r--r-- root/root       221 2013-06-23 01:15 usr/lib/pkgconfig/libmpg123.pc
+-rwxr-xr-x root/root    311720 2013-06-23 01:15 usr/lib/libmpg123.so.0.37.5
+-rwxr-xr-x root/root       946 2013-06-23 01:15 usr/lib/libmpg123.la
+drwxr-xr-x root/root         0 2013-06-23 01:15 usr/lib/mpg123/
+-rwxr-xr-x root/root      9856 2013-06-23 01:15 usr/lib/mpg123/output_alsa.so
+-rwxr-xr-x root/root       959 2013-06-23 01:15 usr/lib/mpg123/output_dummy.la
+-rwxr-xr-x root/root       947 2013-06-23 01:15 usr/lib/mpg123/output_oss.la
+-rwxr-xr-x root/root      3348 2013-06-23 01:15 usr/lib/mpg123/output_dummy.so
+-rwxr-xr-x root/root      6132 2013-06-23 01:15 usr/lib/mpg123/output_oss.so
+-rwxr-xr-x root/root       990 2013-06-23 01:15 usr/lib/mpg123/output_alsa.la
+drwxr-xr-x root/root         0 2013-07-13 15:02 install/
+-rw-r--r-- root/root       267 2013-07-13 15:02 install/doinst.sh
+-rw-r--r-- root/root       967 2013-07-13 15:02 install/slack-desc
+
+

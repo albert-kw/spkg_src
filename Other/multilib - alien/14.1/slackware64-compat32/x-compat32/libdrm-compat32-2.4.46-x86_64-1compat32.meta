@@ -1,0 +1,17 @@
+PACKAGE NAME:  libdrm-compat32-2.4.46-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  100 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+libdrm-compat32: libdrm-compat32 (A library to support Direct Rendering)
+libdrm-compat32:
+libdrm-compat32: This library implements an interface to the kernel's DRM services.
+libdrm-compat32: It is used to support hardware accelerated 3-D rendering.
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32:
+libdrm-compat32: This package contains 32-bit compatibility binaries.
+

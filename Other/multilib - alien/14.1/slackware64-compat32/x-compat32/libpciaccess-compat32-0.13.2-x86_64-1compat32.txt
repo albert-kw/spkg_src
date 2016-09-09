@@ -1,0 +1,11 @@
+libpciaccess-compat32: libpciaccess-compat32 (Generic PCI access library)
+libpciaccess-compat32:
+libpciaccess-compat32: libpciaccess-compat32 is part of X11.
+libpciaccess-compat32:
+libpciaccess-compat32: For more information about the X.Org Foundation (the providers of the
+libpciaccess-compat32: X.Org implementation of the X Window System), see their website:
+libpciaccess-compat32:
+libpciaccess-compat32: http://www.x.org
+libpciaccess-compat32:
+libpciaccess-compat32:
+libpciaccess-compat32: This package contains 32-bit compatibility binaries.

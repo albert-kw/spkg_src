@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/d-compat32/libtool-compat32-2.4.2-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-10-22 17:29 ./
+drwxr-xr-x root/root         0 2013-10-22 17:29 usr/
+drwxr-xr-x root/root         0 2013-10-22 17:29 usr/bin/
+drwxr-xr-x root/root         0 2013-10-22 17:29 usr/bin/32/
+-rwxr-xr-x root/root    323104 2013-10-21 05:21 usr/bin/32/libtool
+-rwxr-xr-x root/root     78566 2013-10-21 05:21 usr/bin/32/libtoolize
+drwxr-xr-x root/root         0 2013-10-21 05:21 usr/doc/
+drwxr-xr-x root/root         0 2013-10-22 17:29 usr/doc/libtool-2.4.2/
+-rw-r--r-- root/root     17987 2011-10-09 23:45 usr/doc/libtool-2.4.2/COPYING
+-rw-r--r-- root/root      1939 2011-10-09 23:45 usr/doc/libtool-2.4.2/AUTHORS
+-rw-r--r-- root/root      9752 2011-10-17 12:17 usr/doc/libtool-2.4.2/THANKS
+drwxr-xr-x root/root         0 2013-10-21 05:21 usr/lib/
+-rwxr-xr-x root/root       917 2013-10-21 05:21 usr/lib/libltdl.la
+-rwxr-xr-x root/root     35328 2013-10-21 05:21 usr/lib/libltdl.so.7.3.0
+-rw-r--r-- root/root     47534 2013-10-21 05:21 usr/lib/libltdl.a
+drwxr-xr-x root/root         0 2013-10-22 17:29 install/
+-rw-r--r-- root/root       178 2013-10-22 17:29 install/doinst.sh
+-rw-r--r-- root/root      1128 2013-10-22 17:29 install/slack-desc
+
+

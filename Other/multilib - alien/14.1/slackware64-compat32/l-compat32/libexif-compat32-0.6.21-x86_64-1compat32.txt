@@ -1,0 +1,11 @@
+libexif-compat32: libexif-compat32 (Exchangeable Image File Format library)
+libexif-compat32:
+libexif-compat32: EXIF stands for Exchangeable Image File Format, which is a format used
+libexif-compat32: to store extra information in images such as the JPEG files produced
+libexif-compat32: by digital cameras.  The libexif library allows programs such as 
+libexif-compat32: gthumb to parse, edit, and save EXIF data.
+libexif-compat32:
+libexif-compat32:
+libexif-compat32:
+libexif-compat32:
+libexif-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,50 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libnl3-compat32-3.2.21-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2014-11-23 13:00 ./
+drwxr-xr-x root/root         0 2014-11-23 13:00 install/
+-rw-r--r-- root/root      1395 2014-11-23 13:00 install/doinst.sh
+-rw-r--r-- root/root      1182 2014-11-23 13:00 install/slack-desc
+drwxr-xr-x root/root         0 2014-11-23 13:00 usr/
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/lib/
+-rwxr-xr-x root/root     39164 2013-07-31 07:30 usr/lib/libnl-cli-3.so.200.16.1
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/lib/pkgconfig/
+-rw-r--r-- root/root       235 2013-07-31 07:30 usr/lib/pkgconfig/libnl-nf-3.0.pc
+-rw-r--r-- root/root       217 2013-07-31 07:30 usr/lib/pkgconfig/libnl-3.0.pc
+-rw-r--r-- root/root       293 2013-07-31 07:30 usr/lib/pkgconfig/libnl-cli-3.0.pc
+-rw-r--r-- root/root       240 2013-07-31 07:30 usr/lib/pkgconfig/libnl-route-3.0.pc
+-rw-r--r-- root/root       231 2013-07-31 07:30 usr/lib/pkgconfig/libnl-genl-3.0.pc
+-rwxr-xr-x root/root     19856 2013-07-31 07:30 usr/lib/libnl-genl-3.so.200.16.1
+-rwxr-xr-x root/root       982 2013-07-31 07:30 usr/lib/libnl-route-3.la
+-rwxr-xr-x root/root      1061 2013-07-31 07:30 usr/lib/libnl-cli-3.la
+-rwxr-xr-x root/root       976 2013-07-31 07:30 usr/lib/libnl-genl-3.la
+-rwxr-xr-x root/root       926 2013-07-31 07:30 usr/lib/libnl-3.la
+-rwxr-xr-x root/root     86632 2013-07-31 07:30 usr/lib/libnl-nf-3.so.200.16.1
+-rwxr-xr-x root/root    295816 2013-07-31 07:30 usr/lib/libnl-route-3.so.200.16.1
+-rwxr-xr-x root/root       990 2013-07-31 07:30 usr/lib/libnl-nf-3.la
+-rwxr-xr-x root/root    107012 2013-07-31 07:30 usr/lib/libnl-3.so.200.16.1
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/lib/libnl/
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/lib/libnl/cli/
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/lib/libnl/cli/cls/
+-rwxr-xr-x root/root      4288 2013-07-31 07:30 usr/lib/libnl/cli/cls/cgroup.so
+-rwxr-xr-x root/root       915 2013-07-31 07:30 usr/lib/libnl/cli/cls/cgroup.la
+-rwxr-xr-x root/root      4976 2013-07-31 07:30 usr/lib/libnl/cli/cls/basic.so
+-rwxr-xr-x root/root       909 2013-07-31 07:30 usr/lib/libnl/cli/cls/basic.la
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/
+-rwxr-xr-x root/root      3952 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/blackhole.so
+-rwxr-xr-x root/root       899 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/htb.la
+-rwxr-xr-x root/root       911 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/pfifo.la
+-rwxr-xr-x root/root      7016 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/htb.so
+-rwxr-xr-x root/root      4480 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/bfifo.so
+-rwxr-xr-x root/root       905 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/plug.la
+-rwxr-xr-x root/root      4288 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/pfifo.so
+-rwxr-xr-x root/root       911 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/bfifo.la
+-rwxr-xr-x root/root       935 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/blackhole.la
+-rwxr-xr-x root/root      5904 2013-07-31 07:30 usr/lib/libnl/cli/qdisc/plug.so
+drwxr-xr-x root/root         0 2013-07-31 07:30 usr/doc/
+drwxr-xr-x root/root         0 2014-11-23 13:00 usr/doc/libnl-3.2.21/
+-rw-r--r-- root/root     26530 2013-01-24 13:30 usr/doc/libnl-3.2.21/COPYING
+
+

@@ -1,0 +1,37 @@
+++========================================
+||
+||   Package:  ./glibc-profile-2.17_multilib-x86_64-11alien.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-02-24 01:10 ./
+drwxr-xr-x root/root         0 2016-02-24 01:10 install/
+-rw-r--r-- root/root       972 2016-02-24 01:10 install/slack-desc
+drwxr-xr-x root/root         0 2016-02-24 01:10 usr/
+drwxr-xr-x root/root         0 2016-02-24 01:10 usr/lib64/
+-rw-r--r-- root/root     57742 2016-02-24 01:10 usr/lib64/librpcsvc_p.a
+-rw-r--r-- root/root     14696 2016-02-24 01:10 usr/lib64/libutil_p.a
+-rw-r--r-- root/root   2156540 2016-02-24 01:10 usr/lib64/libm_p.a
+-rw-r--r-- root/root    200958 2016-02-24 01:10 usr/lib64/libnsl_p.a
+-rw-r--r-- root/root   5233586 2016-02-24 01:10 usr/lib64/libc_p.a
+-rw-r--r-- root/root     62622 2016-02-24 01:10 usr/lib64/libcrypt_p.a
+-rw-r--r-- root/root     81140 2016-02-24 01:10 usr/lib64/librt_p.a
+-rw-r--r-- root/root    156340 2016-02-24 01:10 usr/lib64/libresolv_p.a
+-rw-r--r-- root/root     20962 2016-02-24 01:10 usr/lib64/libanl_p.a
+-rw-r--r-- root/root      1744 2016-02-24 01:10 usr/lib64/libBrokenLocale_p.a
+-rw-r--r-- root/root     13994 2016-02-24 01:10 usr/lib64/libdl_p.a
+-rw-r--r-- root/root    401612 2016-02-24 01:10 usr/lib64/libpthread_p.a
+drwxr-xr-x root/root         0 2016-02-24 01:10 usr/lib/
+-rw-r--r-- root/root     52108 2016-02-24 01:10 usr/lib/librpcsvc_p.a
+-rw-r--r-- root/root     10416 2016-02-24 01:10 usr/lib/libutil_p.a
+-rw-r--r-- root/root    718096 2016-02-24 01:10 usr/lib/libm_p.a
+-rw-r--r-- root/root    145242 2016-02-24 01:10 usr/lib/libnsl_p.a
+-rw-r--r-- root/root   3590582 2016-02-24 01:10 usr/lib/libc_p.a
+-rw-r--r-- root/root     54074 2016-02-24 01:10 usr/lib/libcrypt_p.a
+-rw-r--r-- root/root     61214 2016-02-24 01:10 usr/lib/librt_p.a
+-rw-r--r-- root/root    118316 2016-02-24 01:10 usr/lib/libresolv_p.a
+-rw-r--r-- root/root     14686 2016-02-24 01:10 usr/lib/libanl_p.a
+-rw-r--r-- root/root      1256 2016-02-24 01:10 usr/lib/libBrokenLocale_p.a
+-rw-r--r-- root/root      9818 2016-02-24 01:10 usr/lib/libdl_p.a
+-rw-r--r-- root/root    288464 2016-02-24 01:10 usr/lib/libpthread_p.a
+
+

@@ -1,0 +1,17 @@
+PACKAGE NAME:  seamonkey-solibs-compat32-2.40-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  1292 K
+PACKAGE SIZE (uncompressed):  3610 K
+PACKAGE DESCRIPTION:
+seamonkey-solibs-compat32: seamonkey-solibs-compat32 (Shared libraries from Seamonkey)
+seamonkey-solibs-compat32:
+seamonkey-solibs-compat32: This package contains a subset of the shared libraries from Seamonkey
+seamonkey-solibs-compat32: to provide runtime support for various programs.
+seamonkey-solibs-compat32: This package is built from the Seamonkey sources and is provided
+seamonkey-solibs-compat32: as a standalone runtime package for people who do not want to install
+seamonkey-solibs-compat32: the entire seamonkey package (as for server use).
+seamonkey-solibs-compat32:
+seamonkey-solibs-compat32: This package is runtime only.  The include files and other files for
+seamonkey-solibs-compat32: development can be found in the seamonkey package.
+seamonkey-solibs-compat32: This package contains 32-bit compatibility binaries.
+

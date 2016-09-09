@@ -1,0 +1,24 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/a-compat32/attr-compat32-2.4.46-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-10-20 15:50 ./
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/bin/
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/bin/32/
+-rwxr-xr-x root/root      7556 2012-06-28 23:24 usr/bin/32/attr
+-rwxr-xr-x root/root     15652 2012-06-28 23:24 usr/bin/32/getfattr
+-rwxr-xr-x root/root     12224 2012-06-28 23:24 usr/bin/32/setfattr
+drwxr-xr-x root/root         0 2012-06-28 23:24 usr/doc/
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/doc/attr-2.4.46/
+-rw-r----- root/root     18312 2010-01-22 23:55 usr/doc/attr-2.4.46/COPYING
+drwxr-xr-x root/root         0 2012-06-28 23:24 usr/lib/
+-rw-r--r-- root/root     19990 2012-06-28 23:24 usr/lib/libattr.a
+drwxr-xr-x root/root         0 2013-10-20 15:50 install/
+-rw-r--r-- root/root       171 2013-10-20 15:50 install/doinst.sh
+-rw-r--r-- root/root      1180 2013-10-20 15:50 install/slack-desc
+drwxr-xr-x root/root         0 2012-06-28 23:24 lib/
+-rwxr-xr-x root/root     17044 2012-06-28 23:24 lib/libattr.so.1.1.0
+
+

@@ -1,0 +1,17 @@
+PACKAGE NAME:  libpng-compat32-1.4.19-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  364 K
+PACKAGE SIZE (uncompressed):  1860 K
+PACKAGE DESCRIPTION:
+libpng-compat32: libpng-compat32 (Portable Network Graphics library)
+libpng-compat32:
+libpng-compat32: PNG (Portable Network Graphics) is an extensible file format for the
+libpng-compat32: lossless, portable, well-compressed storage of raster images.  PNG
+libpng-compat32: provides a patent-free replacement for GIF and can also replace many
+libpng-compat32: common uses of TIFF.  Indexed-color, grayscale, and truecolor images
+libpng-compat32: are supported, plus an optional alpha channel.  Sample depths range
+libpng-compat32: from 1 to 16 bits.
+libpng-compat32:
+libpng-compat32:
+libpng-compat32: This package contains 32-bit compatibility binaries.
+

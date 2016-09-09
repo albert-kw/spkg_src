@@ -1,0 +1,17 @@
+PACKAGE NAME:  lcms-compat32-1.19-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  120 K
+PACKAGE SIZE (uncompressed):  350 K
+PACKAGE DESCRIPTION:
+lcms-compat32: lcms-compat32 (little cms engine)
+lcms-compat32:
+lcms-compat32: Little cms is a small, speed optimized color management engine.
+lcms-compat32:
+lcms-compat32: lcms-compat32 was written by Marti Maria <marti@littlecms.com>.
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32: This package contains 32-bit compatibility binaries.
+

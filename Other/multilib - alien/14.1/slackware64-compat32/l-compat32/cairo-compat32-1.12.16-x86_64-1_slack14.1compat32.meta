@@ -1,0 +1,17 @@
+PACKAGE NAME:  cairo-compat32-1.12.16-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  548 K
+PACKAGE SIZE (uncompressed):  1580 K
+PACKAGE DESCRIPTION:
+cairo-compat32: cairo-compat32 (graphics library used by GTK+)
+cairo-compat32:
+cairo-compat32: Cairo is a vector graphics library designed to provide high-quality
+cairo-compat32: display and print output. Cairo is designed to produce
+cairo-compat32: identical output on all output media while taking advantage of display
+cairo-compat32: hardware acceleration when available (eg. through the X Render
+cairo-compat32: Extension or OpenGL).
+cairo-compat32:
+cairo-compat32:
+cairo-compat32:
+cairo-compat32:
+

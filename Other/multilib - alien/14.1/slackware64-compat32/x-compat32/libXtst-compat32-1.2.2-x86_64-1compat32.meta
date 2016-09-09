@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXtst-compat32-1.2.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libXtst-compat32: libXtst-compat32 (client library for the XTEST & RECORD extensions)
+libXtst-compat32:
+libXtst-compat32: libXtst-compat32 is part of X11.
+libXtst-compat32:
+libXtst-compat32: For more information about the X.Org Foundation (the providers of the
+libXtst-compat32: X.Org implementation of the X Window System), see their website:
+libXtst-compat32:
+libXtst-compat32: http://www.x.org
+libXtst-compat32:
+libXtst-compat32:
+libXtst-compat32: This package contains 32-bit compatibility binaries.
+

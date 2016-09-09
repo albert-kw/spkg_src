@@ -1,0 +1,11 @@
+libXp-compat32: libXp-compat32 (X Print Client Library)
+libXp-compat32:
+libXp-compat32: libXp-compat32 is part of X11.
+libXp-compat32:
+libXp-compat32: For more information about the X.Org Foundation (the providers of the
+libXp-compat32: X.Org implementation of the X Window System), see their website:
+libXp-compat32:
+libXp-compat32: http://www.x.org
+libXp-compat32:
+libXp-compat32:
+libXp-compat32: This package contains 32-bit compatibility binaries.

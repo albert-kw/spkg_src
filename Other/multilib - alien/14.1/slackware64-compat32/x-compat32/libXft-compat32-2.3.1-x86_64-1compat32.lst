@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXft-compat32-2.3.1-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2012-06-13 21:53 ./
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/
+drwxr-xr-x root/root         0 2012-06-13 21:53 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/doc/libXft-2.3.1/
+-rw-r--r-- root/root      1105 2012-06-02 18:36 usr/doc/libXft-2.3.1/COPYING
+-rw-r--r-- root/root       263 2012-06-02 18:36 usr/doc/libXft-2.3.1/AUTHORS
+drwxr-xr-x root/root         0 2012-06-13 21:53 usr/lib/
+drwxr-xr-x root/root         0 2012-06-13 21:53 usr/lib/pkgconfig/
+-rw-r--r-- root/root       251 2012-06-13 21:53 usr/lib/pkgconfig/xft.pc
+-rwxr-xr-x root/root     82136 2012-06-13 21:53 usr/lib/libXft.so.2.3.1
+-rwxr-xr-x root/root      1083 2012-06-13 21:53 usr/lib/libXft.la
+drwxr-xr-x root/root         0 2013-02-27 19:56 install/
+-rw-r--r-- root/root       172 2013-02-27 19:56 install/doinst.sh
+-rw-r--r-- root/root       927 2013-02-27 19:56 install/slack-desc
+
+

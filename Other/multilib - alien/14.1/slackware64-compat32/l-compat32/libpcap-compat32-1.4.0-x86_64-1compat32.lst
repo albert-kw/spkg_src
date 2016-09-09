@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libpcap-compat32-1.4.0-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-07-13 15:02 ./
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/bin/
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/bin/32/
+-rwxr-xr-x root/root      1656 2013-07-05 21:04 usr/bin/32/pcap-config
+drwxr-xr-x root/root         0 2013-07-05 21:04 usr/doc/
+drwxr-xr-x root/root         0 2013-07-13 15:02 usr/doc/libpcap-1.4.0/
+-rw-r--r-- root/root       873 2013-02-21 04:51 usr/doc/libpcap-1.4.0/LICENSE
+drwxr-xr-x root/root         0 2013-07-05 21:04 usr/lib/
+-rwxr-xr-x root/root    262852 2013-07-05 21:04 usr/lib/libpcap.so.1.4.0
+-rw-r--r-- root/root    377634 2013-07-05 21:04 usr/lib/libpcap.a
+drwxr-xr-x root/root         0 2013-07-13 15:02 install/
+-rw-r--r-- root/root       174 2013-07-13 15:02 install/doinst.sh
+-rw-r--r-- root/root      1087 2013-07-13 15:02 install/slack-desc
+
+

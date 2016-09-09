@@ -1,0 +1,11 @@
+libusb-compat32: libusb-compat32 (USB library)
+libusb-compat32:
+libusb-compat32: This is libusb, a library which allows userspace application access
+libusb-compat32: to USB devices.  It is used to connect to USB devices like scanners
+libusb-compat32: and printers.
+libusb-compat32:
+libusb-compat32: http://libusb.org
+libusb-compat32:
+libusb-compat32:
+libusb-compat32:
+libusb-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/lzo-compat32-2.03-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2010-08-10 01:01 ./
+drwxr-xr-x root/root         0 2015-12-16 10:24 install/
+-rw-r--r-- root/root       178 2015-12-16 10:24 install/doinst.sh
+-rw-r--r-- root/root       898 2015-12-16 10:24 install/slack-desc
+drwxr-xr-x root/root         0 2015-12-16 10:24 usr/
+drwxr-xr-x root/root         0 2010-08-10 01:01 usr/lib/
+-rwxr-xr-x root/root    136728 2010-08-10 01:01 usr/lib/liblzo2.so.2.0.0
+-rwxr-xr-x root/root       777 2010-08-10 01:01 usr/lib/liblzo2.la
+drwxr-xr-x root/root         0 2010-08-10 01:01 usr/doc/
+drwxr-xr-x root/root         0 2015-12-16 10:24 usr/doc/lzo-2.03/
+-rw-r--r-- root/root       112 2008-04-30 14:51 usr/doc/lzo-2.03/AUTHORS
+-rw-r--r-- root/root       690 2008-04-30 14:51 usr/doc/lzo-2.03/THANKS
+-rw-r--r-- root/root     18098 2008-04-30 14:51 usr/doc/lzo-2.03/COPYING
+
+

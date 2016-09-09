@@ -1,0 +1,50 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/cairo-compat32-1.12.16-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2014-03-05 00:31 ./
+drwxr-xr-x root/root         0 2014-03-05 00:31 install/
+-rw-r--r-- root/root       976 2014-03-05 00:31 install/doinst.sh
+-rw-r--r-- root/root       968 2014-03-05 00:31 install/slack-desc
+drwxr-xr-x root/root         0 2014-03-05 00:31 usr/
+drwxr-xr-x root/root         0 2014-02-01 01:54 usr/lib/
+-rwxr-xr-x root/root    125156 2014-02-01 01:54 usr/lib/libcairo-script-interpreter.so.2.11200.16
+drwxr-xr-x root/root         0 2014-02-01 01:54 usr/lib/pkgconfig/
+-rw-r--r-- root/root       234 2014-02-01 01:54 usr/lib/pkgconfig/cairo-gl.pc
+-rw-r--r-- root/root       230 2014-02-01 01:54 usr/lib/pkgconfig/cairo-png.pc
+-rw-r--r-- root/root       456 2014-02-01 01:54 usr/lib/pkgconfig/cairo.pc
+-rw-r--r-- root/root       228 2014-02-01 01:54 usr/lib/pkgconfig/cairo-glx.pc
+-rw-r--r-- root/root       250 2014-02-01 01:54 usr/lib/pkgconfig/cairo-ft.pc
+-rw-r--r-- root/root       230 2014-02-01 01:54 usr/lib/pkgconfig/cairo-tee.pc
+-rw-r--r-- root/root       233 2014-02-01 01:54 usr/lib/pkgconfig/cairo-pdf.pc
+-rw-r--r-- root/root       227 2014-02-01 01:54 usr/lib/pkgconfig/cairo-egl.pc
+-rw-r--r-- root/root       236 2014-02-01 01:54 usr/lib/pkgconfig/cairo-script.pc
+-rw-r--r-- root/root       267 2014-02-01 01:54 usr/lib/pkgconfig/cairo-xlib-xrender.pc
+-rw-r--r-- root/root       233 2014-02-01 01:54 usr/lib/pkgconfig/cairo-xml.pc
+-rw-r--r-- root/root       240 2014-02-01 01:54 usr/lib/pkgconfig/cairo-xlib.pc
+-rw-r--r-- root/root       239 2014-02-01 01:54 usr/lib/pkgconfig/cairo-xcb-shm.pc
+-rw-r--r-- root/root       279 2014-02-01 01:54 usr/lib/pkgconfig/cairo-gobject.pc
+-rw-r--r-- root/root       258 2014-02-01 01:54 usr/lib/pkgconfig/cairo-xcb.pc
+-rw-r--r-- root/root       230 2014-02-01 01:54 usr/lib/pkgconfig/cairo-svg.pc
+-rw-r--r-- root/root       239 2014-02-01 01:54 usr/lib/pkgconfig/cairo-ps.pc
+-rw-r--r-- root/root       253 2014-02-01 01:54 usr/lib/pkgconfig/cairo-fc.pc
+-rwxr-xr-x root/root      1704 2014-02-01 01:54 usr/lib/libcairo-gobject.la
+-rwxr-xr-x root/root      1565 2014-02-01 01:54 usr/lib/libcairo.la
+-rwxr-xr-x root/root     24848 2014-02-01 01:54 usr/lib/libcairo-gobject.so.2.11200.16
+drwxr-xr-x root/root         0 2014-02-01 01:54 usr/lib/cairo/
+-rwxr-xr-x root/root       970 2014-02-01 01:54 usr/lib/cairo/cairo-sphinx.la
+-rwxr-xr-x root/root     12904 2014-02-01 01:54 usr/lib/cairo/cairo-sphinx.so.0.0.0
+-rwxr-xr-x root/root      1720 2014-02-01 01:54 usr/lib/libcairo-script-interpreter.la
+-rwxr-xr-x root/root   1279864 2014-02-01 01:54 usr/lib/libcairo.so.2.11200.16
+drwxr-xr-x root/root         0 2014-03-05 00:31 usr/bin/
+drwxr-xr-x root/root         0 2014-03-05 00:31 usr/bin/32/
+-rwxr-xr-x root/root     64108 2014-02-01 01:54 usr/bin/32/cairo-sphinx
+drwxr-xr-x root/root         0 2014-02-01 01:54 usr/doc/
+drwxr-xr-x root/root         0 2014-03-05 00:31 usr/doc/cairo-1.12.16/
+-rw-r--r-- root/root     25755 2013-08-26 17:07 usr/doc/cairo-1.12.16/COPYING-MPL-1.1
+-rw-r--r-- root/root      7843 2013-08-26 17:07 usr/doc/cairo-1.12.16/AUTHORS
+-rw-r--r-- root/root      1576 2013-08-26 17:07 usr/doc/cairo-1.12.16/COPYING
+-rw-r--r-- root/root     26533 2013-08-26 17:07 usr/doc/cairo-1.12.16/COPYING-LGPL-2.1
+
+

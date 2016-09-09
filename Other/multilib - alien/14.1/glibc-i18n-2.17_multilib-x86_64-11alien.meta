@@ -1,0 +1,17 @@
+PACKAGE NAME:  glibc-i18n-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  10860 K
+PACKAGE SIZE (uncompressed):  225350 K
+PACKAGE DESCRIPTION:
+glibc-i18n: glibc-i18n (locale files from glibc)
+glibc-i18n:
+glibc-i18n: These files go in /usr/lib/locale and /usr/share/i18n/ to provide
+glibc-i18n: internationalization support.  You'll need this package unless you
+glibc-i18n: will be using US English only.
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+glibc-i18n:
+

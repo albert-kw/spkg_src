@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXv-compat32-1.0.10-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-20 02:12 ./
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/
+drwxr-xr-x root/root         0 2013-09-20 02:12 usr/doc/
+drwxr-xr-x root/root         0 2013-09-21 12:31 usr/doc/libXv-1.0.10/
+-rw-r--r-- root/root      2240 2013-09-08 07:20 usr/doc/libXv-1.0.10/COPYING
+-rw-r--r-- root/root        95 2013-09-08 07:20 usr/doc/libXv-1.0.10/AUTHORS
+drwxr-xr-x root/root         0 2013-09-20 02:12 usr/lib/
+-rwxr-xr-x root/root       993 2013-09-20 02:12 usr/lib/libXv.la
+-rwxr-xr-x root/root     15968 2013-09-20 02:12 usr/lib/libXv.so.1.0.0
+drwxr-xr-x root/root         0 2013-09-20 02:12 usr/lib/pkgconfig/
+-rw-r--r-- root/root       235 2013-09-20 02:12 usr/lib/pkgconfig/xv.pc
+drwxr-xr-x root/root         0 2013-09-21 12:31 install/
+-rw-r--r-- root/root       166 2013-09-21 12:31 install/doinst.sh
+-rw-r--r-- root/root       956 2013-09-21 12:31 install/slack-desc
+
+

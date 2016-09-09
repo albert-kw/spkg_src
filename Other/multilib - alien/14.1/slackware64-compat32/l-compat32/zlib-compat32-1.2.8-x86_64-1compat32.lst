@@ -1,0 +1,18 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/zlib-compat32-1.2.8-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-08-21 02:33 ./
+drwxr-xr-x root/root         0 2013-09-08 16:56 usr/
+drwxr-xr-x root/root         0 2013-08-21 02:33 usr/lib/
+drwxr-xr-x root/root         0 2013-08-21 02:33 usr/lib/pkgconfig/
+-rw-r--r-- root/root       242 2013-08-21 02:33 usr/lib/pkgconfig/zlib.pc
+-rw-r--r-- root/root    100874 2013-08-21 02:33 usr/lib/libz.a
+drwxr-xr-x root/root         0 2013-09-08 16:56 install/
+-rw-r--r-- root/root       334 2013-09-08 16:56 install/doinst.sh
+-rw-r--r-- root/root       993 2013-09-08 16:56 install/slack-desc
+drwxr-xr-x root/root         0 2013-08-21 02:33 lib/
+-rwxr-xr-x root/root     85748 2013-08-21 02:33 lib/libz.so.1.2.8
+
+

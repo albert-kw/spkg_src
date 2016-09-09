@@ -1,0 +1,17 @@
+PACKAGE NAME:  v4l-utils-compat32-0.9.5-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  344 K
+PACKAGE SIZE (uncompressed):  1120 K
+PACKAGE DESCRIPTION:
+v4l-utils-compat32: v4l-utils-compat32 (libraries and utilities for video4linux)
+v4l-utils-compat32:
+v4l-utils-compat32: libv4l is a collection of libraries which adds a thin abstraction
+v4l-utils-compat32: layer on top of video4linux2 devices.  The purpose of this (thin)
+v4l-utils-compat32: layer is to make it easy for application writers to support a wide
+v4l-utils-compat32: variety of devices without having to write separate code for
+v4l-utils-compat32: different devices in the same class.  Linux V4L2 and DVB API
+v4l-utils-compat32: utilities are also included.
+v4l-utils-compat32:
+v4l-utils-compat32: Homepage:  http://linuxtv.org
+v4l-utils-compat32: This package contains 32-bit compatibility binaries.
+

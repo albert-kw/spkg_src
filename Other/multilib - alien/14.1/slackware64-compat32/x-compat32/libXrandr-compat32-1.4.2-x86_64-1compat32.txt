@@ -1,0 +1,11 @@
+libXrandr-compat32: libXrandr-compat32 (X Resize, Rotate and Reflection extension library)
+libXrandr-compat32:
+libXrandr-compat32: libXrandr-compat32 is part of X11.
+libXrandr-compat32:
+libXrandr-compat32: For more information about the X.Org Foundation (the providers of the
+libXrandr-compat32: X.Org implementation of the X Window System), see their website:
+libXrandr-compat32:
+libXrandr-compat32: http://www.x.org
+libXrandr-compat32:
+libXrandr-compat32:
+libXrandr-compat32: This package contains 32-bit compatibility binaries.

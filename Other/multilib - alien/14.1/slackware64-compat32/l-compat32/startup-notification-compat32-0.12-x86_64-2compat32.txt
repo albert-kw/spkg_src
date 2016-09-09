@@ -1,0 +1,11 @@
+startup-notification-compat32: startup-notification-compat32 ("busy" cursors support)
+startup-notification-compat32:
+startup-notification-compat32: Adds support for applications to use "busy" cursors while starting up.
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32:
+startup-notification-compat32: This package contains 32-bit compatibility binaries.

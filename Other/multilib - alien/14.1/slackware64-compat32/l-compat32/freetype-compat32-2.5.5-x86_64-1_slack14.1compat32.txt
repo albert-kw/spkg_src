@@ -1,0 +1,11 @@
+freetype-compat32: freetype-compat32 (A Free, High-Quality, and Portable Font Engine)
+freetype-compat32:
+freetype-compat32: The FreeType engine is a free and portable TrueType font rendering
+freetype-compat32: engine.  It has been developed to provide TrueType support to a
+freetype-compat32: great variety of platforms and environments.
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32:
+freetype-compat32: This package contains 32-bit compatibility binaries.

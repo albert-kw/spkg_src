@@ -1,0 +1,39 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/a-compat32/e2fsprogs-compat32-1.42.8-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-08 16:53 ./
+drwxr-xr-x root/root         0 2013-09-08 16:53 usr/
+drwxr-xr-x root/root         0 2013-09-08 16:53 usr/bin/
+drwxr-xr-x root/root         0 2013-09-08 16:53 usr/bin/32/
+-rwxr-xr-x root/root      8072 2013-08-17 05:22 usr/bin/32/chattr
+-rwxr-xr-x root/root      6976 2013-08-17 05:22 usr/bin/32/lsattr
+-rwxr-xr-x root/root      1300 2013-08-17 05:22 usr/bin/32/mk_cmds
+-rwxr-xr-x root/root      1459 2013-08-17 05:22 usr/bin/32/compile_et
+drwxr-xr-x root/root         0 2013-08-17 05:22 usr/doc/
+drwxr-xr-x root/root         0 2013-09-08 16:53 usr/doc/e2fsprogs-1.42.8/
+-rw-r--r-- root/root     44569 2009-08-13 03:39 usr/doc/e2fsprogs-1.42.8/COPYING
+drwxr-xr-x root/root         0 2013-08-17 05:22 usr/lib/
+drwxr-xr-x root/root         0 2013-08-17 05:22 usr/lib/pkgconfig/
+-rw-r--r-- root/root       250 2013-08-17 05:22 usr/lib/pkgconfig/ss.pc
+-rw-r--r-- root/root       248 2013-08-17 05:22 usr/lib/pkgconfig/com_err.pc
+-rw-r--r-- root/root       224 2013-08-17 05:22 usr/lib/pkgconfig/ext2fs.pc
+-rw-r--r-- root/root       215 2013-08-17 05:22 usr/lib/pkgconfig/quota.pc
+-rw-r--r-- root/root       226 2013-08-17 05:22 usr/lib/pkgconfig/e2p.pc
+drwxr-xr-x root/root         0 2013-09-08 16:53 install/
+-rw-r--r-- root/root      1035 2013-09-08 16:53 install/doinst.sh
+-rw-r--r-- root/root       973 2013-09-08 16:53 install/slack-desc
+drwxr-xr-x root/root         0 2013-08-17 05:22 lib/
+-r--r--r-- root/root     37458 2013-08-17 05:22 lib/libquota.a
+-rwxr-xr-x root/root    287272 2013-08-17 05:22 lib/libext2fs.so.2.4
+-r--r--r-- root/root     32958 2013-08-17 05:22 lib/libss.a
+-rwxr-xr-x root/root     27132 2013-08-17 05:22 lib/libe2p.so.2.3
+-rwxr-xr-x root/root     20308 2013-08-17 05:22 lib/libss.so.2.0
+-r--r--r-- root/root    383590 2013-08-17 05:22 lib/libext2fs.a
+-rwxr-xr-x root/root     10284 2013-08-17 05:22 lib/libcom_err.so.2.1
+-r--r--r-- root/root     12616 2013-08-17 05:22 lib/libcom_err.a
+-rwxr-xr-x root/root      8336 2013-08-17 05:22 lib/e2initrd_helper
+-r--r--r-- root/root     46124 2013-08-17 05:22 lib/libe2p.a
+
+

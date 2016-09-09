@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/n-compat32/p11-kit-compat32-0.16.4-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-05-22 13:06 ./
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/bin/
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/bin/32/
+-rwxr-xr-x root/root     99224 2013-05-19 07:22 usr/bin/32/p11-kit
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/doc/
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/doc/p11-kit-0.16.4/
+-rw-r--r-- root/root      1447 2012-02-10 20:43 usr/doc/p11-kit-0.16.4/COPYING
+-rw-r--r-- root/root        36 2012-02-10 20:43 usr/doc/p11-kit-0.16.4/AUTHORS
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/lib/
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/lib/pkcs11/
+-rwxr-xr-x root/root       959 2013-05-19 07:22 usr/lib/pkcs11/p11-kit-trust.la
+-rwxr-xr-x root/root    117948 2013-05-19 07:22 usr/lib/pkcs11/p11-kit-trust.so
+-rwxr-xr-x root/root     98424 2013-05-19 07:22 usr/lib/libp11-kit.so.0.0.0
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/lib/pkgconfig/
+-rw-r--r-- root/root       793 2013-05-19 07:22 usr/lib/pkgconfig/p11-kit-1.pc
+-rwxr-xr-x root/root       935 2013-05-19 07:22 usr/lib/libp11-kit.la
+drwxr-xr-x root/root         0 2013-05-22 13:06 install/
+-rw-r--r-- root/root       298 2013-05-22 13:06 install/doinst.sh
+-rw-r--r-- root/root      1155 2013-05-22 13:06 install/slack-desc
+
+

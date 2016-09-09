@@ -1,0 +1,11 @@
+llvm-compat32: llvm-compat32 (LLVM compiler toolkit)
+llvm-compat32:
+llvm-compat32: Low Level Virtual Machine is a toolkit for the construction of highly
+llvm-compat32: optimized compilers, optimizers, and runtime environments.
+llvm-compat32:
+llvm-compat32: This package also includes the clang frontend for the C family of
+llvm-compat32: languages:  C, C++, Objective-C, and Objective-C++
+llvm-compat32:
+llvm-compat32:
+llvm-compat32: Homepage: http://llvm.org/
+llvm-compat32: This package contains 32-bit compatibility binaries.

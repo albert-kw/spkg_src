@@ -1,0 +1,24 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/a-compat32/bzip2-compat32-1.0.6-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-02-27 19:36 ./
+drwxr-xr-x root/root         0 2013-02-27 19:36 usr/
+drwxr-xr-x root/root         0 2013-02-27 19:36 usr/bin/
+drwxr-xr-x root/root         0 2013-02-27 19:36 usr/bin/32/
+-rwxr-xr-x root/root      2128 2010-09-20 20:32 usr/bin/32/bzdiff
+-rwxr-xr-x root/root      1677 2010-09-20 20:32 usr/bin/32/bzgrep
+-rwxr-xr-x root/root      1259 2010-09-20 20:32 usr/bin/32/bzmore
+drwxr-xr-x root/root         0 2010-09-20 20:32 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:36 usr/doc/bzip2-1.0.6/
+-rw-r--r-- root/root      1901 2010-09-11 01:15 usr/doc/bzip2-1.0.6/LICENSE
+drwxr-xr-x root/root         0 2010-09-20 20:32 usr/lib/
+-rw-r--r-- root/root    169898 2010-09-20 20:32 usr/lib/libbz2.a
+drwxr-xr-x root/root         0 2013-02-27 19:36 install/
+-rw-r--r-- root/root       577 2013-02-27 19:36 install/doinst.sh
+-rw-r--r-- root/root      1104 2013-02-27 19:36 install/slack-desc
+drwxr-xr-x root/root         0 2010-09-20 20:32 lib/
+-rwxr-xr-x root/root     70360 2010-09-20 20:32 lib/libbz2.so.1.0.6
+
+

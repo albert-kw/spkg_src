@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/jasper-compat32-1.900.1-x86_64-4_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2015-11-01 13:22 ./
+drwxr-xr-x root/root         0 2015-11-01 13:22 install/
+-rw-r--r-- root/root       190 2015-11-01 13:22 install/doinst.sh
+-rw-r--r-- root/root      1026 2015-11-01 13:22 install/slack-desc
+drwxr-xr-x root/root         0 2015-11-01 13:22 usr/
+drwxr-xr-x root/root         0 2015-10-26 20:14 usr/lib/
+-rwxr-xr-x root/root    322704 2015-10-26 20:14 usr/lib/libjasper.so.1.0.0
+-rwxr-xr-x root/root       813 2015-10-26 20:14 usr/lib/libjasper.la
+drwxr-xr-x root/root         0 2015-11-01 13:22 usr/bin/
+drwxr-xr-x root/root         0 2015-11-01 13:22 usr/bin/32/
+-rwxr-xr-x root/root     10136 2015-10-26 20:14 usr/bin/32/imgcmp
+-rwxr-xr-x root/root      4552 2015-10-26 20:14 usr/bin/32/tmrdemo
+-rwxr-xr-x root/root      5852 2015-10-26 20:14 usr/bin/32/imginfo
+-rwxr-xr-x root/root     18516 2015-10-26 20:14 usr/bin/32/jiv
+-rwxr-xr-x root/root     12180 2015-10-26 20:14 usr/bin/32/jasper
+drwxr-xr-x root/root         0 2015-10-26 20:14 usr/doc/
+drwxr-xr-x root/root         0 2015-11-01 13:22 usr/doc/jasper-1.900.1/
+-rw-r--r-- root/root       130 2007-01-19 22:43 usr/doc/jasper-1.900.1/COPYRIGHT
+-rw-r--r-- root/root      2744 2007-01-19 22:43 usr/doc/jasper-1.900.1/LICENSE
+
+

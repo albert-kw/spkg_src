@@ -1,0 +1,11 @@
+libgphoto2-compat32: libgphoto2-compat32 (Digital Camera Library)
+libgphoto2-compat32:
+libgphoto2-compat32: libgphoto2-compat32 is a library that can be used by applications to access
+libgphoto2-compat32: various digital cameras.
+libgphoto2-compat32:
+libgphoto2-compat32: Homepage: http://www.gphoto.org/
+libgphoto2-compat32:
+libgphoto2-compat32:
+libgphoto2-compat32:
+libgphoto2-compat32:
+libgphoto2-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/fribidi-compat32-0.19.2-x86_64-3compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-25 00:18 ./
+drwxr-xr-x root/root         0 2013-09-25 00:18 usr/
+drwxr-xr-x root/root         0 2013-09-25 00:18 usr/bin/
+drwxr-xr-x root/root         0 2013-09-25 00:18 usr/bin/32/
+-rwxr-xr-x root/root     12016 2012-08-15 04:57 usr/bin/32/fribidi
+drwxr-xr-x root/root         0 2012-08-15 04:57 usr/doc/
+drwxr-xr-x root/root         0 2013-09-25 00:18 usr/doc/fribidi-0.19.2/
+-rw-r--r-- root/root     26430 2004-04-25 20:47 usr/doc/fribidi-0.19.2/COPYING
+-rw-r--r-- root/root      1715 2005-01-09 12:18 usr/doc/fribidi-0.19.2/AUTHORS
+-rw-r--r-- root/root       811 2005-06-08 20:53 usr/doc/fribidi-0.19.2/THANKS
+drwxr-xr-x root/root         0 2012-08-15 04:57 usr/lib/
+-rwxr-xr-x root/root     90196 2012-08-15 04:57 usr/lib/libfribidi.so.0.3.1
+-rwxr-xr-x root/root       922 2012-08-15 04:57 usr/lib/libfribidi.la
+drwxr-xr-x root/root         0 2012-08-15 04:57 usr/lib/pkgconfig/
+-rw-r--r-- root/root       297 2012-08-15 04:57 usr/lib/pkgconfig/fribidi.pc
+drwxr-xr-x root/root         0 2013-09-25 00:18 install/
+-rw-r--r-- root/root       196 2013-09-25 00:18 install/doinst.sh
+-rw-r--r-- root/root       981 2013-09-25 00:18 install/slack-desc
+
+
