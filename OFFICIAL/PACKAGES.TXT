@@ -99,6 +99,26 @@ slapt-get: * Please translate:
 slapt-get:   http://software.jaos.org/git/slapt-get/tree/po
 slapt-get:   then send to slapt-get-devel@software.jaos.org
 
+PACKAGE NAME:  screen-4.4.0-x86_64-1.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  545 K
+PACKAGE SIZE (uncompressed):  950 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+screen: screen (screen manager with VT100/ANSI terminal emulation)
+screen:
+screen: Screen is a full-screen window manager that multiplexes a physical
+screen: terminal between several processes (typically interactive shells).
+screen: Each virtual terminal provides the functions of a DEC VT100 terminal
+screen: and several control functions from the ISO 6492 (ECMA 48, ANSI X3.64)
+screen: and ISO 2022 standards (e.g. insert/delete line and support for
+screen: multiple character sets).  There is a scrollback history buffer for
+screen: each virtual terminal and a copy-and-paste mechanism that allows
+screen: moving text regions between windows.
+screen:
+
 PACKAGE NAME:  wireless-tools-29-x86_64-9.txz
 PACKAGE LOCATION:  ./wifi-network
 PACKAGE SIZE (compressed):  129 K
