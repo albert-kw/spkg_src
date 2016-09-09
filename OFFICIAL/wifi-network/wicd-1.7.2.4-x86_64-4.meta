@@ -1,0 +1,20 @@
+PACKAGE NAME:  wicd-1.7.2.4-x86_64-4.txz
+PACKAGE LOCATION:  ./wifi-network
+PACKAGE SIZE (compressed):  342 K
+PACKAGE SIZE (uncompressed):  1960 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+wicd: wicd (network manager for linux)
+wicd:
+wicd: wicd is a wired and wireless network manager for Linux.
+wicd: Some features include:
+wicd: - Ability to connect to wired and wireless networks
+wicd: - Profiles for each wireless network and wired network
+wicd: - Many encryption schemes, some of which include WEP/WPA/WPA2
+wicd: - Compatible with wireless-tools 
+wicd:
+wicd: Homepage: http://wicd.net
+wicd:
+

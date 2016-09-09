@@ -1,0 +1,20 @@
+PACKAGE NAME:  libgksu-2.0.12-x86_64-2dj.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  380 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libgksu: LibGKSu (GkSu Library)
+libgksu:
+libgksu: LibGKSu is a library that  provides a Gtk+ frontend to su and sudo
+libgksu: It supports login shells and preserving environment when acting as
+libgksu: a  su  frontend. It  is  useful to  menu items or  other graphical
+libgksu: programs that need to ask a user's password to run another program
+libgksu: as another user.
+libgksu:
+libgksu:
+libgksu:
+libgksu:
+

@@ -1,4 +1,24 @@
 
+PACKAGE NAME:  gpgme-1.3.0-x86_64-1.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  240 K
+PACKAGE SIZE (uncompressed):  1000 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+gpgme: gpgme (GnuPG Made Easy)
+gpgme:
+gpgme: GPGME (GnuPG Made Easy) is a C language library that allows to add
+gpgme: support for cryptography to a program.  It is designed to make access
+gpgme: to public key crypto engines like GnuPG or GpgSM easier for
+gpgme: applications.  GPGME provides a high-level crypto API for encryption,
+gpgme: decryption, signing, signature verification and key management.
+gpgme:
+gpgme: GPGME uses GnuPG and GpgSM as its backends to support OpenPGP and the 
+gpgme: Cryptographic Message Syntax (CMS).
+gpgme:
+
 PACKAGE NAME:  rpm2tgz-1.2.2-x86_64-1.txz
 PACKAGE LOCATION:  .
 PACKAGE SIZE (compressed):  6 K
@@ -18,6 +38,186 @@ rpm2tgz:
 rpm2tgz:
 rpm2tgz:
 rpm2tgz:
+
+PACKAGE NAME:  sbopkg-0.37.0-noarch-1_cng.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  116 K
+PACKAGE SIZE (uncompressed):  350 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+sbopkg: sbopkg  (SlackBuilds.org Package Browser)
+sbopkg:
+sbopkg: Sbopkg is a command-line and dialog-based tool to interact with the
+sbopkg: SlackBuilds.org repository, a collection of third-party SlackBuild
+sbopkg: scripts to build Slackware packages.
+sbopkg:
+sbopkg: Homepage:  http://www.sbopkg.org
+sbopkg:
+sbopkg:
+sbopkg:
+sbopkg:
+
+PACKAGE NAME:  libgksu-2.0.12-x86_64-2dj.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  380 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libgksu: LibGKSu (GkSu Library)
+libgksu:
+libgksu: LibGKSu is a library that  provides a Gtk+ frontend to su and sudo
+libgksu: It supports login shells and preserving environment when acting as
+libgksu: a  su  frontend. It  is  useful to  menu items or  other graphical
+libgksu: programs that need to ask a user's password to run another program
+libgksu: as another user.
+libgksu:
+libgksu:
+libgksu:
+libgksu:
+
+PACKAGE NAME:  slapt-get-0.10.2p-x86_64-4gv.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  157 K
+PACKAGE SIZE (uncompressed):  870 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+slapt-get: slapt-get (an apt like system for Slackware package management)
+slapt-get: 
+slapt-get: slapt-get allows one to search slackware and compatible repositories
+slapt-get: for packages, compare them with installed packages, install new
+slapt-get: packages or upgrade installed packages all with a few simple commands.
+slapt-get: * See /usr/doc/slapt-get-0.10.2p/ for complete documentation.
+slapt-get: * Support:
+slapt-get:   http://software.jaos.org/cgi-bin/mailman/listinfo/slapt-get-user
+slapt-get: * Please translate:
+slapt-get:   http://software.jaos.org/git/slapt-get/tree/po
+slapt-get:   then send to slapt-get-devel@software.jaos.org
+
+PACKAGE NAME:  wireless-tools-29-x86_64-9.txz
+PACKAGE LOCATION:  ./wifi-network
+PACKAGE SIZE (compressed):  129 K
+PACKAGE SIZE (uncompressed):  520 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+wireless-tools: wireless-tools (utilities for wireless networking)
+wireless-tools:
+wireless-tools: This package contains tools and a library used for configuring
+wireless-tools: wireless networking interfaces:
+wireless-tools:   iwconfig (the main wireless tool),  iwlist (display more detailed
+wireless-tools:   information than iwconfig),  iwspy (get stats per MAC address and
+wireless-tools:   more),  iwpriv (set driver private ioctls),  iwgetid (show the
+wireless-tools:   ESSID or NWID of a device),  iwevent (display wireless events),
+wireless-tools:   ifrename (rename a network interface).
+wireless-tools:
+wireless-tools: The wireless-tools were written by Jean Tourrilhes.
+
+PACKAGE NAME:  wicd-1.7.2.4-x86_64-4.txz
+PACKAGE LOCATION:  ./wifi-network
+PACKAGE SIZE (compressed):  342 K
+PACKAGE SIZE (uncompressed):  1960 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+wicd: wicd (network manager for linux)
+wicd:
+wicd: wicd is a wired and wireless network manager for Linux.
+wicd: Some features include:
+wicd: - Ability to connect to wired and wireless networks
+wicd: - Profiles for each wireless network and wired network
+wicd: - Many encryption schemes, some of which include WEP/WPA/WPA2
+wicd: - Compatible with wireless-tools 
+wicd:
+wicd: Homepage: http://wicd.net
+wicd:
+
+PACKAGE NAME:  iw-3.5-x86_64-1.txz
+PACKAGE LOCATION:  ./wifi-network
+PACKAGE SIZE (compressed):  40 K
+PACKAGE SIZE (uncompressed):  120 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+iw: iw (tool for configuring Linux wireless devices)
+iw:
+iw: This package contains the `iw' tool which allows you to configure and
+iw: show information about wireless networking.  The tool is currently used
+iw: for drivers based on the mac80211 stack, but work is under way to make
+iw: it useful for other wireless drivers as well.
+iw: 
+iw: Homepage: http://wireless.kernel.org/en/users/Documentation/iw 
+iw:   
+iw:   
+iw:   
+
+PACKAGE NAME:  wpa_supplicant-2.0-x86_64-1.txz
+PACKAGE LOCATION:  ./wifi-network
+PACKAGE SIZE (compressed):  832 K
+PACKAGE SIZE (uncompressed):  2460 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+wpa_supplicant: wpa_supplicant (WPA/WPA2/IEEE 802.1X Supplicant)
+wpa_supplicant:
+wpa_supplicant: wpa_supplicant is a WPA Supplicant for Linux with support for WPA and
+wpa_supplicant: WPA2 (IEEE 802.11i / RSN).  Supplicant is the IEEE 802.1X/WPA
+wpa_supplicant: component that is used in the client stations.  It implements key
+wpa_supplicant: negotiation with a WPA Authenticator and it controls the roaming and
+wpa_supplicant: IEEE 802.11 authentication/association of the wlan driver.
+wpa_supplicant:
+wpa_supplicant: More info: http://hostap.epitest.fi/wpa_supplicant/
+wpa_supplicant:
+wpa_supplicant:
+
+PACKAGE NAME:  libgpg-error-1.11-x86_64-1_slack14.0.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  82 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libgpg-error: libgpg-error (GnuPG Error Definitions Library)
+libgpg-error:
+libgpg-error: This is a library that defines common error values for all GnuPG
+libgpg-error: components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, 
+libgpg-error: libgcrypt, Libksba, DirMngr, Pinentry, SmartCard Daemon, and more.
+libgpg-error:
+libgpg-error:
+libgpg-error:
+libgpg-error:
+libgpg-error:
+libgpg-error:
+
+PACKAGE NAME:  libgnome-2.32.1-i486-1_nhh.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  2166 K
+PACKAGE SIZE (uncompressed):  7750 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libgnome: libgnome (Libraries needed for GNOME)
+libgnome:
+libgnome: Libraries needed for GNOME.
+libgnome:
+libgnome:
+libgnome:
+libgnome:
+libgnome:
+libgnome:
+libgnome:
+libgnome:
 
 PACKAGE NAME:  transmission-2.82-x86_64-1gv.txz
 PACKAGE LOCATION:  .

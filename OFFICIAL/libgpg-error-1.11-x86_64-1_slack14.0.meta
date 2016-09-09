@@ -1,0 +1,20 @@
+PACKAGE NAME:  libgpg-error-1.11-x86_64-1_slack14.0.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  82 K
+PACKAGE SIZE (uncompressed):  470 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libgpg-error: libgpg-error (GnuPG Error Definitions Library)
+libgpg-error:
+libgpg-error: This is a library that defines common error values for all GnuPG
+libgpg-error: components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, 
+libgpg-error: libgcrypt, Libksba, DirMngr, Pinentry, SmartCard Daemon, and more.
+libgpg-error:
+libgpg-error:
+libgpg-error:
+libgpg-error:
+libgpg-error:
+libgpg-error:
+
