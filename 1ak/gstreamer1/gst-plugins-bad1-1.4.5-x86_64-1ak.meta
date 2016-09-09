@@ -1,0 +1,20 @@
+PACKAGE NAME:  gst-plugins-bad1-1.4.5-x86_64-1ak.tgz
+PACKAGE LOCATION:  ./gstreamer1
+PACKAGE SIZE (compressed):  5639 K
+PACKAGE SIZE (uncompressed):  18720 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+gst-plugins-bad1: gst-plugins-bad1-1.4.5 (ver. akira)
+gst-plugins-bad1:
+gst-plugins-bad1: GStreamer Bad Plug-ins is a set of plug-ins that
+gst-plugins-bad1: aren't up to par compared to the rest. They might be
+gst-plugins-bad1: close to being good quiality, but they're missing
+gst-plugins-bad1: something - be it a good code review, some
+gst-plugins-bad1: documentation, a set of tests, ...
+gst-plugins-bad1: 
+gst-plugins-bad1: Built package from:
+gst-plugins-bad1: https://gstreamer.freedesktop.org/src/gst-plugins-bad
+gst-plugins-bad1:
+
