@@ -1,0 +1,221 @@
+
+PACKAGE NAME:  uget-2.0.1-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  448 K
+PACKAGE SIZE (uncompressed):  1250 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+uget: uget (download manager)
+uget:
+uget: uGet is a Free and Open Source download manager.
+uget:
+uget: It allows for queuing downloads, file type-based classification of
+uget: downloads, and is lightweight.
+uget:
+uget: Build options: ARIA2=yes, LIBNOTIFY=yes
+uget:
+uget:
+uget:
+
+PACKAGE NAME:  notify-sharp-0.4.1-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  26 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+notify-sharp: notify-sharp (a notification daemon in C#)
+notify-sharp:
+notify-sharp: notify-sharp is a C# client implementation for Desktop
+notify-sharp: Notifications, i.e. notification-daemon. It is inspired by the
+notify-sharp: libnotify API.
+notify-sharp:
+notify-sharp: Desktop Notifications provide a standard way of doing passive
+notify-sharp: pop-up notifications on the Linux desktop. These are designed
+notify-sharp: to notify the user of something without interrupting their
+notify-sharp: work with a dialog box that they must close. Passive popups
+notify-sharp: can automatically disappear after a short period of time.
+
+PACKAGE NAME:  mirage-1.0_pre2-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  197 K
+PACKAGE SIZE (uncompressed):  680 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+mirage: Mirage (GTK+ Image Viewer)
+mirage:
+mirage: Mirage is a fast and simple GTK+ image viewer. Because it depends only
+mirage: on PyGTK, Mirage is ideal for users who wish to keep their computers
+mirage: lean while still having a clean image viewer.
+mirage:
+mirage: http://sourceforge.net/projects/mirageiv.berlios/
+mirage:
+mirage:
+mirage:
+mirage:
+
+PACKAGE NAME:  icecat-38.5.0-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  52053 K
+PACKAGE SIZE (uncompressed):  110590 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+icecat: icecat (GNU IceCat Browser)
+icecat:
+icecat: GNU IceCat is the GNU version of the Firefox browser.
+icecat: It is entirely free software.
+icecat:
+icecat: Homepage: http://www.gnu.org/software/gnuzilla/
+icecat:
+icecat:
+icecat:
+icecat:
+icecat:
+
+PACKAGE NAME:  zathura-0.3.3-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  188 K
+PACKAGE SIZE (uncompressed):  580 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+zathura: zathura (a PDF viewer focusing on keyboard interaction)
+zathura:
+zathura: zathura is a highly customizable and functional PDF viewer based on
+zathura: the poppler rendering library and the gtk+ toolkit. The idea behind
+zathura: zathura is an application that provides a minimalistic and space
+zathura: saving interface as well as an easy usage that mainly focuses on
+zathura: keyboard interaction.
+zathura:
+zathura: Homepage: http://zathura.pwmt.org/projects/zathura
+zathura:
+zathura:
+
+PACKAGE NAME:  ifuse-1.1.3-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  22 K
+PACKAGE SIZE (uncompressed):  70 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+ifuse: ifuse (fuse filesystem for mounting iPhone and iPod touch devices)
+ifuse:
+ifuse: A fuse filesystem for mounting iPhone and iPod touch devices.
+ifuse:
+ifuse:
+ifuse:
+ifuse:
+ifuse:
+ifuse:
+ifuse:
+ifuse:
+
+PACKAGE NAME:  dbus-sharp-glib-0.6-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  9 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+dbus-sharp-glib: dbus-sharp-glib (a C# implementation of dbus-glib)
+dbus-sharp-glib:
+dbus-sharp-glib: This is a fork of ndesk-dbus-glib, which provides GLib main loop
+dbus-sharp-glib: integration for dbus-sharp.
+dbus-sharp-glib:
+dbus-sharp-glib: D-Bus is an inter-process communication framework that lets
+dbus-sharp-glib: applications interface with the system event bus as well as
+dbus-sharp-glib: allowing them to talk to one another in a peer-to-peer
+dbus-sharp-glib: configuration.
+dbus-sharp-glib:
+dbus-sharp-glib:
+
+PACKAGE NAME:  mono-4.2.2.10-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  88995 K
+PACKAGE SIZE (uncompressed):  244480 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+mono: Mono (cross platform, open source .NET development framework.)
+mono:
+mono: Mono is a software platform designed to allow developers to easily
+mono: create cross platform applications.
+mono: It is an open source implementation of Microsoft's .Net Framework
+mono: based on the ECMA standards for C# and the Common Language Runtime.
+mono:
+mono: Last information can be found at
+mono: http://www.mono-project.com
+mono:
+mono:
+
+PACKAGE NAME:  dbus-sharp-0.8.1-x86_64-2_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  86 K
+PACKAGE SIZE (uncompressed):  200 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+dbus-sharp: dbus-sharp (C# implementation of D-Bus)
+dbus-sharp:
+dbus-sharp: This is a fork of ndesk-dbus, which is a C# implementation of D-Bus.
+dbus-sharp: It's often referred to as "managed D-Bus" to avoid confusion with
+dbus-sharp: existing bindings (which wrap libdbus).
+dbus-sharp:
+dbus-sharp: D-Bus is an inter-process communication framework that lets
+dbus-sharp: applications interface with the system event bus as well as
+dbus-sharp: allowing them to talk to one another in a peer-to-peer
+dbus-sharp: configuration.
+dbus-sharp:
+
+PACKAGE NAME:  libimobiledevice-1.1.5-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  355 K
+PACKAGE SIZE (uncompressed):  1820 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libimobiledevice: libimobiledevice (library for connecting to Apple's iPhone or iPod)
+libimobiledevice:
+libimobiledevice: libimobiledevice is a library for connecting to Apple's iPhone
+libimobiledevice: or iPod touch devices
+libimobiledevice:
+libimobiledevice:
+libimobiledevice:
+libimobiledevice:
+libimobiledevice:
+libimobiledevice:
+libimobiledevice:
+
+PACKAGE NAME:  opera-12.16-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  18803 K
+PACKAGE SIZE (uncompressed):  45870 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+opera: opera (Fast and secure web browser and Internet suite)
+opera:
+opera: Opera is a small, fast, customizable, powerful, and user-friendly web
+opera: browser, as well as an Internet suite, including an email client, an
+opera: IRC client, web developer tools (Opera Dragonfly).
+opera:
+opera:
+opera: http://www.opera.com/browser/
+opera:
+opera:
+opera:
+

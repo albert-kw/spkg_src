@@ -1,0 +1,20 @@
+PACKAGE NAME:  dbus-sharp-0.8.1-x86_64-2_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  86 K
+PACKAGE SIZE (uncompressed):  200 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+dbus-sharp: dbus-sharp (C# implementation of D-Bus)
+dbus-sharp:
+dbus-sharp: This is a fork of ndesk-dbus, which is a C# implementation of D-Bus.
+dbus-sharp: It's often referred to as "managed D-Bus" to avoid confusion with
+dbus-sharp: existing bindings (which wrap libdbus).
+dbus-sharp:
+dbus-sharp: D-Bus is an inter-process communication framework that lets
+dbus-sharp: applications interface with the system event bus as well as
+dbus-sharp: allowing them to talk to one another in a peer-to-peer
+dbus-sharp: configuration.
+dbus-sharp:
+

@@ -1,0 +1,20 @@
+PACKAGE NAME:  notify-sharp-0.4.1-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  26 K
+PACKAGE SIZE (uncompressed):  130 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+notify-sharp: notify-sharp (a notification daemon in C#)
+notify-sharp:
+notify-sharp: notify-sharp is a C# client implementation for Desktop
+notify-sharp: Notifications, i.e. notification-daemon. It is inspired by the
+notify-sharp: libnotify API.
+notify-sharp:
+notify-sharp: Desktop Notifications provide a standard way of doing passive
+notify-sharp: pop-up notifications on the Linux desktop. These are designed
+notify-sharp: to notify the user of something without interrupting their
+notify-sharp: work with a dialog box that they must close. Passive popups
+notify-sharp: can automatically disappear after a short period of time.
+

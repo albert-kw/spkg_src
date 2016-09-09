@@ -1,0 +1,20 @@
+PACKAGE NAME:  mono-4.2.2.10-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  88995 K
+PACKAGE SIZE (uncompressed):  244480 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+mono: Mono (cross platform, open source .NET development framework.)
+mono:
+mono: Mono is a software platform designed to allow developers to easily
+mono: create cross platform applications.
+mono: It is an open source implementation of Microsoft's .Net Framework
+mono: based on the ECMA standards for C# and the Common Language Runtime.
+mono:
+mono: Last information can be found at
+mono: http://www.mono-project.com
+mono:
+mono:
+

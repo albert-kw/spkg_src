@@ -1,0 +1,20 @@
+PACKAGE NAME:  zathura-0.3.3-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  188 K
+PACKAGE SIZE (uncompressed):  580 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+zathura: zathura (a PDF viewer focusing on keyboard interaction)
+zathura:
+zathura: zathura is a highly customizable and functional PDF viewer based on
+zathura: the poppler rendering library and the gtk+ toolkit. The idea behind
+zathura: zathura is an application that provides a minimalistic and space
+zathura: saving interface as well as an easy usage that mainly focuses on
+zathura: keyboard interaction.
+zathura:
+zathura: Homepage: http://zathura.pwmt.org/projects/zathura
+zathura:
+zathura:
+

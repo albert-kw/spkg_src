@@ -1,0 +1,20 @@
+PACKAGE NAME:  mirage-1.0_pre2-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  197 K
+PACKAGE SIZE (uncompressed):  680 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+mirage: Mirage (GTK+ Image Viewer)
+mirage:
+mirage: Mirage is a fast and simple GTK+ image viewer. Because it depends only
+mirage: on PyGTK, Mirage is ideal for users who wish to keep their computers
+mirage: lean while still having a clean image viewer.
+mirage:
+mirage: http://sourceforge.net/projects/mirageiv.berlios/
+mirage:
+mirage:
+mirage:
+mirage:
+

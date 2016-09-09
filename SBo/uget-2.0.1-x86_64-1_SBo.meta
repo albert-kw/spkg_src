@@ -1,0 +1,20 @@
+PACKAGE NAME:  uget-2.0.1-x86_64-1_SBo.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  448 K
+PACKAGE SIZE (uncompressed):  1250 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+uget: uget (download manager)
+uget:
+uget: uGet is a Free and Open Source download manager.
+uget:
+uget: It allows for queuing downloads, file type-based classification of
+uget: downloads, and is lightweight.
+uget:
+uget: Build options: ARIA2=yes, LIBNOTIFY=yes
+uget:
+uget:
+uget:
+
