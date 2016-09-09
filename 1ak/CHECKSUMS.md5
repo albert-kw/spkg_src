@@ -1,9 +1,11 @@
 
-8c3cbe47614fe73a1b75280c80c920ca  ./PACKAGES.TXT.gz
+b9a0556101a1a6a6ccd06679f6515a91  ./PACKAGES.TXT.gz
 136d2b09d0b650d75c6583cbe170fdd3  ./ragel-6.9-x86_64-1ak.tgz
 5bd1766d67a60948f3d0fa801dfe2d2b  ./gtk-sharp-3.0-x86_64-1ak.tgz
 ea9525111ea7d785a13b2da7ac51017a  ./gstreamer-sharp-0.10-x86_64-1ak.tgz
+02492a602657d9428d3b1ff9073b469d  ./CHECKSUMS.md5.gz
 3df3e25f62bb1195bf1a51015573b54c  ./automake-1.15-x86_64-1ak.tgz
+2fc73d5bd7e357705061b0518c0a48f4  ./taglib-1.11-x86_64-1ak.tgz
 1cc6d417c57efed793ea6059b830e525  ./gstreamer1/gstreamer-sharp-1.39.91-x86_64-1ak.tgz
 12b0ac23522e6594e2020400be0304b4  ./gstreamer1/gst-plugins-base1-1.4.5-x86_64-1ak.tgz
 3dcf315611f804bc1058ffada4a4c970  ./gstreamer1/gst-plugins-bad1-1.4.5-x86_64-1ak.tgz

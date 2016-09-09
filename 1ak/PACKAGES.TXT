@@ -59,6 +59,26 @@ automake:
 automake:
 automake:
 
+PACKAGE NAME:  taglib-1.11-x86_64-1ak.tgz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  693 K
+PACKAGE SIZE (uncompressed):  3420 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+taglib: taglib-1.11 (ver. akira)
+taglib:
+taglib: TagLib is a library for reading and editing the meta-data of
+taglib: several popular audio formats.
+taglib:
+taglib: Built package from:
+taglib: https://taglib.github.io/
+taglib:
+taglib:
+taglib:
+taglib:
+
 PACKAGE NAME:  gstreamer1-1.4.5-x86_64-1ak.tgz
 PACKAGE LOCATION:  ./gstreamer1
 PACKAGE SIZE (compressed):  3456 K
