@@ -1,7 +1,0 @@
-A full set of multilib "compat32" packages.
-
-You can grab the packages you find in the directories below if you do not want
-to run the 'massconvert32.sh' script yourself.  This directory contains all
-packages which are created when running that script.
-
-Eric Hameleers
