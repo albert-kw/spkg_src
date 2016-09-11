@@ -1,0 +1,17 @@
+PACKAGE NAME:  libtermcap-compat32-1.2.3-x86_64-7compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libtermcap-compat32: libtermcap
+libtermcap-compat32:
+libtermcap-compat32: This is the GNU termcap library -- a library of C functions that
+libtermcap-compat32: enable programs to send control strings to terminals in a way
+libtermcap-compat32: independent of the terminal type.  Most of this package is also
+libtermcap-compat32: distributed with GNU Emacs, but it is available in this separate
+libtermcap-compat32: distribution to make it easier to install as -ltermcap.
+libtermcap-compat32:
+libtermcap-compat32:
+libtermcap-compat32:
+libtermcap-compat32: This package contains 32-bit compatibility binaries.
+

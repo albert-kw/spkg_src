@@ -1,0 +1,11 @@
+xcb-util-compat32: xcb-util-compat32 (utility libraries for X protocol C-language Binding)
+xcb-util-compat32:
+xcb-util-compat32: xcb-util-compat32 is part of X11.
+xcb-util-compat32:
+xcb-util-compat32: For more information about the X.Org Foundation (the providers of the
+xcb-util-compat32: X.Org implementation of the X Window System), see their website:
+xcb-util-compat32:
+xcb-util-compat32: http://www.x.org
+xcb-util-compat32:
+xcb-util-compat32:
+xcb-util-compat32: This package contains 32-bit compatibility binaries.

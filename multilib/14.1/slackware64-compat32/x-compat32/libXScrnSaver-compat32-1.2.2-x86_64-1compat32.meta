@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXScrnSaver-compat32-1.2.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXScrnSaver-compat32: libXScrnSaver-compat32 (X11 Screen Saver extension client library)
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: libXScrnSaver-compat32 is part of X11.
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: For more information about the X.Org Foundation (the providers of the
+libXScrnSaver-compat32: X.Org implementation of the X Window System), see their website:
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: http://www.x.org
+libXScrnSaver-compat32:
+libXScrnSaver-compat32:
+libXScrnSaver-compat32: This package contains 32-bit compatibility binaries.
+

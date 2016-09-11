@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/readline-compat32-5.2-x86_64-4compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2009-02-21 23:43 ./
+drwxr-xr-x root/root         0 2013-02-27 19:38 usr/
+drwxr-xr-x root/root         0 2009-02-21 23:43 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:38 usr/doc/readline-5.2/
+-rw-r--r-- root/root     18008 1999-08-05 16:46 usr/doc/readline-5.2/COPYING
+drwxr-xr-x root/root         0 2009-02-21 23:43 usr/lib/
+-rw-r--r-- root/root    281708 2009-02-21 23:43 usr/lib/libreadline.a
+-rw-r--r-- root/root     33590 2009-02-21 23:43 usr/lib/libhistory.a
+-rwxr-xr-x root/root    193020 2009-02-21 23:43 usr/lib/libreadline.so.5.2
+-rwxr-xr-x root/root     26472 2009-02-21 23:43 usr/lib/libhistory.so.5.2
+drwxr-xr-x root/root         0 2013-02-27 19:38 install/
+-rw-r--r-- root/root       386 2013-02-27 19:38 install/doinst.sh
+-rw-r--r-- root/root      1188 2013-02-27 19:38 install/slack-desc
+
+

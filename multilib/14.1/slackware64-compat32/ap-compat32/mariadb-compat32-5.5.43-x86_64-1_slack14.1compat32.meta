@@ -1,0 +1,17 @@
+PACKAGE NAME:  mariadb-compat32-5.5.43-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/ap-compat32
+PACKAGE SIZE (compressed):  16348 K
+PACKAGE SIZE (uncompressed):  137510 K
+PACKAGE DESCRIPTION:
+mariadb-compat32: mariadb-compat32 (Drop-in replacement for the MySQL Database Server)
+mariadb-compat32:
+mariadb-compat32: MariaDB is a backward compatible, drop-in replacement branch of the
+mariadb-compat32: MySQL(R) Database Server.  It includes all major open source storage
+mariadb-compat32: engines, including the Aria storage engine.
+mariadb-compat32:
+mariadb-compat32: Homepage: http://mariadb.org/
+mariadb-compat32:
+mariadb-compat32:
+mariadb-compat32:
+mariadb-compat32: This package contains 32-bit compatibility binaries.
+

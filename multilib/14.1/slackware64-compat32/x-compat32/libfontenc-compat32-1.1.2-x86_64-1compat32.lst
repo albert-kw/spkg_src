@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libfontenc-compat32-1.1.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-05-20 22:19 ./
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/
+drwxr-xr-x root/root         0 2013-05-20 22:19 usr/doc/
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/doc/libfontenc-1.1.2/
+-rw-r--r-- root/root      1071 2013-04-26 05:52 usr/doc/libfontenc-1.1.2/COPYING
+drwxr-xr-x root/root         0 2013-05-20 22:19 usr/lib/
+drwxr-xr-x root/root         0 2013-05-20 22:19 usr/lib/pkgconfig/
+-rw-r--r-- root/root       194 2013-05-20 22:19 usr/lib/pkgconfig/fontenc.pc
+-rwxr-xr-x root/root     24280 2013-05-20 22:19 usr/lib/libfontenc.so.1.0.0
+-rwxr-xr-x root/root       924 2013-05-20 22:19 usr/lib/libfontenc.la
+drwxr-xr-x root/root         0 2013-05-22 13:06 install/
+-rw-r--r-- root/root       196 2013-05-22 13:06 install/doinst.sh
+-rw-r--r-- root/root       986 2013-05-22 13:06 install/slack-desc
+
+

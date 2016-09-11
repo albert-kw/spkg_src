@@ -1,0 +1,11 @@
+libmpc-compat32: libmpc-compat32 (Multiple Precision Complex Library)
+libmpc-compat32:
+libmpc-compat32: mpc is a complex floating-point library with exact rounding.  It is
+libmpc-compat32: based on the GNU MPFR floating-point library (http://www.mpfr.org/),
+libmpc-compat32: which is itself based on the GNU MP library (http://gmplib.org/).
+libmpc-compat32:
+libmpc-compat32: Homepage:  http://www.multiprecision.org
+libmpc-compat32:
+libmpc-compat32:
+libmpc-compat32:
+libmpc-compat32: This package contains 32-bit compatibility binaries.

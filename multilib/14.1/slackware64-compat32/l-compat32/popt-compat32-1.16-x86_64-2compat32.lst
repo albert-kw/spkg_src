@@ -1,0 +1,22 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/popt-compat32-1.16-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-05-18 09:23 ./
+drwxr-xr-x root/root         0 2013-05-22 13:24 usr/
+drwxr-xr-x root/root         0 2013-05-18 09:23 usr/doc/
+drwxr-xr-x root/root         0 2013-05-22 13:24 usr/doc/popt-1.16/
+-rw-r--r-- root/root      1277 1998-10-16 21:05 usr/doc/popt-1.16/COPYING
+drwxr-xr-x root/root         0 2013-05-18 09:23 usr/lib/
+-rw-r--r-- root/root     52072 2013-05-18 09:23 usr/lib/libpopt.a
+drwxr-xr-x root/root         0 2013-05-18 09:23 usr/lib/pkgconfig/
+-rw-r--r-- root/root       169 2013-05-18 09:23 usr/lib/pkgconfig/popt.pc
+-rwxr-xr-x root/root       913 2013-05-18 09:23 usr/lib/libpopt.la
+drwxr-xr-x root/root         0 2013-05-22 13:24 install/
+-rw-r--r-- root/root       370 2013-05-22 13:24 install/doinst.sh
+-rw-r--r-- root/root      1217 2013-05-22 13:24 install/slack-desc
+drwxr-xr-x root/root         0 2013-05-18 09:23 lib/
+-rwxr-xr-x root/root     45888 2013-05-18 09:23 lib/libpopt.so.0.0.0
+
+

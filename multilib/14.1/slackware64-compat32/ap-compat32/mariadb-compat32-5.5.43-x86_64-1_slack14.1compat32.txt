@@ -1,0 +1,11 @@
+mariadb-compat32: mariadb-compat32 (Drop-in replacement for the MySQL Database Server)
+mariadb-compat32:
+mariadb-compat32: MariaDB is a backward compatible, drop-in replacement branch of the
+mariadb-compat32: MySQL(R) Database Server.  It includes all major open source storage
+mariadb-compat32: engines, including the Aria storage engine.
+mariadb-compat32:
+mariadb-compat32: Homepage: http://mariadb.org/
+mariadb-compat32:
+mariadb-compat32:
+mariadb-compat32:
+mariadb-compat32: This package contains 32-bit compatibility binaries.

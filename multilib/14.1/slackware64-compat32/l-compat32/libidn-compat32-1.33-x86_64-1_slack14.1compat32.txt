@@ -1,0 +1,11 @@
+libidn-compat32: libidn-compat32 (GNU Internationalized Domain Name library)
+libidn-compat32:
+libidn-compat32: GNU Libidn is an implementation of the Stringprep, Punycode and IDNA
+libidn-compat32: specifications defined by the IETF Internationalized Domain Names
+libidn-compat32: (IDN) working group, used for internationalized domain names.
+libidn-compat32:
+libidn-compat32:
+libidn-compat32:
+libidn-compat32:
+libidn-compat32:
+libidn-compat32: This package contains 32-bit compatibility binaries.

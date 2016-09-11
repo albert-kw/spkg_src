@@ -1,0 +1,17 @@
+PACKAGE NAME:  readline-compat32-5.2-x86_64-4compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  152 K
+PACKAGE SIZE (uncompressed):  550 K
+PACKAGE DESCRIPTION:
+readline-compat32: readline-compat32 (line input library with editing features)
+readline-compat32:
+readline-compat32: The GNU Readline library provides a set of functions for use by
+readline-compat32: applications that allow users to edit command lines as they are typed
+readline-compat32: in.  Both Emacs and vi editing modes are available.  The Readline
+readline-compat32: library includes additional functions to maintain a list of previously
+readline-compat32: entered command lines, to recall and perhaps edit those lines, and
+readline-compat32: perform csh-like history expansion on previous commands.  
+readline-compat32:
+readline-compat32:
+readline-compat32: This package contains 32-bit compatibility binaries.
+

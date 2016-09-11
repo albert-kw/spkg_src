@@ -1,0 +1,17 @@
+PACKAGE NAME:  libfontenc-compat32-1.1.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libfontenc-compat32: libfontenc-compat32 (font encoding library)
+libfontenc-compat32:
+libfontenc-compat32: libfontenc-compat32 is part of X11.
+libfontenc-compat32:
+libfontenc-compat32: For more information about the X.Org Foundation (the providers of the
+libfontenc-compat32: X.Org implementation of the X Window System), see their website:
+libfontenc-compat32:
+libfontenc-compat32: http://www.x.org
+libfontenc-compat32:
+libfontenc-compat32:
+libfontenc-compat32: This package contains 32-bit compatibility binaries.
+

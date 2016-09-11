@@ -1,0 +1,11 @@
+libFS-compat32: libFS-compat32 (X Font Service client library)
+libFS-compat32:
+libFS-compat32: libFS-compat32 is part of X11.
+libFS-compat32:
+libFS-compat32: For more information about the X.Org Foundation (the providers of the
+libFS-compat32: X.Org implementation of the X Window System), see their website:
+libFS-compat32:
+libFS-compat32: http://www.x.org
+libFS-compat32:
+libFS-compat32:
+libFS-compat32: This package contains 32-bit compatibility binaries.

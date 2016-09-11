@@ -1,0 +1,11 @@
+expat-compat32: expat-compat32 (C library for parsing XML)
+expat-compat32:
+expat-compat32: This is Expat, a C library for parsing XML, written by James Clark.
+expat-compat32: Expat is a stream-oriented XML parser used by Python, GNOME, Xft2,
+expat-compat32: and other things.
+expat-compat32:
+expat-compat32:
+expat-compat32:
+expat-compat32:
+expat-compat32:
+expat-compat32: This package contains 32-bit compatibility binaries.

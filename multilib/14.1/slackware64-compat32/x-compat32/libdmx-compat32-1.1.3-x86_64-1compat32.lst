@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libdmx-compat32-1.1.3-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-06-22 06:39 ./
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/
+drwxr-xr-x root/root         0 2013-06-22 06:39 usr/doc/
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/doc/libdmx-1.1.3/
+-rw-r--r-- root/root      1138 2013-05-29 01:46 usr/doc/libdmx-1.1.3/COPYING
+drwxr-xr-x root/root         0 2013-06-22 06:39 usr/lib/
+-rwxr-xr-x root/root     14664 2013-06-22 06:39 usr/lib/libdmx.so.1.0.0
+drwxr-xr-x root/root         0 2013-06-22 06:39 usr/lib/pkgconfig/
+-rw-r--r-- root/root       228 2013-06-22 06:39 usr/lib/pkgconfig/dmx.pc
+-rwxr-xr-x root/root       999 2013-06-22 06:39 usr/lib/libdmx.la
+drwxr-xr-x root/root         0 2013-07-13 15:03 install/
+-rw-r--r-- root/root       172 2013-07-13 15:03 install/doinst.sh
+-rw-r--r-- root/root       956 2013-07-13 15:03 install/slack-desc
+
+

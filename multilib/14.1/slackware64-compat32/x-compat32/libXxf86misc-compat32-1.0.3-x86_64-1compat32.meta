@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXxf86misc-compat32-1.0.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXxf86misc-compat32: libXxf86misc
+libXxf86misc-compat32:
+libXxf86misc-compat32: libXxf86misc-compat32 is part of X11.
+libXxf86misc-compat32:
+libXxf86misc-compat32: For more information about the X.Org Foundation (the providers of the
+libXxf86misc-compat32: X.Org implementation of the X Window System), see their website:
+libXxf86misc-compat32:
+libXxf86misc-compat32: http://www.x.org
+libXxf86misc-compat32:
+libXxf86misc-compat32:
+libXxf86misc-compat32: This package contains 32-bit compatibility binaries.
+

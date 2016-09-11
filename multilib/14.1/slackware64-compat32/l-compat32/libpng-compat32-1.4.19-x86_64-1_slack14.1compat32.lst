@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libpng-compat32-1.4.19-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2015-12-21 00:39 ./
+drwxr-xr-x root/root         0 2015-12-21 00:39 install/
+-rw-r--r-- root/root       989 2015-12-21 00:39 install/doinst.sh
+-rw-r--r-- root/root      1119 2015-12-21 00:39 install/slack-desc
+drwxr-xr-x root/root         0 2015-12-21 00:39 usr/
+drwxr-xr-x root/root         0 2015-12-18 02:41 usr/lib/
+drwxr-xr-x root/root         0 2015-12-18 02:41 usr/lib/pkgconfig/
+-rw-r--r-- root/root       231 2015-12-18 02:41 usr/lib/pkgconfig/libpng12.pc
+-rw-r--r-- root/root       230 2015-12-18 02:41 usr/lib/pkgconfig/libpng14.pc
+-rwxr-xr-x root/root    167316 2015-12-18 02:41 usr/lib/libpng14.so.14.19.0
+-rw-r--r-- root/root    677502 2015-12-18 02:41 usr/lib/libpng12.a
+-rwxr-xr-x root/root       931 2015-12-18 02:41 usr/lib/libpng14.la
+-rw-r--r-- root/root    675980 2015-12-18 02:41 usr/lib/libpng14.a
+-rwxr-xr-x root/root    164472 2015-12-18 02:41 usr/lib/libpng12.so.0.56.0
+-rwxr-xr-x root/root    174676 2015-12-18 02:41 usr/lib/libpng.so.3.56.0
+-rwxr-xr-x root/root       928 2015-12-18 02:41 usr/lib/libpng12.la
+drwxr-xr-x root/root         0 2015-12-21 00:39 usr/bin/
+drwxr-xr-x root/root         0 2015-12-21 00:39 usr/bin/32/
+-rwxr-xr-x root/root      2290 2015-12-18 02:41 usr/bin/32/libpng14-config
+-rwxr-xr-x root/root      2290 2015-12-18 02:41 usr/bin/32/libpng12-config
+drwxr-xr-x root/root         0 2015-12-18 02:41 usr/doc/
+drwxr-xr-x root/root         0 2015-12-21 00:39 usr/doc/libpng-1.4.19/
+-rw-r--r-- root/root      4170 2015-12-17 14:58 usr/doc/libpng-1.4.19/LICENSE
+drwxr-xr-x root/root         0 2015-12-21 00:39 usr/doc/libpng-1.2.56/
+-rw-r--r-- root/root      4170 2015-12-17 14:57 usr/doc/libpng-1.2.56/LICENSE
+
+

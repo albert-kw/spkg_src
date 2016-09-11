@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXxf86misc-compat32-1.0.3-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2011-02-01 06:22 ./
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/
+drwxr-xr-x root/root         0 2011-02-01 06:22 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/doc/libXxf86misc-1.0.3/
+-rw-r--r-- root/root      1321 2009-10-16 23:27 usr/doc/libXxf86misc-1.0.3/COPYING
+drwxr-xr-x root/root         0 2011-02-01 06:22 usr/lib/
+drwxr-xr-x root/root         0 2011-02-01 06:22 usr/lib/pkgconfig/
+-rw-r--r-- root/root       260 2011-02-01 06:22 usr/lib/pkgconfig/xxf86misc.pc
+-rwxr-xr-x root/root      1036 2011-02-01 06:22 usr/lib/libXxf86misc.la
+-rwxr-xr-x root/root      8880 2011-02-01 06:22 usr/lib/libXxf86misc.so.1.1.0
+drwxr-xr-x root/root         0 2013-02-27 19:56 install/
+-rw-r--r-- root/root       208 2013-02-27 19:56 install/doinst.sh
+-rw-r--r-- root/root       981 2013-02-27 19:56 install/slack-desc
+
+

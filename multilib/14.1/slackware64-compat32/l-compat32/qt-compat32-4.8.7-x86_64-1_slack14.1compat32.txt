@@ -1,0 +1,11 @@
+qt-compat32: Qt (a multi-platform C++ graphical user interface toolkit)
+qt-compat32:
+qt-compat32: Qt is a complete and well-developed object-oriented framework for
+qt-compat32: developing graphical user interface (GUI) applications using C++.
+qt-compat32:
+qt-compat32: Homepage:  http://qt-project.org/
+qt-compat32:
+qt-compat32:
+qt-compat32:
+qt-compat32:
+qt-compat32: This package contains 32-bit compatibility binaries.

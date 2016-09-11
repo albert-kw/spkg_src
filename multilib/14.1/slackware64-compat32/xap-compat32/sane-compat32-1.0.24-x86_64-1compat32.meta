@@ -1,0 +1,17 @@
+PACKAGE NAME:  sane-compat32-1.0.24-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/xap-compat32
+PACKAGE SIZE (compressed):  1944 K
+PACKAGE SIZE (uncompressed):  9430 K
+PACKAGE DESCRIPTION:
+sane-compat32: sane-compat32 (Scanner Access Now Easy)
+sane-compat32:
+sane-compat32: SANE is a universal scanner interface that provides standardized
+sane-compat32: access to any raster image scanner hardware, such as flatbed scanners,
+sane-compat32: hand-held scanners, video and still cameras, frame-grabbers, and other
+sane-compat32: similar devices.
+sane-compat32:
+sane-compat32:
+sane-compat32:
+sane-compat32:
+sane-compat32: This package contains 32-bit compatibility binaries.
+

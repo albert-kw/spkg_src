@@ -1,0 +1,17 @@
+PACKAGE NAME:  fontconfig-compat32-2.10.93-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  112 K
+PACKAGE SIZE (uncompressed):  310 K
+PACKAGE DESCRIPTION:
+fontconfig-compat32: fontconfig-compat32 (Font library and tools)
+fontconfig-compat32:
+fontconfig-compat32: Fontconfig is a library and tools designed to provide system-wide
+fontconfig-compat32: font configuration, customization, and application access.
+fontconfig-compat32:
+fontconfig-compat32: Fontconfig is written and maintained by Keith Packard.
+fontconfig-compat32:
+fontconfig-compat32:
+fontconfig-compat32:
+fontconfig-compat32:
+fontconfig-compat32: This package contains 32-bit compatibility binaries.
+

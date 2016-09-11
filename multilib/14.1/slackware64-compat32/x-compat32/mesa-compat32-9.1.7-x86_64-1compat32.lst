@@ -1,0 +1,73 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/mesa-compat32-9.1.7-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-10-22 17:30 ./
+drwxr-xr-x root/root         0 2013-10-22 17:30 usr/
+drwxr-xr-x root/root         0 2013-10-22 17:30 usr/bin/
+drwxr-xr-x root/root         0 2013-10-22 17:30 usr/bin/32/
+-rwxr-xr-x root/root     14984 2013-10-22 05:02 usr/bin/32/glthreads
+-rwxr-xr-x root/root     14336 2013-10-22 05:02 usr/bin/32/glxcontexts
+-rwxr-xr-x root/root      4796 2013-10-22 05:02 usr/bin/32/glinfo
+-rwxr-xr-x root/root     13448 2013-10-22 05:02 usr/bin/32/gears
+-rwxr-xr-x root/root     22580 2013-10-22 05:02 usr/bin/32/glxgears_fbconfig
+-rwxr-xr-x root/root     10084 2013-10-22 05:02 usr/bin/32/glxheads
+-rwxr-xr-x root/root     26852 2013-10-22 05:02 usr/bin/32/glxinfo
+-rwxr-xr-x root/root     10824 2013-10-22 05:02 usr/bin/32/glxpbdemo
+-rwxr-xr-x root/root      5924 2013-10-22 05:02 usr/bin/32/glxdemo
+-rwxr-xr-x root/root     17220 2013-10-22 05:02 usr/bin/32/glxgears
+-rwxr-xr-x root/root      7236 2013-10-22 05:02 usr/bin/32/glxpixmap
+drwxr-xr-x root/root         0 2013-10-22 05:02 usr/doc/
+drwxr-xr-x root/root         0 2013-10-22 17:30 usr/doc/Mesa-9.1.7/
+-rw-r--r-- root/root     25493 2012-11-24 18:57 usr/doc/Mesa-9.1.7/COPYING
+drwxr-xr-x root/root         0 2013-10-22 17:30 usr/doc/Mesa-9.1.7/html/
+-rw-r--r-- root/root      4110 2013-04-08 20:21 usr/doc/Mesa-9.1.7/html/thanks.html
+-rw-r--r-- root/root      3670 2013-10-05 05:59 usr/doc/Mesa-9.1.7/html/license.html
+drwxr-xr-x root/root         0 2013-10-22 05:02 usr/lib/
+-rwxr-xr-x root/root    118112 2013-10-22 05:02 usr/lib/libglapi.so.0.0.0
+-rwxr-xr-x root/root       989 2013-10-22 05:02 usr/lib/libdricore9.1.7.la
+drwxr-xr-x root/root         0 2013-10-22 05:02 usr/lib/pkgconfig/
+-rw-r--r-- root/root       339 2013-10-22 05:02 usr/lib/pkgconfig/gl.pc
+-rw-r--r-- root/root       248 2013-10-22 05:02 usr/lib/pkgconfig/dri.pc
+-rw-r--r-- root/root       247 2013-10-22 05:02 usr/lib/pkgconfig/osmesa.pc
+-rw-r--r-- root/root       326 2013-10-22 05:02 usr/lib/pkgconfig/egl.pc
+-rw-r--r-- root/root       190 2013-10-22 05:02 usr/lib/pkgconfig/xatracker.pc
+-rwxr-xr-x root/root      1446 2013-10-22 05:02 usr/lib/libxatracker.la
+-rwxr-xr-x root/root       999 2013-10-22 05:02 usr/lib/libOSMesa.la
+-rwxr-xr-x root/root  12382512 2013-10-22 05:02 usr/lib/libxatracker.so.1.0.0
+-rwxr-xr-x root/root       944 2013-10-22 05:02 usr/lib/libglapi.la
+drwxr-xr-x root/root         0 2013-10-22 05:02 usr/lib/xorg/
+drwxr-xr-x root/root         0 2013-10-22 05:02 usr/lib/xorg/modules/
+drwxr-xr-x root/root         0 2013-10-22 05:02 usr/lib/xorg/modules/dri/
+-rwxr-xr-x root/root      1107 2013-10-22 05:02 usr/lib/xorg/modules/dri/i965_dri.la
+-rwxr-xr-x root/root      1496 2013-10-22 05:02 usr/lib/xorg/modules/dri/r300_dri.la
+-rwxr-xr-x root/root      1123 2013-10-22 05:02 usr/lib/xorg/modules/dri/nouveau_vieux_dri.la
+-rwxr-xr-x root/root      1515 2013-10-22 05:02 usr/lib/xorg/modules/dri/nouveau_dri.la
+-rwxr-xr-x root/root    307312 2013-10-22 05:02 usr/lib/xorg/modules/dri/r200_dri.so
+-rwxr-xr-x root/root    734868 2013-10-22 05:02 usr/lib/xorg/modules/dri/i965_dri.so
+-rwxr-xr-x root/root    284316 2013-10-22 05:02 usr/lib/xorg/modules/dri/radeon_dri.so
+-rwxr-xr-x root/root    183668 2013-10-22 05:02 usr/lib/xorg/modules/dri/nouveau_vieux_dri.so
+-rwxr-xr-x root/root      1054 2013-10-22 05:02 usr/lib/xorg/modules/dri/swrast_dri.la
+-rwxr-xr-x root/root      1068 2013-10-22 05:02 usr/lib/xorg/modules/dri/r200_dri.la
+-rwxr-xr-x root/root  16685496 2013-10-22 05:02 usr/lib/xorg/modules/dri/nouveau_dri.so
+-rwxr-xr-x root/root      1482 2013-10-22 05:02 usr/lib/xorg/modules/dri/vmwgfx_dri.la
+-rwxr-xr-x root/root  15728352 2013-10-22 05:02 usr/lib/xorg/modules/dri/vmwgfx_dri.so
+-rwxr-xr-x root/root      1496 2013-10-22 05:02 usr/lib/xorg/modules/dri/r600_dri.la
+-rwxr-xr-x root/root    373200 2013-10-22 05:02 usr/lib/xorg/modules/dri/i915_dri.so
+-rwxr-xr-x root/root      1092 2013-10-22 05:02 usr/lib/xorg/modules/dri/i915_dri.la
+-rwxr-xr-x root/root  15884472 2013-10-22 05:02 usr/lib/xorg/modules/dri/r600_dri.so
+-rwxr-xr-x root/root     20248 2013-10-22 05:02 usr/lib/xorg/modules/dri/swrast_dri.so
+-rwxr-xr-x root/root      1080 2013-10-22 05:02 usr/lib/xorg/modules/dri/radeon_dri.la
+-rwxr-xr-x root/root  15894112 2013-10-22 05:02 usr/lib/xorg/modules/dri/r300_dri.so
+-rwxr-xr-x root/root   3908756 2013-10-22 05:02 usr/lib/libOSMesa.so.8.0.0
+-rwxr-xr-x root/root   3908484 2013-10-22 05:02 usr/lib/libdricore9.1.7.so.1.0.0
+-rwxr-xr-x root/root      1211 2013-10-22 05:02 usr/lib/libGL.la
+-rwxr-xr-x root/root    117924 2013-10-22 05:02 usr/lib/libEGL.so.1.0.0
+-rwxr-xr-x root/root      1174 2013-10-22 05:02 usr/lib/libEGL.la
+-rwxr-xr-x root/root    387644 2013-10-22 05:02 usr/lib/libGL.so.1.2.0
+drwxr-xr-x root/root         0 2013-10-22 17:30 install/
+-rw-r--r-- root/root      1146 2013-10-22 17:30 install/doinst.sh
+-rw-r--r-- root/root       960 2013-10-22 17:30 install/slack-desc
+
+

@@ -1,0 +1,17 @@
+PACKAGE NAME:  cups-compat32-1.5.4-x86_64-4_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  464 K
+PACKAGE SIZE (uncompressed):  1650 K
+PACKAGE DESCRIPTION:
+cups-compat32: CUPS (Common UNIX Printing System)
+cups-compat32:
+cups-compat32: The Common UNIX Printing System provides a portable printing layer for
+cups-compat32: UNIX(R)-like operating systems. It has been developed by Easy Software
+cups-compat32: Products to promote a standard printing solution for all UNIX vendors
+cups-compat32: and users.  CUPS uses the Internet Printing Protocol ("IPP") as the
+cups-compat32: basis for managing print jobs and queues.  The CUPS package includes
+cups-compat32: System V and Berkeley command-line interfaces, a PostScript RIP
+cups-compat32: package for supporting non-PostScript printer drivers, and tools for
+cups-compat32: creating additional printer drivers and other CUPS services.
+cups-compat32: This package contains 32-bit compatibility binaries.
+

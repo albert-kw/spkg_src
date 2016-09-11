@@ -1,0 +1,17 @@
+PACKAGE NAME:  atk-compat32-2.8.0-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  56 K
+PACKAGE SIZE (uncompressed):  230 K
+PACKAGE DESCRIPTION:
+atk-compat32: atk-compat32 (accessibility functions library)
+atk-compat32:
+atk-compat32: atk-compat32 is a library of accessibility functions that is used by the
+atk-compat32: GTK+-2 toolkit.
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32:
+atk-compat32: This package contains 32-bit compatibility binaries.
+

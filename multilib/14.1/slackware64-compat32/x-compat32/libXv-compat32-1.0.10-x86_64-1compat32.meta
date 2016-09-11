@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXv-compat32-1.0.10-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+libXv-compat32: libXv-compat32 (library for the X Video (Xv) extension to the X Window System)
+libXv-compat32:
+libXv-compat32: libXv-compat32 is part of X11.
+libXv-compat32:
+libXv-compat32: For more information about the X.Org Foundation (the providers of the
+libXv-compat32: X.Org implementation of the X Window System), see their website:
+libXv-compat32:
+libXv-compat32: http://www.x.org
+libXv-compat32:
+libXv-compat32:
+libXv-compat32: This package contains 32-bit compatibility binaries.
+

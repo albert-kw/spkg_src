@@ -1,0 +1,27 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libtasn1-compat32-3.6-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2014-06-06 09:47 ./
+drwxr-xr-x root/root         0 2014-06-06 09:47 install/
+-rw-r--r-- root/root       184 2014-06-06 09:47 install/doinst.sh
+-rw-r--r-- root/root      1054 2014-06-06 09:47 install/slack-desc
+drwxr-xr-x root/root         0 2014-06-06 09:47 usr/
+drwxr-xr-x root/root         0 2014-06-06 05:27 usr/lib/
+drwxr-xr-x root/root         0 2014-06-06 05:27 usr/lib/pkgconfig/
+-rw-r--r-- root/root      1085 2014-06-06 05:27 usr/lib/pkgconfig/libtasn1.pc
+-rwxr-xr-x root/root     73884 2014-06-06 05:27 usr/lib/libtasn1.so.6.2.2
+drwxr-xr-x root/root         0 2014-06-06 09:47 usr/bin/
+drwxr-xr-x root/root         0 2014-06-06 09:47 usr/bin/32/
+-rwxr-xr-x root/root     11480 2014-06-06 05:27 usr/bin/32/asn1Coding
+-rwxr-xr-x root/root     12984 2014-06-06 05:27 usr/bin/32/asn1Decoding
+-rwxr-xr-x root/root      9864 2014-06-06 05:27 usr/bin/32/asn1Parser
+drwxr-xr-x root/root         0 2014-06-06 05:27 usr/doc/
+drwxr-xr-x root/root         0 2014-06-06 09:47 usr/doc/libtasn1-3.6/
+-rw-r--r-- root/root     26530 2011-05-22 16:16 usr/doc/libtasn1-3.6/COPYING.LIB
+-rw-r--r-- root/root       456 2014-04-27 16:19 usr/doc/libtasn1-3.6/AUTHORS
+-rw-r--r-- root/root      1269 2014-04-27 16:19 usr/doc/libtasn1-3.6/THANKS
+-rw-r--r-- root/root     35147 2008-11-03 20:31 usr/doc/libtasn1-3.6/COPYING
+
+

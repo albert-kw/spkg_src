@@ -1,0 +1,26 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libnotify-compat32-0.7.5-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-02-23 23:44 ./
+drwxr-xr-x root/root         0 2016-02-23 23:44 install/
+-rw-r--r-- root/root       190 2016-02-23 23:44 install/doinst.sh
+-rw-r--r-- root/root       877 2016-02-23 23:44 install/slack-desc
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/
+drwxr-xr-x root/root         0 2012-07-11 06:30 usr/lib/
+drwxr-xr-x root/root         0 2012-07-11 06:30 usr/lib/pkgconfig/
+-rw-r--r-- root/root       260 2012-07-11 06:30 usr/lib/pkgconfig/libnotify.pc
+-rwxr-xr-x root/root      1158 2012-07-11 06:30 usr/lib/libnotify.la
+drwxr-xr-x root/root         0 2012-07-11 06:30 usr/lib/girepository-1.0/
+-rw-r--r-- root/root      4684 2012-07-11 06:30 usr/lib/girepository-1.0/Notify-0.7.typelib
+-rwxr-xr-x root/root     26624 2012-07-11 06:30 usr/lib/libnotify.so.4.0.0
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/bin/
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/bin/32/
+-rwxr-xr-x root/root      9212 2012-07-11 06:30 usr/bin/32/notify-send
+drwxr-xr-x root/root         0 2012-07-11 06:30 usr/doc/
+drwxr-xr-x root/root         0 2016-02-23 23:44 usr/doc/libnotify-0.7.5/
+-rw-r--r-- root/root       325 2011-08-16 13:52 usr/doc/libnotify-0.7.5/AUTHORS
+-rw-r--r-- root/root     26430 2011-08-16 13:52 usr/doc/libnotify-0.7.5/COPYING
+
+

@@ -1,0 +1,17 @@
+PACKAGE NAME:  esound-compat32-0.2.41-x86_64-2compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  68 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+esound-compat32: esound-compat32 (Enlightened Sound Daemon)
+esound-compat32:
+esound-compat32: EsounD, the Enlightened Sound Daemon, is a server process that mixes
+esound-compat32: several audio streams for playback by a single audio device. For
+esound-compat32: example, if you're listening to music on a CD and you receive a
+esound-compat32: sound-related event from ICQ, the two applications won't have to
+esound-compat32: jockey for the use of your sound card.  Install esound if you'd like
+esound-compat32: to let sound applications share your audio device.
+esound-compat32:
+esound-compat32:
+esound-compat32: This package contains 32-bit compatibility binaries.
+

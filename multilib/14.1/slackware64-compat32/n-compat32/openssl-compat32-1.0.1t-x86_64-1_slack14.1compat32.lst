@@ -1,0 +1,42 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/n-compat32/openssl-compat32-1.0.1t-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-05-20 09:35 ./
+drwxr-xr-x root/root         0 2016-05-20 09:35 install/
+-rw-r--r-- root/root      1099 2016-05-20 09:35 install/doinst.sh
+-rw-r--r-- root/root      1189 2016-05-20 09:35 install/slack-desc
+drwxr-xr-x root/root         0 2016-05-03 21:24 lib/
+-r-xr-xr-x root/root    417696 2016-05-03 21:21 lib/libssl.so.1.0.0
+-r-xr-xr-x root/root   1809044 2016-05-03 21:21 lib/libcrypto.so.1.0.0
+drwxr-xr-x root/root         0 2016-05-20 09:35 usr/
+drwxr-xr-x root/root         0 2016-05-03 21:24 usr/lib/
+drwxr-xr-x root/root         0 2016-05-03 21:23 usr/lib/pkgconfig/
+-rw-r--r-- root/root       269 2016-05-03 21:23 usr/lib/pkgconfig/libssl.pc
+-rw-r--r-- root/root       279 2016-05-03 21:23 usr/lib/pkgconfig/openssl.pc
+-rw-r--r-- root/root       254 2016-05-03 21:23 usr/lib/pkgconfig/libcrypto.pc
+drwxr-xr-x root/root         0 2016-05-03 21:21 usr/lib/engines/
+-r-xr-xr-x root/root     20232 2016-05-03 21:21 usr/lib/engines/libchil.so
+-r-xr-xr-x root/root      3032 2016-05-03 21:21 usr/lib/engines/libcapi.so
+-r-xr-xr-x root/root     11576 2016-05-03 21:21 usr/lib/engines/libpadlock.so
+-r-xr-xr-x root/root     22736 2016-05-03 21:21 usr/lib/engines/libsureware.so
+-r-xr-xr-x root/root     99408 2016-05-03 21:21 usr/lib/engines/libgost.so
+-r-xr-xr-x root/root     19520 2016-05-03 21:21 usr/lib/engines/libcswift.so
+-r-xr-xr-x root/root     17080 2016-05-03 21:21 usr/lib/engines/libubsec.so
+-r-xr-xr-x root/root      3032 2016-05-03 21:21 usr/lib/engines/libgmp.so
+-r-xr-xr-x root/root     10296 2016-05-03 21:21 usr/lib/engines/libnuron.so
+-r-xr-xr-x root/root     18616 2016-05-03 21:21 usr/lib/engines/libaep.so
+-r-xr-xr-x root/root     11584 2016-05-03 21:21 usr/lib/engines/libatalla.so
+-r-xr-xr-x root/root     15920 2016-05-03 21:21 usr/lib/engines/lib4758cca.so
+-rw-r--r-- root/root   3206868 2016-05-03 21:21 usr/lib/libcrypto.a
+-rw-r--r-- root/root    610226 2016-05-03 21:21 usr/lib/libssl.a
+drwxr-xr-x root/root         0 2016-05-20 09:35 usr/bin/
+drwxr-xr-x root/root         0 2016-05-20 09:35 usr/bin/32/
+-rwxr-xr-x root/root      4245 2016-05-03 21:21 usr/bin/32/c_rehash
+-rwxr-xr-x root/root    527892 2016-05-03 21:21 usr/bin/32/openssl
+drwxr-xr-x root/root         0 2016-05-03 21:18 usr/doc/
+drwxr-xr-x root/root         0 2016-05-20 09:35 usr/doc/openssl-1.0.1t/
+-rw-r--r-- root/root      6279 2016-05-03 15:38 usr/doc/openssl-1.0.1t/LICENSE
+
+

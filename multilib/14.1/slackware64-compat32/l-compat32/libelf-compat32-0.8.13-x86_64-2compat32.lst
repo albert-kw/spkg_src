@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libelf-compat32-0.8.13-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2011-03-27 06:41 ./
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/
+drwxr-xr-x root/root         0 2011-03-27 06:41 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/doc/libelf-0.8.13/
+-rw-r--r-- root/root     25275 2005-05-21 17:28 usr/doc/libelf-0.8.13/COPYING.LIB
+drwxr-xr-x root/root         0 2011-03-27 06:41 usr/lib/
+-rw-r--r-- root/root    124310 2011-03-27 06:41 usr/lib/libelf.a
+drwxr-xr-x root/root         0 2011-03-27 06:41 usr/lib/pkgconfig/
+-rw-r--r-- root/root       245 2011-03-27 06:41 usr/lib/pkgconfig/libelf.pc
+-rwxr-xr-x root/root     78536 2011-03-27 06:41 usr/lib/libelf.so.0.8.13
+drwxr-xr-x root/root         0 2013-02-27 19:37 install/
+-rw-r--r-- root/root       174 2013-02-27 19:37 install/doinst.sh
+-rw-r--r-- root/root      1072 2013-02-27 19:37 install/slack-desc
+
+

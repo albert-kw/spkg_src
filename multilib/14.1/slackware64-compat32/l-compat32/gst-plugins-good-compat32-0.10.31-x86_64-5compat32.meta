@@ -1,0 +1,17 @@
+PACKAGE NAME:  gst-plugins-good-compat32-0.10.31-x86_64-5compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  848 K
+PACKAGE SIZE (uncompressed):  3250 K
+PACKAGE DESCRIPTION:
+gst-plugins-good-compat32: gst-plugins-good-compat32 (good set of GStreamer plugins)
+gst-plugins-good-compat32:
+gst-plugins-good-compat32: GStreamer Good Plug-ins is a set of plug-ins that have good
+gst-plugins-good-compat32: quality code, correct functionality, and a good license
+gst-plugins-good-compat32: (LGPL for the plug-in code, LGPL or LGPL-compatible for the
+gst-plugins-good-compat32: supporting library).
+gst-plugins-good-compat32:
+gst-plugins-good-compat32:
+gst-plugins-good-compat32:
+gst-plugins-good-compat32:
+gst-plugins-good-compat32: This package contains 32-bit compatibility binaries.
+

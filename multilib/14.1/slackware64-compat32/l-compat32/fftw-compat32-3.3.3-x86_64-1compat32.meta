@@ -1,0 +1,17 @@
+PACKAGE NAME:  fftw-compat32-3.3.3-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  2548 K
+PACKAGE SIZE (uncompressed):  13420 K
+PACKAGE DESCRIPTION:
+fftw-compat32: fftw-compat32 (Fastest Fourier Transform in the West)
+fftw-compat32: 
+fftw-compat32: FFTW is a free collection of fast C routines for computing the
+fftw-compat32: Discrete Fourier Transform in one or more dimensions.  It includes
+fftw-compat32: complex, real, symmetric, and parallel transforms, and can handle
+fftw-compat32: arbitrary array sizes efficiently.  FFTW is typically faster than
+fftw-compat32: other publicly-available FFT implementations, and is even
+fftw-compat32: competitive with vendor-tuned libraries.
+fftw-compat32:
+fftw-compat32: Homepage: http://www.fftw.org/
+fftw-compat32: This package contains 32-bit compatibility binaries.
+

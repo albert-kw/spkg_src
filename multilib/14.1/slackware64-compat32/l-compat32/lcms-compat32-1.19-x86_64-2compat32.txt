@@ -1,0 +1,11 @@
+lcms-compat32: lcms-compat32 (little cms engine)
+lcms-compat32:
+lcms-compat32: Little cms is a small, speed optimized color management engine.
+lcms-compat32:
+lcms-compat32: lcms-compat32 was written by Marti Maria <marti@littlecms.com>.
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32:
+lcms-compat32: This package contains 32-bit compatibility binaries.

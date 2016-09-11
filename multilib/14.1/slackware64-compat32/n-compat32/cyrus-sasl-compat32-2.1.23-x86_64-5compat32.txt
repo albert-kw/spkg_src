@@ -1,0 +1,11 @@
+cyrus-sasl-compat32: cyrus-sasl-compat32 (Simple Authentication and Security Layer)
+cyrus-sasl-compat32:
+cyrus-sasl-compat32: This is the Cyrus SASL library.  Cyrus SASL is used by mail programs 
+cyrus-sasl-compat32: on the client or server side to provide authentication and
+cyrus-sasl-compat32: authorization services.  See RFC 2222 for more information.
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32:
+cyrus-sasl-compat32: This package contains 32-bit compatibility binaries.

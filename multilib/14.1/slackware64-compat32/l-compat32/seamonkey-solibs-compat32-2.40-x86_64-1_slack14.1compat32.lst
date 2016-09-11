@@ -1,0 +1,32 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/seamonkey-solibs-compat32-2.40-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2016-03-15 06:54 ./
+drwxr-xr-x root/root         0 2016-03-28 23:51 install/
+-rw-r--r-- root/root        83 2016-03-28 23:51 install/doinst.sh
+-rw-r--r-- root/root       932 2016-03-28 23:51 install/slack-desc
+drwxr-xr-x root/root         0 2016-03-15 06:54 usr/
+drwxr-xr-x root/root         0 2016-03-15 06:54 usr/lib/
+drwxr-xr-x root/root         0 2016-03-15 06:54 usr/lib/seamonkey-2.40/
+-rwxr-xr-x root/root    213192 2016-03-15 06:52 usr/lib/seamonkey-2.40/libsoftokn3.so
+-rwxr-xr-x root/root    114532 2016-03-15 06:52 usr/lib/seamonkey-2.40/libnssdbm3.so
+-rwxr-xr-x root/root    129456 2016-03-15 06:52 usr/lib/seamonkey-2.40/libnssutil3.so
+-rwxr-xr-x root/root    797124 2016-03-15 06:52 usr/lib/seamonkey-2.40/libmozsqlite3.so
+-rw-r--r-- root/root       899 2016-03-15 06:51 usr/lib/seamonkey-2.40/libnssdbm3.chk
+-rw-r--r-- root/root       899 2016-03-15 06:51 usr/lib/seamonkey-2.40/libfreebl3.chk
+-rw-r--r-- root/root       899 2016-03-15 06:51 usr/lib/seamonkey-2.40/libsoftokn3.chk
+-rwxr-xr-x root/root    422416 2016-03-15 06:52 usr/lib/seamonkey-2.40/libfreebl3.so
+-rwxr-xr-x root/root     11628 2016-03-15 06:52 usr/lib/seamonkey-2.40/libplds4.so
+-rwxr-xr-x root/root    125920 2016-03-15 06:52 usr/lib/seamonkey-2.40/libsmime3.so
+-rwxr-xr-x root/root     16844 2016-03-15 06:52 usr/lib/seamonkey-2.40/libplc4.so
+-rwxr-xr-x root/root    210252 2016-03-15 06:52 usr/lib/seamonkey-2.40/libssl3.so
+-rwxr-xr-x root/root    909248 2016-03-15 06:52 usr/lib/seamonkey-2.40/libnss3.so
+-rwxr-xr-x root/root    243260 2016-03-15 06:52 usr/lib/seamonkey-2.40/libnspr4.so
+-rwxr-xr-x root/root    476288 2016-03-15 06:52 usr/lib/seamonkey-2.40/libnssckbi.so
+drwxr-xr-x root/root         0 2016-03-15 06:54 usr/doc/
+drwxr-xr-x root/root         0 2016-03-28 23:51 usr/doc/seamonkey-2.40/
+-rw-r--r-- root/root       389 2016-01-19 03:46 usr/doc/seamonkey-2.40/LICENSE
+
+

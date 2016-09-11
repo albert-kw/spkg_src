@@ -1,0 +1,11 @@
+libXau-compat32: libXau-compat32 (Sample Authorization Protocol for X)
+libXau-compat32:
+libXau-compat32: This is a very simple mechanism for providing individual access to 
+libXau-compat32: an X Window System display.It uses existing core protocol and library 
+libXau-compat32: hooks for specifying authorization data in the connection setup block 
+libXau-compat32: to restrict use of the display to only those clients that show that 
+libXau-compat32: they know a server-specific key called a "magic cookie."
+libXau-compat32:
+libXau-compat32:
+libXau-compat32:
+libXau-compat32: This package contains 32-bit compatibility binaries.

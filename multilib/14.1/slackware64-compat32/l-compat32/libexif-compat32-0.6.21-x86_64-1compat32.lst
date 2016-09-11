@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libexif-compat32-0.6.21-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2012-07-18 05:30 ./
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/
+drwxr-xr-x root/root         0 2012-07-18 05:30 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/doc/libexif-0.6.21/
+-rw-r--r-- root/root     26434 2009-09-29 02:33 usr/doc/libexif-0.6.21/COPYING
+-rw-r--r-- root/root       162 2007-06-13 09:20 usr/doc/libexif-0.6.21/AUTHORS
+drwxr-xr-x root/root         0 2012-07-18 05:30 usr/lib/
+-rwxr-xr-x root/root    221812 2012-07-18 05:30 usr/lib/libexif.so.12.3.3
+-rwxr-xr-x root/root       908 2012-07-18 05:30 usr/lib/libexif.la
+drwxr-xr-x root/root         0 2012-07-18 05:30 usr/lib/pkgconfig/
+-rw-r--r-- root/root       245 2012-07-18 05:30 usr/lib/pkgconfig/libexif.pc
+drwxr-xr-x root/root         0 2013-02-27 19:37 install/
+-rw-r--r-- root/root       182 2013-02-27 19:37 install/doinst.sh
+-rw-r--r-- root/root      1025 2013-02-27 19:37 install/slack-desc
+
+

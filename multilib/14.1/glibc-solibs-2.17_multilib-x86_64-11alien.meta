@@ -1,0 +1,17 @@
+PACKAGE NAME:  glibc-solibs-2.17_multilib-x86_64-11alien.txz
+PACKAGE LOCATION:  .
+PACKAGE SIZE (compressed):  3832 K
+PACKAGE SIZE (uncompressed):  21910 K
+PACKAGE DESCRIPTION:
+glibc-solibs: glibc-solibs (shared GNU C libraries)
+glibc-solibs:
+glibc-solibs: This package contains the shared libraries, binaries, and support
+glibc-solibs: files required to run most Linux applications linked with glibc.
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+glibc-solibs:
+

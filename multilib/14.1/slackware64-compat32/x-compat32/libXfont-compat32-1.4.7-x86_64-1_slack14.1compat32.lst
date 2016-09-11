@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXfont-compat32-1.4.7-x86_64-1_slack14.1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2014-01-14 04:51 ./
+drwxr-xr-x root/root         0 2014-01-14 23:52 install/
+-rw-r--r-- root/root       184 2014-01-14 23:52 install/doinst.sh
+-rw-r--r-- root/root      1213 2014-01-14 23:52 install/slack-desc
+drwxr-xr-x root/root         0 2014-01-14 23:52 usr/
+drwxr-xr-x root/root         0 2014-01-14 04:51 usr/lib/
+-rwxr-xr-x root/root    234912 2014-01-14 04:51 usr/lib/libXfont.so.1.4.1
+drwxr-xr-x root/root         0 2014-01-14 04:51 usr/lib/pkgconfig/
+-rw-r--r-- root/root       271 2014-01-14 04:51 usr/lib/pkgconfig/xfont.pc
+-rwxr-xr-x root/root      1001 2014-01-14 04:51 usr/lib/libXfont.la
+drwxr-xr-x root/root         0 2014-01-14 04:51 usr/doc/
+drwxr-xr-x root/root         0 2014-01-14 23:52 usr/doc/libXfont-1.4.7/
+-rw-r--r-- root/root       291 2014-01-07 17:25 usr/doc/libXfont-1.4.7/AUTHORS
+-rw-r--r-- root/root     13424 2014-01-07 17:25 usr/doc/libXfont-1.4.7/COPYING
+
+

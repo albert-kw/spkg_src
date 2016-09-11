@@ -1,0 +1,17 @@
+PACKAGE NAME:  xcb-util-compat32-0.3.9-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  8 K
+PACKAGE SIZE (uncompressed):  30 K
+PACKAGE DESCRIPTION:
+xcb-util-compat32: xcb-util-compat32 (utility libraries for X protocol C-language Binding)
+xcb-util-compat32:
+xcb-util-compat32: xcb-util-compat32 is part of X11.
+xcb-util-compat32:
+xcb-util-compat32: For more information about the X.Org Foundation (the providers of the
+xcb-util-compat32: X.Org implementation of the X Window System), see their website:
+xcb-util-compat32:
+xcb-util-compat32: http://www.x.org
+xcb-util-compat32:
+xcb-util-compat32:
+xcb-util-compat32: This package contains 32-bit compatibility binaries.
+

@@ -1,0 +1,11 @@
+popt-compat32: popt-compat32 (command line parsing library)
+popt-compat32:
+popt-compat32: Popt is a C library for parsing command line parameters.  Popt was
+popt-compat32: heavily influenced by the getopt() and getopt_long() functions, but it
+popt-compat32: improves on them by allowing more powerful argument expansion.  Popt
+popt-compat32: can parse arbitrary argv[] style arrays and automatically set
+popt-compat32: variables based on command line arguments.  Popt allows command line
+popt-compat32: arguments to be aliased via configuration files and includes utility
+popt-compat32: functions for parsing arbitrary strings into argv[] arrays using
+popt-compat32: shell-like rules.
+popt-compat32: This package contains 32-bit compatibility binaries.

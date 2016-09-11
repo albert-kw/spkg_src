@@ -1,0 +1,11 @@
+openldap-client-compat32: openldap-client-compat32 (OpenLDAP client programs)
+openldap-client-compat32:
+openldap-client-compat32: OpenLDAP is an open source implementation of the Lightweight
+openldap-client-compat32: Directory Access Protocol.  LDAP is a alternative to the X.500
+openldap-client-compat32: Directory Access Protocol (DAP). It uses the TCP/IP stack versus
+openldap-client-compat32: the overly complex OSI stack.
+openldap-client-compat32:
+openldap-client-compat32: LDAP is often used to provide authentication (such as for email).
+openldap-client-compat32:
+openldap-client-compat32: The OpenLDAP homepage is http://www.openldap.org/
+openldap-client-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,17 @@
+PACKAGE NAME:  giflib-compat32-4.1.6-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/l-compat32
+PACKAGE SIZE (compressed):  80 K
+PACKAGE SIZE (uncompressed):  420 K
+PACKAGE DESCRIPTION:
+giflib-compat32: giflib-compat32 (GIF image format library)
+giflib-compat32:
+giflib-compat32: A library to load and save (uncompressed only) images using GIF,
+giflib-compat32: or Graphics Interchange Format.  GIF was introduced by CompuServe
+giflib-compat32: in 1987, but is still widely used today (especially on web pages.)
+giflib-compat32:
+giflib-compat32:
+giflib-compat32:
+giflib-compat32:
+giflib-compat32:
+giflib-compat32: This package contains 32-bit compatibility binaries.
+

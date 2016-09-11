@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXxf86dga-compat32-1.1.4-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  40 K
+PACKAGE DESCRIPTION:
+libXxf86dga-compat32: libXxf86dga-compat32 (client library for the XFree86-DGA extension)
+libXxf86dga-compat32:
+libXxf86dga-compat32: libXxf86dga-compat32 is part of X11.
+libXxf86dga-compat32:
+libXxf86dga-compat32: For more information about the X.Org Foundation (the providers of the
+libXxf86dga-compat32: X.Org implementation of the X Window System), see their website:
+libXxf86dga-compat32:
+libXxf86dga-compat32: http://www.x.org
+libXxf86dga-compat32:
+libXxf86dga-compat32:
+libXxf86dga-compat32: This package contains 32-bit compatibility binaries.
+

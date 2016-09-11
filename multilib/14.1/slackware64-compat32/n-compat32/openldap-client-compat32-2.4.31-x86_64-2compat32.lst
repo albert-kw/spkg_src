@@ -1,0 +1,34 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/n-compat32/openldap-client-compat32-2.4.31-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-02-27 19:39 ./
+drwxr-xr-x root/root         0 2013-02-27 19:39 usr/
+drwxr-xr-x root/root         0 2013-02-27 19:39 usr/bin/
+drwxr-xr-x root/root         0 2013-02-27 19:39 usr/bin/32/
+-rwxr-xr-x root/root     63600 2012-07-10 05:30 usr/bin/32/ldapmodify
+-rwxr-xr-x root/root     52596 2012-07-10 05:30 usr/bin/32/ldapexop
+-rwxr-xr-x root/root     55392 2012-07-10 05:30 usr/bin/32/ldapdelete
+-rwxr-xr-x root/root     51268 2012-07-10 05:30 usr/bin/32/ldapwhoami
+-rwxr-xr-x root/root     75992 2012-07-10 05:30 usr/bin/32/ldapsearch
+-rwxr-xr-x root/root     51996 2012-07-10 05:30 usr/bin/32/ldapmodrdn
+-rwxr-xr-x root/root     15392 2012-07-10 05:30 usr/bin/32/ldapurl
+-rwxr-xr-x root/root     51964 2012-07-10 05:30 usr/bin/32/ldapcompare
+-rwxr-xr-x root/root     52556 2012-07-10 05:30 usr/bin/32/ldappasswd
+drwxr-xr-x root/root         0 2012-07-10 05:30 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:39 usr/doc/openldap-2.4.31/
+-rw-r--r-- root/root      2214 2012-04-22 22:25 usr/doc/openldap-2.4.31/LICENSE
+-rw-r--r-- root/root      2345 2012-04-22 22:25 usr/doc/openldap-2.4.31/COPYRIGHT
+drwxr-xr-x root/root         0 2012-07-10 05:30 usr/lib/
+-rw-r--r-- root/root       869 2012-07-10 05:30 usr/lib/libldap.la
+-rwxr-xr-x root/root    322288 2012-07-10 05:30 usr/lib/libldap_r-2.4.so.2.8.3
+-rw-r--r-- root/root       808 2012-07-10 05:30 usr/lib/liblber.la
+-rw-r--r-- root/root       890 2012-07-10 05:30 usr/lib/libldap_r.la
+-rwxr-xr-x root/root    296624 2012-07-10 05:30 usr/lib/libldap-2.4.so.2.8.3
+-rwxr-xr-x root/root     52244 2012-07-10 05:30 usr/lib/liblber-2.4.so.2.8.3
+drwxr-xr-x root/root         0 2013-02-27 19:39 install/
+-rw-r--r-- root/root      1022 2013-02-27 19:39 install/doinst.sh
+-rw-r--r-- root/root      1197 2013-02-27 19:39 install/slack-desc
+
+

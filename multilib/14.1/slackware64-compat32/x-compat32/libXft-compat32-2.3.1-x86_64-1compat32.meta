@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXft-compat32-2.3.1-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  36 K
+PACKAGE SIZE (uncompressed):  100 K
+PACKAGE DESCRIPTION:
+libXft-compat32: libXft-compat32 (X FreeType library)
+libXft-compat32:
+libXft-compat32: libXft-compat32 is part of X11.
+libXft-compat32:
+libXft-compat32: For more information about the X.Org Foundation (the providers of the
+libXft-compat32: X.Org implementation of the X Window System), see their website:
+libXft-compat32:
+libXft-compat32: http://www.x.org
+libXft-compat32:
+libXft-compat32:
+libXft-compat32: This package contains 32-bit compatibility binaries.
+

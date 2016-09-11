@@ -1,0 +1,11 @@
+cxxlibs-compat32: cxxlibs-compat32 (C++ shared library compatibility package)
+cxxlibs-compat32:
+cxxlibs-compat32: This package contains the shared libraries needed to run dynamically
+cxxlibs-compat32: linked C++ binaries linked with older versions of libstdc++.
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32:
+cxxlibs-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/startup-notification-compat32-0.12-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-09-08 00:11 ./
+drwxr-xr-x root/root         0 2013-09-08 16:56 usr/
+drwxr-xr-x root/root         0 2013-09-08 00:11 usr/doc/
+drwxr-xr-x root/root         0 2013-09-08 16:56 usr/doc/startup-notification-0.12/
+-rw-r--r-- root/root     25613 2010-03-15 15:18 usr/doc/startup-notification-0.12/COPYING
+-rw-r--r-- root/root        71 2010-03-15 15:18 usr/doc/startup-notification-0.12/AUTHORS
+drwxr-xr-x root/root         0 2013-09-08 00:11 usr/lib/
+-rwxr-xr-x root/root      1151 2013-09-08 00:11 usr/lib/libstartup-notification-1.la
+drwxr-xr-x root/root         0 2013-09-08 00:11 usr/lib/pkgconfig/
+-rw-r--r-- root/root       259 2013-09-08 00:11 usr/lib/pkgconfig/libstartup-notification-1.0.pc
+-rwxr-xr-x root/root     34680 2013-09-08 00:11 usr/lib/libstartup-notification-1.so.0.0.0
+drwxr-xr-x root/root         0 2013-09-08 16:56 install/
+-rw-r--r-- root/root       286 2013-09-08 16:56 install/doinst.sh
+-rw-r--r-- root/root      1000 2013-09-08 16:56 install/slack-desc
+
+

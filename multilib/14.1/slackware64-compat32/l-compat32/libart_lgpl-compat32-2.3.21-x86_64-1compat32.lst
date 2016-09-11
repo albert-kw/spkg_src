@@ -1,0 +1,25 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libart_lgpl-compat32-2.3.21-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-02-27 19:37 ./
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/bin/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/bin/32/
+-rwxr-xr-x root/root       963 2010-08-10 00:57 usr/bin/32/libart2-config
+drwxr-xr-x root/root         0 2010-08-10 00:57 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/doc/libart_lgpl-2.3.21/
+-rw-r--r-- root/root     25292 2009-04-18 14:29 usr/doc/libart_lgpl-2.3.21/COPYING
+-rw-r--r-- root/root        27 2009-04-18 14:29 usr/doc/libart_lgpl-2.3.21/AUTHORS
+drwxr-xr-x root/root         0 2010-08-10 00:57 usr/lib/
+-rwxr-xr-x root/root       961 2010-08-10 00:57 usr/lib/libart_lgpl_2.la
+drwxr-xr-x root/root         0 2010-08-10 00:57 usr/lib/pkgconfig/
+-rw-r--r-- root/root       223 2010-08-10 00:57 usr/lib/pkgconfig/libart-2.0.pc
+-rwxr-xr-x root/root     86972 2010-08-10 00:57 usr/lib/libart_lgpl_2.so.2.3.21
+-rw-r--r-- root/root    124472 2010-08-10 00:57 usr/lib/libart_lgpl_2.a
+drwxr-xr-x root/root         0 2013-02-27 19:37 install/
+-rw-r--r-- root/root       216 2013-02-27 19:37 install/doinst.sh
+-rw-r--r-- root/root       993 2013-02-27 19:37 install/slack-desc
+
+

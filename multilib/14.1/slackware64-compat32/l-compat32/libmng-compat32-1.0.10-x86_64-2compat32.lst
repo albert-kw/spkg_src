@@ -1,0 +1,18 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libmng-compat32-1.0.10-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2010-02-16 21:37 ./
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/
+drwxr-xr-x root/root         0 2010-02-16 21:37 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:37 usr/doc/libmng-1.0.10/
+-rw-r--r-- root/root      4622 2007-07-09 13:21 usr/doc/libmng-1.0.10/LICENSE
+drwxr-xr-x root/root         0 2010-02-16 21:37 usr/lib/
+-rwxr-xr-x root/root    401196 2010-02-16 21:37 usr/lib/libmng.so.1.0.0
+-rwxr-xr-x root/root       947 2010-02-16 21:37 usr/lib/libmng.la
+drwxr-xr-x root/root         0 2013-02-27 19:37 install/
+-rw-r--r-- root/root       172 2013-02-27 19:37 install/doinst.sh
+-rw-r--r-- root/root      1120 2013-02-27 19:37 install/slack-desc
+
+

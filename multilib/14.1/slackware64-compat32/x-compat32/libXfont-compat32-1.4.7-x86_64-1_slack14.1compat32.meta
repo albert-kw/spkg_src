@@ -1,0 +1,17 @@
+PACKAGE NAME:  libXfont-compat32-1.4.7-x86_64-1_slack14.1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  108 K
+PACKAGE SIZE (uncompressed):  260 K
+PACKAGE DESCRIPTION:
+libXfont-compat32: libXfont-compat32 (library for legacy X11 font system)
+libXfont-compat32:
+libXfont-compat32: libXfont-compat32 provides the core of the legacy X11 font system, handling the
+libXfont-compat32: index files (fonts.dir, fonts.alias, fonts.scale), the various font
+libXfont-compat32: file formats, and rasterizing them.   It is used by the X servers, the
+libXfont-compat32: X Font Server (xfs), and some font utilities (bdftopcf for instance),
+libXfont-compat32: but should not be used by normal X11 clients.  X11 clients access fonts
+libXfont-compat32: via either the new API's in libXft, or the legacy API's in libX11.
+libXfont-compat32:
+libXfont-compat32:
+libXfont-compat32: This package contains 32-bit compatibility binaries.
+

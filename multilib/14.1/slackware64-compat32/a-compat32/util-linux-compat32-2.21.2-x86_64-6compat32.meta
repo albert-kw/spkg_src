@@ -1,0 +1,17 @@
+PACKAGE NAME:  util-linux-compat32-2.21.2-x86_64-6compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/a-compat32
+PACKAGE SIZE (compressed):  260 K
+PACKAGE SIZE (uncompressed):  1020 K
+PACKAGE DESCRIPTION:
+util-linux-compat32: util-linux-compat32 (a huge collection of essential utilities) 
+util-linux-compat32:
+util-linux-compat32: The util-linux package is a huge collection of random utilities
+util-linux-compat32: that are essential to run a Linux system.
+util-linux-compat32:
+util-linux-compat32: http://kernel.org/~kzak/util-linux/
+util-linux-compat32:
+util-linux-compat32:
+util-linux-compat32:
+util-linux-compat32:
+util-linux-compat32: This package contains 32-bit compatibility binaries.
+

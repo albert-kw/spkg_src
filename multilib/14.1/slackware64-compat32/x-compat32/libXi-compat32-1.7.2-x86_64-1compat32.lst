@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXi-compat32-1.7.2-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-07-10 08:07 ./
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/
+drwxr-xr-x root/root         0 2013-07-10 08:07 usr/doc/
+drwxr-xr-x root/root         0 2013-07-13 15:03 usr/doc/libXi-1.7.2/
+-rw-r--r-- root/root      4347 2011-08-02 01:55 usr/doc/libXi-1.7.2/COPYING
+drwxr-xr-x root/root         0 2013-07-10 08:07 usr/lib/
+drwxr-xr-x root/root         0 2013-07-10 08:07 usr/lib/pkgconfig/
+-rw-r--r-- root/root       245 2013-07-10 08:07 usr/lib/pkgconfig/xi.pc
+-rwxr-xr-x root/root       993 2013-07-10 08:07 usr/lib/libXi.la
+-rwxr-xr-x root/root     59164 2013-07-10 08:07 usr/lib/libXi.so.6.1.0
+drwxr-xr-x root/root         0 2013-07-13 15:03 install/
+-rw-r--r-- root/root       166 2013-07-13 15:03 install/doinst.sh
+-rw-r--r-- root/root       928 2013-07-13 15:03 install/slack-desc
+
+

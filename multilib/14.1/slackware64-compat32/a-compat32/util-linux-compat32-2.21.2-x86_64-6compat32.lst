@@ -1,0 +1,77 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/a-compat32/util-linux-compat32-2.21.2-x86_64-6compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2015-01-25 01:38 ./
+drwxr-xr-x root/root         0 2015-01-25 01:38 install/
+-rw-r--r-- root/root      1625 2015-01-25 01:38 install/doinst.sh
+-rw-r--r-- root/root       954 2015-01-25 01:38 install/slack-desc
+drwxr-xr-x root/root         0 2013-08-08 04:16 lib/
+-rwxr-xr-x root/root    163440 2013-08-08 04:16 lib/libblkid.so.1.1.0
+-rwxr-xr-x root/root     13312 2013-08-08 04:16 lib/libuuid.so.1.3.0
+-rwxr-xr-x root/root    179568 2013-08-08 04:16 lib/libmount.so.1.1.0
+drwxr-xr-x root/root         0 2015-01-25 01:38 usr/
+drwxr-xr-x root/root         0 2013-08-08 04:16 usr/lib/
+drwxr-xr-x root/root         0 2013-08-08 04:15 usr/lib/pkgconfig/
+-rw-r--r-- root/root       228 2013-08-08 04:15 usr/lib/pkgconfig/mount.pc
+-rw-r--r-- root/root       224 2013-08-08 04:15 usr/lib/pkgconfig/uuid.pc
+-rw-r--r-- root/root       234 2013-08-08 04:15 usr/lib/pkgconfig/blkid.pc
+-rwxr-xr-x root/root       902 2013-08-08 04:15 usr/lib/libuuid.la
+-rwxr-xr-x root/root       949 2013-08-08 04:15 usr/lib/libmount.la
+-rwxr-xr-x root/root       928 2013-08-08 04:15 usr/lib/libblkid.la
+drwxr-xr-x root/root         0 2015-01-25 01:38 usr/bin/
+drwxr-xr-x root/root         0 2015-01-25 01:38 usr/bin/32/
+-rwxr-xr-x root/root     41140 2013-08-08 04:16 usr/bin/32/lscpu
+-rwxr-xr-x root/root     16584 2013-08-08 04:16 usr/bin/32/chrt
+-rwxr-xr-x root/root     10132 2013-08-08 04:16 usr/bin/32/whereis
+-rwxr-xr-x root/root     12808 2013-08-08 04:16 usr/bin/32/fallocate
+-rwxr-xr-x root/root     16976 2013-08-08 04:16 usr/bin/32/ipcrm
+-rwxr-xr-x root/root     18124 2013-08-08 04:16 usr/bin/32/cytune
+-rwxr-xr-x root/root     12460 2013-08-08 04:16 usr/bin/32/ul
+-rwxr-xr-x root/root     15624 2013-08-08 04:16 usr/bin/32/flock
+-rwxr-xr-x root/root      7168 2013-08-08 04:16 usr/bin/32/fdformat
+-rwxr-xr-x root/root     23020 2013-08-08 04:16 usr/bin/32/cal
+-rwxr-sr-x root/tty      18364 2013-08-08 04:16 usr/bin/32/wall
+-rwxr-xr-x root/root      3669 2013-08-08 04:15 usr/bin/32/chkdupexe
+-rwxr-xr-x root/root      5720 2013-08-08 04:16 usr/bin/32/mesg
+-rwxr-xr-x root/root     13972 2013-08-08 04:16 usr/bin/32/ipcmk
+-rwxr-xr-x root/root     11512 2013-08-08 04:16 usr/bin/32/script
+-rwxr-xr-x root/root      7228 2013-08-08 04:16 usr/bin/32/colcrt
+-rwxr-xr-x root/root      5280 2013-08-08 04:16 usr/bin/32/uuidgen
+-rwxr-xr-x root/root      7744 2013-08-08 04:16 usr/bin/32/scriptreplay
+-rwxr-xr-x root/root     22680 2013-08-08 04:16 usr/bin/32/hexdump
+-rwxr-xr-x root/root     27008 2013-08-08 04:16 usr/bin/32/pg
+-rwxr-xr-x root/root      3268 2013-08-08 04:16 usr/bin/32/line
+-rwxr-xr-x root/root     19400 2013-08-08 04:16 usr/bin/32/ipcs
+-rwxr-xr-x root/root     18232 2013-08-08 04:16 usr/bin/32/taskset
+-rwxr-xr-x root/root     14960 2013-08-08 04:16 usr/bin/32/ionice
+-rwxr-xr-x root/root     27232 2013-08-08 04:16 usr/bin/32/prlimit
+-rwxr-xr-x root/root     16520 2013-08-08 04:16 usr/bin/32/column
+-rwxr-xr-x root/root      5924 2013-08-08 04:16 usr/bin/32/unshare
+-rwxr-xr-x root/root      6716 2013-08-08 04:16 usr/bin/32/strings
+-rwxr-xr-x root/root      5108 2013-08-08 04:16 usr/bin/32/setsid
+-rwxr-xr-x root/root      6232 2013-08-08 04:16 usr/bin/32/rev
+-rwxr-xr-x root/root      5720 2013-08-08 04:16 usr/bin/32/rename
+-rwxr-xr-x root/root     16552 2013-08-08 04:16 usr/bin/32/col
+-rwxr-xr-x root/root      8804 2013-08-08 04:16 usr/bin/32/setarch
+-rwxr-xr-x root/root       190 2013-08-08 04:15 usr/bin/32/reset
+-rwxr-xr-x root/root      8536 2013-08-08 04:16 usr/bin/32/ddate
+-rwxr-xr-x root/root     16872 2013-08-08 04:16 usr/bin/32/logger
+-rwxr-xr-x root/root     16944 2013-08-08 04:16 usr/bin/32/namei
+-rwxr-xr-x root/root     13420 2013-08-08 04:16 usr/bin/32/isosize
+-rwxr-xr-x root/root      6664 2013-08-08 04:16 usr/bin/32/renice
+-rwxr-sr-x root/tty      10108 2013-08-08 04:16 usr/bin/32/write
+-rwxr-xr-x root/root      7004 2013-08-08 04:16 usr/bin/32/look
+-rwxr-xr-x root/root     12704 2013-08-08 04:16 usr/bin/32/colrm
+-rwxr-xr-x root/root      9948 2013-08-08 04:16 usr/bin/32/mcookie
+-rwxr-xr-x root/root     14800 2013-08-08 04:16 usr/bin/32/tailf
+drwxr-xr-x root/root         0 2015-01-25 01:38 usr/doc/
+drwxr-xr-x root/root         0 2015-01-25 01:38 usr/doc/adjtimex-1.29/
+-rw-r--r-- root/root       764 1998-04-20 23:27 usr/doc/adjtimex-1.29/COPYRIGHT
+-rw-r--r-- root/root     17982 1998-04-20 23:27 usr/doc/adjtimex-1.29/COPYING
+drwxr-xr-x root/root         0 2015-01-25 01:38 usr/doc/util-linux-2.21.2/
+-rw-r--r-- root/root     15073 2012-05-25 12:24 usr/doc/util-linux-2.21.2/AUTHORS
+-rw-r--r-- root/root     18002 2012-05-25 11:44 usr/doc/util-linux-2.21.2/COPYING
+
+

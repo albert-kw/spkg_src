@@ -1,0 +1,11 @@
+fftw-compat32: fftw-compat32 (Fastest Fourier Transform in the West)
+fftw-compat32: 
+fftw-compat32: FFTW is a free collection of fast C routines for computing the
+fftw-compat32: Discrete Fourier Transform in one or more dimensions.  It includes
+fftw-compat32: complex, real, symmetric, and parallel transforms, and can handle
+fftw-compat32: arbitrary array sizes efficiently.  FFTW is typically faster than
+fftw-compat32: other publicly-available FFT implementations, and is even
+fftw-compat32: competitive with vendor-tuned libraries.
+fftw-compat32:
+fftw-compat32: Homepage: http://www.fftw.org/
+fftw-compat32: This package contains 32-bit compatibility binaries.

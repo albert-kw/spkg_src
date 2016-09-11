@@ -1,0 +1,11 @@
+udev-compat32: udev-compat32 (dynamic device directory system)
+udev-compat32:
+udev-compat32: udev-compat32 provides a dynamic device directory containing only the files
+udev-compat32: for the devices which are actually present.  It creates or removes
+udev-compat32: device node files usually located in the /dev directory.
+udev-compat32:
+udev-compat32: udev-compat32 requires a 2.6 or newer kernel.
+udev-compat32:
+udev-compat32: Kay Sievers is the udev maintainer.
+udev-compat32:
+udev-compat32: This package contains 32-bit compatibility binaries.

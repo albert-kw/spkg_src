@@ -1,0 +1,17 @@
+PACKAGE NAME:  libgpg-error-compat32-1.11-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/n-compat32
+PACKAGE SIZE (compressed):  28 K
+PACKAGE SIZE (uncompressed):  110 K
+PACKAGE DESCRIPTION:
+libgpg-error-compat32: libgpg-error-compat32 (GnuPG Error Definitions Library)
+libgpg-error-compat32:
+libgpg-error-compat32: This is a library that defines common error values for all GnuPG
+libgpg-error-compat32: components.  Among these are GPG, GPGSM, GPGME, GPG-Agent, 
+libgpg-error-compat32: libgcrypt, Libksba, DirMngr, Pinentry, SmartCard Daemon, and more.
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32:
+libgpg-error-compat32: This package contains 32-bit compatibility binaries.
+

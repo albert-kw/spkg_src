@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/glew-compat32-1.9.0-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-03-18 22:43 ./
+drwxr-xr-x root/root         0 2013-03-23 16:20 usr/
+drwxr-xr-x root/root         0 2013-03-18 22:43 usr/doc/
+drwxr-xr-x root/root         0 2013-03-23 16:20 usr/doc/glew-1.9.0/
+-rw-r--r-- root/root      3797 2012-08-06 17:59 usr/doc/glew-1.9.0/LICENSE.txt
+-rw-r--r-- root/root     17989 2012-08-06 17:59 usr/doc/glew-1.9.0/gpl.txt
+drwxr-xr-x root/root         0 2013-03-18 22:43 usr/lib/
+drwxr-xr-x root/root         0 2013-03-18 22:43 usr/lib/pkgconfig/
+-rw-r--r-- root/root       204 2013-03-18 22:43 usr/lib/pkgconfig/glew.pc
+-rw-r--r-- root/root    416680 2013-03-18 22:43 usr/lib/libGLEW.so.1.9.0
+-rw-r--r-- root/root    604410 2013-03-18 22:43 usr/lib/libGLEW.a
+drwxr-xr-x root/root         0 2013-03-23 16:20 install/
+-rw-r--r-- root/root       182 2013-03-23 16:20 install/doinst.sh
+-rw-r--r-- root/root      1010 2013-03-23 16:20 install/slack-desc
+
+

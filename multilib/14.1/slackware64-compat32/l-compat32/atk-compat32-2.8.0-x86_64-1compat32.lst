@@ -1,0 +1,23 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/atk-compat32-2.8.0-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-05-19 07:22 ./
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/doc/
+drwxr-xr-x root/root         0 2013-05-22 13:06 usr/doc/atk-2.8.0/
+-rw-r--r-- root/root     25292 2013-02-04 20:33 usr/doc/atk-2.8.0/COPYING
+-rw-r--r-- root/root       140 2013-02-04 20:33 usr/doc/atk-2.8.0/AUTHORS
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/lib/
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/lib/pkgconfig/
+-rw-r--r-- root/root       222 2013-05-19 07:22 usr/lib/pkgconfig/atk.pc
+-rwxr-xr-x root/root    129652 2013-05-19 07:22 usr/lib/libatk-1.0.so.0.20809.1
+-rwxr-xr-x root/root      1012 2013-05-19 07:22 usr/lib/libatk-1.0.la
+drwxr-xr-x root/root         0 2013-05-19 07:22 usr/lib/girepository-1.0/
+-rw-r--r-- root/root     64732 2013-05-19 07:22 usr/lib/girepository-1.0/Atk-1.0.typelib
+drwxr-xr-x root/root         0 2013-05-22 13:06 install/
+-rw-r--r-- root/root       204 2013-05-22 13:06 install/doinst.sh
+-rw-r--r-- root/root       806 2013-05-22 13:06 install/slack-desc
+
+

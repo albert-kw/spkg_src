@@ -1,0 +1,11 @@
+curl-compat32: curl-compat32 (command line URL data transfer tool)
+curl-compat32:
+curl-compat32: Curl is a command line tool for transferring data specified with URL
+curl-compat32: syntax.  The command is designed to work without user interaction or
+curl-compat32: any kind of interactivity.   Curl offers a busload of useful tricks
+curl-compat32: like proxy support, user authentication, ftp upload, HTTP post,  SSL
+curl-compat32: (https:) connections, cookies, file transfer resume and more.
+curl-compat32:
+curl-compat32: libcurl is a library that Curl uses to do its job. It is readily
+curl-compat32: available to be used by your software, too.
+curl-compat32: This package contains 32-bit compatibility binaries.

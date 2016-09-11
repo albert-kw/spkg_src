@@ -1,0 +1,54 @@
+++========================================
+||
+||   Package:  ./gcc-gfortran-4.8.2_multilib-x86_64-1alien.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-10-21 11:33 ./
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/
+drwxr-xr-x root/root         0 2013-10-21 11:33 usr/bin/
+-rwxr-xr-x root/root    764216 2013-10-21 11:31 usr/bin/gfortran-gcc-4.8.2
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/info/
+-rw-r--r-- root/root    151659 2013-10-21 11:30 usr/info/gfortran.info.gz
+drwxr-xr-x root/root         0 2013-10-21 11:33 usr/lib64/
+-rw-r--r-- root/root       269 2013-10-21 11:28 usr/lib64/libgfortran.spec
+-rw-r--r-- root/root   2792106 2013-10-21 11:31 usr/lib64/libgfortran.a
+-rwxr-xr-x root/root   1143520 2013-10-21 11:31 usr/lib64/libgfortran.so.3.0.0
+-rwxr-xr-x root/root      1010 2013-10-21 11:30 usr/lib64/libgfortran.la
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/lib64/gcc/
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/
+drwxr-xr-x root/root         0 2013-10-21 11:31 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/
+-rwxr-xr-x root/root       944 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/libgfortranbegin.la
+-rw-r--r-- root/root      1654 2013-10-21 11:31 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/libgfortranbegin.a
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/finclude/
+-rw-r--r-- root/root      2999 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/finclude/omp_lib.h
+-rw-r--r-- root/root     14652 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/finclude/omp_lib.mod
+-rw-r--r-- root/root      1117 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/finclude/omp_lib_kinds.mod
+-rw-r--r-- root/root     10216 2013-10-21 11:30 usr/lib64/gcc/x86_64-slackware-linux/4.8.2/finclude/omp_lib.f90
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/libexec/
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/libexec/gcc/
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/libexec/gcc/x86_64-slackware-linux/
+drwxr-xr-x root/root         0 2013-10-21 11:31 usr/libexec/gcc/x86_64-slackware-linux/4.8.2/
+-rwxr-xr-x root/root  13371552 2013-10-21 11:31 usr/libexec/gcc/x86_64-slackware-linux/4.8.2/f951
+drwxr-xr-x root/root         0 2013-10-21 11:33 usr/lib/
+-rw-r--r-- root/root       269 2013-10-21 11:28 usr/lib/libgfortran.spec
+-rw-r--r-- root/root   2093096 2013-10-21 11:31 usr/lib/libgfortran.a
+-rwxr-xr-x root/root   1024532 2013-10-21 11:31 usr/lib/libgfortran.so.3.0.0
+-rwxr-xr-x root/root      1006 2013-10-21 11:30 usr/lib/libgfortran.la
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/lib/gcc/
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/lib/gcc/x86_64-slackware-linux/
+drwxr-xr-x root/root         0 2013-10-21 11:31 usr/lib/gcc/x86_64-slackware-linux/4.8.2/
+-rwxr-xr-x root/root       947 2013-10-21 11:30 usr/lib/gcc/x86_64-slackware-linux/4.8.2/libgfortranbegin.la
+-rw-r--r-- root/root      1500 2013-10-21 11:31 usr/lib/gcc/x86_64-slackware-linux/4.8.2/libgfortranbegin.a
+drwxr-xr-x root/root         0 2013-10-21 09:27 usr/doc/
+drwxr-xr-x root/root         0 2013-10-21 09:31 usr/doc/gcc-4.8.2/
+drwxr-xr-x root/root         0 2013-10-21 09:31 usr/doc/gcc-4.8.2/gcc/
+drwxr-xr-x root/root         0 2013-10-21 09:31 usr/doc/gcc-4.8.2/gcc/fortran/
+-rw-r--r-- root/root     22374 2013-10-16 09:19 usr/doc/gcc-4.8.2/gcc/fortran/ChangeLog
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/man/
+drwxr-xr-x root/root         0 2013-10-21 11:30 usr/man/man1/
+-rw-r--r-- root/root     20663 2013-10-21 11:27 usr/man/man1/gfortran.1.gz
+drwxr-xr-x root/root         0 2013-10-21 11:33 install/
+-rw-r--r-- root/root      1083 2013-10-21 09:27 install/slack-desc
+-rw-r--r-- root/root      1356 2013-10-21 11:33 install/doinst.sh
+
+

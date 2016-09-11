@@ -1,0 +1,11 @@
+libdmx-compat32: libdmx-compat32 (DMX (Distributed Multihead X) extension library)
+libdmx-compat32:
+libdmx-compat32: libdmx-compat32 is part of X11.
+libdmx-compat32:
+libdmx-compat32: For more information about the X.Org Foundation (the providers of the
+libdmx-compat32: X.Org implementation of the X Window System), see their website:
+libdmx-compat32:
+libdmx-compat32: http://www.x.org
+libdmx-compat32:
+libdmx-compat32:
+libdmx-compat32: This package contains 32-bit compatibility binaries.

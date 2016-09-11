@@ -1,0 +1,11 @@
+sqlite-compat32: SQLite (simple, self contained database engine)
+sqlite-compat32:
+sqlite-compat32: SQLite is a small C library that implements a self-contained,
+sqlite-compat32: embeddable, zero-configuration SQL database engine.
+sqlite-compat32:
+sqlite-compat32: The SQLite distribution comes with a standalone command-line access
+sqlite-compat32: program (sqlite) that can be used to administer an SQLite database
+sqlite-compat32: and which serves as an example of how to use the SQLite library.
+sqlite-compat32:
+sqlite-compat32: Homepage:  http://www.sqlite.org/
+sqlite-compat32: This package contains 32-bit compatibility binaries.

@@ -1,0 +1,11 @@
+libXxf86vm-compat32: libXxf86vm-compat32 (library for the XFree86-VidMode X extension)
+libXxf86vm-compat32:
+libXxf86vm-compat32: libXxf86vm-compat32 is part of X11.
+libXxf86vm-compat32:
+libXxf86vm-compat32: For more information about the X.Org Foundation (the providers of the
+libXxf86vm-compat32: X.Org implementation of the X Window System), see their website:
+libXxf86vm-compat32:
+libXxf86vm-compat32: http://www.x.org
+libXxf86vm-compat32:
+libXxf86vm-compat32:
+libXxf86vm-compat32: This package contains 32-bit compatibility binaries.

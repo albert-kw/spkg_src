@@ -1,0 +1,20 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/libffi-compat32-3.0.13-x86_64-2compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-06-05 01:25 ./
+drwxr-xr-x root/root         0 2013-06-11 10:17 usr/
+drwxr-xr-x root/root         0 2013-06-05 01:25 usr/doc/
+drwxr-xr-x root/root         0 2013-06-11 10:17 usr/doc/libffi-3.0.13/
+-rw-r--r-- root/root      1132 2013-03-16 12:19 usr/doc/libffi-3.0.13/LICENSE
+drwxr-xr-x root/root         0 2013-06-05 01:25 usr/lib/
+-rwxr-xr-x root/root     22236 2013-06-05 01:25 usr/lib/libffi.so.6.0.1
+drwxr-xr-x root/root         0 2013-06-05 01:25 usr/lib/pkgconfig/
+-rw-r--r-- root/root       189 2013-06-05 01:25 usr/lib/pkgconfig/libffi.pc
+-rwxr-xr-x root/root       896 2013-06-05 01:25 usr/lib/libffi.la
+drwxr-xr-x root/root         0 2013-06-11 10:17 install/
+-rw-r--r-- root/root       172 2013-06-11 10:17 install/doinst.sh
+-rw-r--r-- root/root      1166 2013-06-11 10:17 install/slack-desc
+
+

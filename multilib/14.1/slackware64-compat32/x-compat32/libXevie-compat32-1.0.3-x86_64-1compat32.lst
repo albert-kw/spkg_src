@@ -1,0 +1,21 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/x-compat32/libXevie-compat32-1.0.3-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2010-11-13 21:35 ./
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/
+drwxr-xr-x root/root         0 2010-11-13 21:35 usr/doc/
+drwxr-xr-x root/root         0 2013-02-27 19:56 usr/doc/libXevie-1.0.3/
+-rw-r--r-- root/root      1132 2010-10-31 17:39 usr/doc/libXevie-1.0.3/COPYING
+-rw-r--r-- root/root        16 2010-10-31 17:39 usr/doc/libXevie-1.0.3/AUTHORS
+drwxr-xr-x root/root         0 2010-11-13 21:35 usr/lib/
+-rwxr-xr-x root/root      1012 2010-11-13 21:35 usr/lib/libXevie.la
+drwxr-xr-x root/root         0 2010-11-13 21:35 usr/lib/pkgconfig/
+-rw-r--r-- root/root       243 2010-11-13 21:35 usr/lib/pkgconfig/xevie.pc
+-rwxr-xr-x root/root      4816 2010-11-13 21:35 usr/lib/libXevie.so.1.0.0
+drwxr-xr-x root/root         0 2013-02-27 19:56 install/
+-rw-r--r-- root/root       184 2013-02-27 19:56 install/doinst.sh
+-rw-r--r-- root/root       925 2013-02-27 19:56 install/slack-desc
+
+

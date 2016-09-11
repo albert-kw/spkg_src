@@ -1,0 +1,17 @@
+PACKAGE NAME:  libpciaccess-compat32-0.13.2-x86_64-1compat32.txz
+PACKAGE LOCATION:  ./slackware64-compat32/x-compat32
+PACKAGE SIZE (compressed):  16 K
+PACKAGE SIZE (uncompressed):  50 K
+PACKAGE DESCRIPTION:
+libpciaccess-compat32: libpciaccess-compat32 (Generic PCI access library)
+libpciaccess-compat32:
+libpciaccess-compat32: libpciaccess-compat32 is part of X11.
+libpciaccess-compat32:
+libpciaccess-compat32: For more information about the X.Org Foundation (the providers of the
+libpciaccess-compat32: X.Org implementation of the X Window System), see their website:
+libpciaccess-compat32:
+libpciaccess-compat32: http://www.x.org
+libpciaccess-compat32:
+libpciaccess-compat32:
+libpciaccess-compat32: This package contains 32-bit compatibility binaries.
+

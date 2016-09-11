@@ -1,0 +1,51 @@
+++========================================
+||
+||   Package:  ./slackware64-compat32/l-compat32/giflib-compat32-4.1.6-x86_64-1compat32.txz
+||
+++========================================
+drwxr-xr-x root/root         0 2013-10-20 15:50 ./
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/bin/
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/bin/32/
+-rwxr-xr-x root/root     13216 2010-02-09 19:10 usr/bin/32/gifhisto
+-rwxr-xr-x root/root     12972 2010-02-09 19:10 usr/bin/32/gifcomb
+-rwxr-xr-x root/root     13328 2010-02-09 19:10 usr/bin/32/gifbg
+-rwxr-xr-x root/root     13304 2010-02-09 19:10 usr/bin/32/gifflip
+-rwxr-xr-x root/root     13288 2010-02-09 19:10 usr/bin/32/gifrotat
+-rwxr-xr-x root/root     12360 2010-02-09 19:10 usr/bin/32/gifinfo
+-rwxr-xr-x root/root     13268 2010-02-09 19:10 usr/bin/32/gif2rgb
+-rwxr-xr-x root/root     11704 2010-02-09 19:10 usr/bin/32/gifwedge
+-rwxr-xr-x root/root     15312 2010-02-09 19:10 usr/bin/32/giftext
+-rwxr-xr-x root/root     17180 2010-02-09 19:10 usr/bin/32/gif2x11
+-rwxr-xr-x root/root     12632 2010-02-09 19:10 usr/bin/32/gifinter
+-rwxr-xr-x root/root     14548 2010-02-09 19:10 usr/bin/32/gifasm
+-rwxr-xr-x root/root     10664 2010-02-09 19:10 usr/bin/32/gifovly
+-rwxr-xr-x root/root     12368 2010-02-09 19:10 usr/bin/32/raw2gif
+-rwxr-xr-x root/root     12244 2010-02-09 19:10 usr/bin/32/gifpos
+-rwxr-xr-x root/root     11724 2010-02-09 19:10 usr/bin/32/gifcolor
+-rwxr-xr-x root/root     14188 2010-02-09 19:10 usr/bin/32/gif2ps
+-rwxr-xr-x root/root      5088 2010-02-09 19:10 usr/bin/32/giffiltr
+-rwxr-xr-x root/root     12404 2010-02-09 19:10 usr/bin/32/giffix
+-rwxr-xr-x root/root     14152 2010-02-09 19:10 usr/bin/32/gifrsize
+-rwxr-xr-x root/root     14952 2010-02-09 19:10 usr/bin/32/gif2epsn
+-rwxr-xr-x root/root      4064 2010-02-09 19:10 usr/bin/32/gifspnge
+-rwxr-xr-x root/root     12848 2010-02-09 19:10 usr/bin/32/rgb2gif
+-rwxr-xr-x root/root     11656 2010-02-09 19:10 usr/bin/32/gifinto
+-rwxr-xr-x root/root     14144 2010-02-09 19:10 usr/bin/32/gifclip
+-rwxr-xr-x root/root     19936 2010-02-09 19:10 usr/bin/32/icon2gif
+-rwxr-xr-x root/root     14744 2010-02-09 19:10 usr/bin/32/gifclrmp
+-rwxr-xr-x root/root     12196 2010-02-09 19:10 usr/bin/32/text2gif
+-rwxr-xr-x root/root      2456 2010-02-09 19:10 usr/bin/32/gifcompose
+-rwxr-xr-x root/root      1744 2010-02-09 19:10 usr/bin/32/gifburst
+drwxr-xr-x root/root         0 2010-02-09 19:10 usr/doc/
+drwxr-xr-x root/root         0 2013-10-20 15:50 usr/doc/giflib-4.1.6/
+-rw-r--r-- root/root      1088 2005-10-10 08:22 usr/doc/giflib-4.1.6/COPYING
+-rw-r--r-- root/root      1022 2005-11-06 17:32 usr/doc/giflib-4.1.6/AUTHORS
+drwxr-xr-x root/root         0 2010-02-09 19:10 usr/lib/
+-rwxr-xr-x root/root     31616 2010-02-09 19:10 usr/lib/libgif.so.4.1.6
+-rwxr-xr-x root/root       854 2010-02-09 19:10 usr/lib/libgif.la
+drwxr-xr-x root/root         0 2013-10-20 15:50 install/
+-rw-r--r-- root/root       342 2013-10-20 15:50 install/doinst.sh
+-rw-r--r-- root/root       947 2013-10-20 15:50 install/slack-desc
+
+

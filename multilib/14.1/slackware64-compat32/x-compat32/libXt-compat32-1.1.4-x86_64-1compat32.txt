@@ -1,0 +1,11 @@
+libXt-compat32: libXt-compat32 (X Toolkit Intrinsics library)
+libXt-compat32:
+libXt-compat32: libXt-compat32 is part of X11.
+libXt-compat32:
+libXt-compat32: For more information about the X.Org Foundation (the providers of the
+libXt-compat32: X.Org implementation of the X Window System), see their website:
+libXt-compat32:
+libXt-compat32: http://www.x.org
+libXt-compat32:
+libXt-compat32:
+libXt-compat32: This package contains 32-bit compatibility binaries.
