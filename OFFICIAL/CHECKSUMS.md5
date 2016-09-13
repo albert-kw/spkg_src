@@ -1,9 +1,10 @@
 
-3c274a767e3b80731d2e61b38ae5f8ed  ./PACKAGES.TXT.gz
+a7e21d211ecaf2284df97b73faf11416  ./PACKAGES.TXT.gz
 ec7b923360a9d21e2044639c3e5bf94e  ./libgksu-2.0.12-x86_64-2dj.txz
 8ccb6084607507b35c195fb2a55cbff3  ./gpgme-1.3.0-x86_64-1.txz
 34daf7b6092cf76f1dc1f7459d613ea4  ./sbopkg-0.37.0-noarch-1_cng.tgz
-4a7f170d694cf3433247b3bab80cda47  ./CHECKSUMS.md5.gz
+97aa708f716d682d1149ddb9f057778c  ./ibus-anthy-1.2.7-x86_64-1_SBo.tgz
+6b54afa5d06db1563378a709e9cbcbf7  ./CHECKSUMS.md5.gz
 d273bec65f105ef8b0becd95c928c248  ./libgnome-2.32.1-i486-1_nhh.tgz
 6f57d49abd31f9c02f4dcb034c46bbe8  ./wifi-network/wpa_supplicant-2.0-x86_64-1.txz
 aa11b66a0894e8052f941cb34d5f2db6  ./wifi-network/wireless-tools-29-x86_64-9.txz
